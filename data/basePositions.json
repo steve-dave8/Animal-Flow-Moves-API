@@ -1,0 +1,18 @@
+[
+    {
+      "base":"set static beast",
+      "imgSrc":"./AF-move-images/placeholder.png"
+    },
+    {
+      "base":"set static crab",
+      "imgSrc":"./AF-move-images/placeholder.png"
+    },
+    {
+      "base":"set deep ape",
+      "imgSrc":"./AF-move-images/placeholder.png"
+    },
+    {
+      "base":"set loaded beast",
+      "imgSrc":"./AF-move-images/placeholder.png"
+    }
+]
