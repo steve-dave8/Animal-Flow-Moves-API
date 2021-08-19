@@ -23,7 +23,7 @@ let moveTemplate =
 (ex: "return to loaded beast" and "pop back to loaded beast" are effectively the same as "set loaded beast" so "set loaded beast" would be the alias for these two;
 "return to crab" is not necessarily the same as "set static crab" though as you could transition into other movements);
 
->>>precursor is the required previous movement or position for the current move
+>>>precursor is the required previous movement or position for the current move. It is included when a movement can be done from multiple starting positions.
 (ex: "left leg scorpion reach" can be done from static beast or loaded beast so a precursor needs to be included;
 "continue the switch" doesn't indicate which side so precursor would be needed here too).
 

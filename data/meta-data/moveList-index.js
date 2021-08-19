@@ -33,6 +33,7 @@ right arm crab reach
 return to crab (precursor: right arm crab reach)
 
 >>>>>Switches and Transitions
+LEVEL 1
 left leg underswitch (precursor: static crab)
 right leg underswitch (precursor: static crab)
 left leg underswitch (precursor: static beast)
@@ -46,6 +47,23 @@ right leg jumping underswitch
 left leg levitating underswitch
 right leg levitating underswitch
 left leg side kickthrough
+    jump to left leg side kickthrough
 right leg side kickthrough
+    jump to right leg side kickthrough
+left leg front step
+right leg front step
+left leg front step through
+right leg front step through
+left leg front kickthrough
+    jump to left leg front kickthrough
+right leg front kickthrough
+    jump to right leg front kickthrough
+left leg scorpion switch
+right leg scorpion switch
+left leg full scorpion
+right leg full scorpion
+LEVEL 2
+left leg underswitch to ape
+right leg underswitch to ape
 
 */ 
