@@ -246,8 +246,8 @@
       "slide to right leg side kickthrough",
       "left leg front step",
       "right leg front step",
-      "left leg front stepthrough",
-      "right leg front stepthrough",
+      "left leg front step through",
+      "right leg front step through",
       "left leg front kickthrough",
       "right leg front kickthrough",
       "slide to left leg scorpion switch",
@@ -291,7 +291,7 @@
       "slide to left leg underswitch tap precursor static beast", 
       "slide to left leg side kickthrough",
       "left leg front step",
-      "left leg front stepthrough",
+      "left leg front step through",
       "continue the switch precursor left leg scorpion reach"
     ]
   },
@@ -314,7 +314,7 @@
       "slide to right leg underswitch tap precursor static beast", 
       "slide to right leg side kickthrough",
       "right leg front step",
-      "right leg front stepthrough",
+      "right leg front step through",
       "continue the switch precursor right leg scorpion reach"
     ]
   },
@@ -401,7 +401,7 @@
     "nextMoves":[
       "return to loaded beast",
       "left leg front step",
-      "left leg front stepthrough"
+      "left leg front step through"
     ]
   },
   {
@@ -433,7 +433,7 @@
     "nextMoves":[
       "return to loaded beast",
       "right leg front step",
-      "right leg front stepthrough"
+      "right leg front step through"
     ]
   },
   {
