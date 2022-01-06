@@ -3,11 +3,13 @@ dotenv.config();
 import express from 'express';
 import cors from 'cors';
 import path from 'path' ;
-import * as dataHandler from './src/util/dataHandler.js'
+import * as dataHandler from './src/util/dataHandler.js';
+
+import flowManagementRoutes from './src/routes/flowManagementRoutes.js';
 
 //Data filepaths:
-const basesFile = path.resolve(process.env.DATA_BASE_POSITIONS);
-const movesFile = path.resolve(process.env.DATA_MOVELIST);
+const basesFile = path.resolve('./data/basePositions.json');
+const movesFile = path.resolve('./data/moveList.json');
 
 const port = process.env.PORT || 4000;
 const app = express();
@@ -15,6 +17,8 @@ app.use(cors());
 app.use(express.json());
 
 // Routes
+app.use("/", flowManagementRoutes);
+
 app.get('/base-positions', async (req, res, next) => {
     try {
         let data = await dataHandler.getAll(basesFile);
@@ -24,6 +28,7 @@ app.get('/base-positions', async (req, res, next) => {
         return next(err);
     };
 });
+
 app.get('/move-list', async (req, res, next) => {
     try {
         let data = await dataHandler.getAll(movesFile);
@@ -33,7 +38,6 @@ app.get('/move-list', async (req, res, next) => {
         return next(err);
     };
 });
-
 
 // Global error handler
 app.use((err, req, res, next) => {

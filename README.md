@@ -47,16 +47,17 @@ See also "data/meta-data/moveList-index.js" for a quick look at the movements av
 
 `GET /move-list`
 
+3. For saved flows:
+
+`POST /saved-flows`
+`GET /saved-flows`
+`PATCH /saved-flows/:id`
+`DELETE /saved-flows/:id`
+
 ### Dependencies
 
-cors ; dotenv ; esm ; express ; nodemon (as a dev dependency)
+cors ; dotenv ; esm ; express ; nodemon (as a dev dependency) ; uuid
 
 ### Environment Setup
 
-Create a .env file in your main folder. In this file add the following: 
-
-PORT=
-
-DATA_BASE_POSITIONS=./data/basePositions.json
-
-DATA_MOVELIST=./data/moveList.json
+Create a .env file in your main folder and set a PORT variable. Example: `PORT=4000`
