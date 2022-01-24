@@ -13,7 +13,7 @@ router.post('/saved-flows', async (req, res, next) => {
         let content = await dataHandler.getAll(flowsFile);
         const duplicate = content.find(x => x.name.toLowerCase().replace(/\s+/g, '') === req.body.name.toLowerCase().replace(/\s+/g, ''));
         if (duplicate){
-            return res.status(400).json("A flow with that name already exists.");
+            return res.status(400).json("Error: a flow with that name already exists.");
         }
         else {
             const newEntry = {
@@ -40,22 +40,22 @@ router.get('/saved-flows', async (req, res, next) => {
     };
 });
 
-router.delete('/saved-flows/:id', async (req, res, next) => {
-    try {
-        await dataHandler.deleteData(flowsFile, req.params.id);
-        return res.status(204).json();
-    } catch (err) {
-        console.error(err);
-        return next(err);
-    };
-});
-
 router.patch('/saved-flows/:id', async (req, res, next) => {
     try {
         let content = await dataHandler.getAll(flowsFile);
         const index = content.findIndex(x => x.id === req.params.id);
         content[index].flow = req.body.flow;
         await dataHandler.write(flowsFile, content);
+    } catch (err) {
+        console.error(err);
+        return next(err);
+    };
+});
+
+router.delete('/saved-flows/:id', async (req, res, next) => {
+    try {
+        await dataHandler.deleteData(flowsFile, req.params.id);
+        return res.status(204).json();
     } catch (err) {
         console.error(err);
         return next(err);

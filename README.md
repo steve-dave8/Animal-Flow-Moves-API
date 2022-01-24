@@ -49,14 +49,14 @@ See also "data/meta-data/moveList-index.js" for a quick look at the movements av
 
 3. For saved flows:
 
-`POST /saved-flows`
-`GET /saved-flows`
-`PATCH /saved-flows/:id`
+`POST /saved-flows` ,
+`GET /saved-flows` ,
+`PATCH /saved-flows/:id` ,
 `DELETE /saved-flows/:id`
 
 ### Dependencies
 
-cors ; dotenv ; esm ; express ; nodemon (as a dev dependency) ; uuid
+bcrypt ; cors ; dotenv ; esm ; express ; jsonwebtoken ; mongoose ; nodemon (as a dev dependency) ; uuid
 
 ### Environment Setup
 
