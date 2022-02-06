@@ -48,11 +48,21 @@ See also "data/meta-data/moveList-index.js" for a quick look at the movements av
 `GET /move-list`
 
 3. For saved flows:
+Flows can be saved locally to a user's device/app instance (using fs module) or a user can create an account to save their flows to a database (MongoDB) to be able to access them anywhere when logged in.
 
-`POST /saved-flows` ,
-`GET /saved-flows` ,
-`PATCH /saved-flows/:id` ,
-`DELETE /saved-flows/:id`
+| Methods       | Local Endpoint     | User Account Endpoint  |
+| ------------- | ------------------ | ---------------------- |
+| POST          | '/saved-flows'     | '/users/saved-flows'   |
+| GET           | '/saved-flows'     | '/users/saved-flows/:userEmail' |
+| PATCH, DELETE | '/saved-flows/:id' | '/users/saved-flows/:id' |
+
+4. User account creation:
+
+`POST /users`
+
+5. User login:
+
+`POST /auth`
 
 ### Dependencies
 
@@ -60,4 +70,4 @@ bcrypt ; cors ; dotenv ; esm ; express ; jsonwebtoken ; mongoose ; nodemon (as a
 
 ### Environment Setup
 
-Create a .env file in your main folder and set a PORT variable. Example: `PORT=4000`
+Create a .env file in your main folder and set a PORT variable. Example: `PORT=4000`. Also set a JWT_SECRET variable.

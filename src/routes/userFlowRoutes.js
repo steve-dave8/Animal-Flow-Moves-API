@@ -28,6 +28,13 @@ router.post('/users/saved-flows', jwtVerify, async (req, res, next) => {
 router.get('/users/saved-flows/:userEmail', jwtVerify, async (req, res, next) => {
     try {
         const userFlows = await Flow.find({userEmail: req.params.userEmail}).exec();
+        userFlows.sort((a, b) => {
+            let nameA = a.name.toLowerCase();
+            let nameB = b.name.toLowerCase();
+            if(nameA < nameB) return -1;
+            if(nameA > nameB) return 1;
+            return 0;
+        });
         return res.json(userFlows);
     } catch (err) {
         console.error(err);
@@ -38,7 +45,6 @@ router.get('/users/saved-flows/:userEmail', jwtVerify, async (req, res, next) =>
 router.patch('/users/saved-flows/:id', jwtVerify, async (req, res, next) => {
     try {
         const update = await Flow.findByIdAndUpdate(req.params.id, {
-            name: req.body.name,
             flow: req.body.flow
         }, {new: true});
         if(!update) {

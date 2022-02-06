@@ -2,11 +2,12 @@ import express from 'express';
 import jwt from 'jsonwebtoken';
 import User from '../../data/models/user.model.js';
 import { createHash, verifyHash } from '../util/hasher.js';
+import { validateNewUser } from '../middleware/validation.js';
 
 const router = express.Router();
 
 //Create a new user:
-router.post('/users', async (req, res, next) => {
+router.post('/users', validateNewUser, async (req, res, next) => {
     try {
         const duplicate = await User.findOne({email: req.body.email}).exec();
         if (duplicate) {
@@ -40,8 +41,8 @@ router.post('/auth', async (req, res, next) => {
             return res.status(401).json("Error: incorrect password.");
         };
         const userEmail = req.body.email;
-        const token = jwt.sign({userEmail}, process.env.JWT_SECRET, {expiresIn: "3h"});      
-        return res.json({token});
+        const token = jwt.sign({userEmail}, process.env.JWT_SECRET);      
+        return res.json({token, userName: user.name});
     } catch (err) {
         console.error(err);
         return next(err);

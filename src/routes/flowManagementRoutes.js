@@ -33,6 +33,13 @@ router.post('/saved-flows', async (req, res, next) => {
 router.get('/saved-flows', async (req, res, next) => {
     try {
         let data = await dataHandler.getAll(flowsFile);
+        data.sort((a, b) => {
+            let nameA = a.name.toLowerCase();
+            let nameB = b.name.toLowerCase();
+            if(nameA < nameB) return -1;
+            if(nameA > nameB) return 1;
+            return 0;
+        });
         return res.json(data);
     } catch (err) {
         console.error(err);
