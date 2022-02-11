@@ -14,7 +14,8 @@ A backend API that provides information on Animal Flow movements. Here is a samp
     "callout":{
         "keyPhrase":null,
         "direction":"left leg",
-        "command":"underswitch"
+        "command":"underswitch",
+        "shorthand":"LL US"
     },
     "nextMoves":[
         "set loaded beast",
