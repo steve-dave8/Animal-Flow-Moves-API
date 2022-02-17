@@ -13,7 +13,8 @@
         "callout": {
           "keyPhrase": "set",
           "direction": null,
-          "command": "static crab"
+          "command": "static crab",
+          "shorthand":"Crab"
         },
         "nextMoves": [
           "set deep ape",
@@ -43,7 +44,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": "left leg",
-          "command": "jumping underswitch"
+          "command": "jumping underswitch",
+          "shorthand":"LL JUS"
         },
         "nextMoves": [
           "set deep ape",
@@ -79,7 +81,8 @@
         "callout": {
           "keyPhrase": "to",
           "direction": "right leg",
-          "command": "side kickthrough"
+          "command": "side kickthrough",
+          "shorthand":"- RL SKT"
         },
         "nextMoves": []
       },
@@ -93,7 +96,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": "right leg",
-          "command": "jumping underswitch"
+          "command": "jumping underswitch",
+          "shorthand":"RL JUS"
         },
         "nextMoves": [
           "set deep ape",
@@ -129,7 +133,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": "right leg",
-          "command": "jumping underswitch"
+          "command": "jumping underswitch",
+          "shorthand":"RL JUS"
         },
         "nextMoves": [
           "set deep ape",
@@ -165,7 +170,8 @@
         "callout": {
           "keyPhrase": "to",
           "direction": "left leg",
-          "command": "side kickthrough"
+          "command": "side kickthrough",
+          "shorthand":"- LL SKT"
         },
         "nextMoves": []
       },
@@ -179,7 +185,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": "left leg",
-          "command": "jumping underswitch"
+          "command": "jumping underswitch",
+          "shorthand":"LL JUS"
         },
         "nextMoves": [
           "set deep ape",
@@ -221,7 +228,8 @@
         "callout": {
           "keyPhrase": "set",
           "direction": null,
-          "command": "static crab"
+          "command": "static crab",
+          "shorthand":"Crab"
         },
         "nextMoves": [
           "set deep ape",
@@ -251,7 +259,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": "left leg",
-          "command": "jumping underswitch"
+          "command": "jumping underswitch",
+          "shorthand":"LL JUS"
         },
         "nextMoves": [
           "set deep ape",
@@ -287,7 +296,8 @@
         "callout": {
           "keyPhrase": "to",
           "direction": "right leg",
-          "command": "side kickthrough"
+          "command": "side kickthrough",
+          "shorthand":"- RL SKT"
         },
         "nextMoves": []
       },
@@ -301,7 +311,8 @@
         "callout": {
           "keyPhrase": "jump to",
           "direction": "left leg",
-          "command": "side kickthrough"
+          "command": "side kickthrough",
+          "shorthand":"J - LL SKT"
         },
         "nextMoves": []
       },
@@ -315,7 +326,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": "left leg",
-          "command": "jumping underswitch"
+          "command": "jumping underswitch",
+          "shorthand":"LL JUS"
         },
         "nextMoves": [
           "set deep ape",
@@ -351,7 +363,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": "left leg",
-          "command": "full scorpion"
+          "command": "full scorpion",
+          "shorthand":"LL FS"
         },
         "nextMoves": [
           "set static crab",
@@ -375,7 +388,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": "right leg",
-          "command": "full scorpion"
+          "command": "full scorpion",
+          "shorthand":"RL FS"
         },
         "nextMoves": [
           "set static crab",
@@ -399,7 +413,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": "left leg",
-          "command": "underswitch"
+          "command": "underswitch",
+          "shorthand":"LL US"
         },
         "nextMoves": [
           "set deep ape",
@@ -429,7 +444,8 @@
         "callout": {
           "keyPhrase": "into",
           "direction": null,
-          "command": "loaded beast"
+          "command": "loaded beast",
+          "shorthand":"- LB"
         },
         "nextMoves": []
       },
@@ -443,7 +459,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": "right leg",
-          "command": "front kickthrough"
+          "command": "front kickthrough",
+          "shorthand":"RL FKT"
         },
         "nextMoves": [
           "return to loaded beast",
@@ -474,7 +491,8 @@
         "callout": {
           "keyPhrase": "pop back to",
           "direction": null,
-          "command": "loaded beast"
+          "command": "loaded beast",
+          "shorthand":"pop back to LB"
         },
         "nextMoves": []
       },
@@ -488,7 +506,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": "left leg",
-          "command": "front kickthrough"
+          "command": "front kickthrough",
+          "shorthand":"LL FKT"
         },
         "nextMoves": [
           "return to loaded beast",
@@ -519,7 +538,8 @@
         "callout": {
           "keyPhrase": "pop back to",
           "direction": null,
-          "command": "loaded beast"
+          "command": "loaded beast",
+          "shorthand":"pop back to LB"
         },
         "nextMoves": []
       },
@@ -533,7 +553,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": "right leg",
-          "command": "underswitch"
+          "command": "underswitch",
+          "shorthand":"RL US"
         },
         "nextMoves": [
           "set deep ape",
@@ -573,7 +594,8 @@
         "callout": {
           "keyPhrase": "set",
           "direction": null,
-          "command": "loaded beast"
+          "command": "loaded beast",
+          "shorthand":"LB"
         },
         "nextMoves": [
           "set static beast",
@@ -614,7 +636,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": null,
-          "command": "loaded beast unload"
+          "command": "loaded beast unload",
+          "shorthand":"LBU"
         },
         "nextMoves": [
           "set static beast",
@@ -652,7 +675,8 @@
         "callout": {
           "keyPhrase": "return to",
           "direction": null,
-          "command": "loaded beast"
+          "command": "loaded beast",
+          "shorthand":"- LB"
         },
         "nextMoves": []
       },
@@ -666,7 +690,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": null,
-          "command": "beast wave unload"
+          "command": "beast wave unload",
+          "shorthand":"WU"
         },
         "nextMoves": [
           "return to loaded beast"
@@ -682,7 +707,8 @@
         "callout": {
           "keyPhrase": "return to",
           "direction": null,
-          "command": "loaded beast"
+          "command": "loaded beast",
+          "shorthand":"- LB"
         },
         "nextMoves": []
       },
@@ -696,7 +722,8 @@
         "callout": {
           "keyPhrase": "set",
           "direction": null,
-          "command": "deep ape"
+          "command": "deep ape",
+          "shorthand":"Ape"
         },
         "nextMoves": [
           "set static beast",
@@ -719,7 +746,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": null,
-          "command": "ape reach"
+          "command": "ape reach",
+          "shorthand":"AR"
         },
         "nextMoves": [
           "fall back to crab",
@@ -737,7 +765,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": null,
-          "command": "open"
+          "command": "open",
+          "shorthand":null
         },
         "nextMoves": [
           "return to ape reach",
@@ -757,7 +786,8 @@
         "callout": {
           "keyPhrase": "return to",
           "direction": null,
-          "command": "ape reach"
+          "command": "ape reach",
+          "shorthand":"- AR"
         },
         "nextMoves": []
       },
@@ -771,7 +801,8 @@
         "callout": {
           "keyPhrase": "fall back to",
           "direction": null,
-          "command": "crab"
+          "command": "crab",
+          "shorthand":null
         },
         "nextMoves": []
       },
@@ -785,7 +816,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": "left arm",
-          "command": "crab reach"
+          "command": "crab reach",
+          "shorthand":"LA CR"
         },
         "nextMoves": [
           "return to crab precursor left arm crab reach"
@@ -801,7 +833,8 @@
         "callout": {
           "keyPhrase": "return to",
           "direction": null,
-          "command": "crab"
+          "command": "crab",
+          "shorthand":"- Crab"
         },
         "nextMoves": [
           "set deep ape",
@@ -837,7 +870,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": "right arm",
-          "command": "crab reach"
+          "command": "crab reach",
+          "shorthand":"RA CR"
         },
         "nextMoves": [
           "return to crab precursor right arm crab reach"
@@ -853,7 +887,8 @@
         "callout": {
           "keyPhrase": "return to",
           "direction": null,
-          "command": "crab"
+          "command": "crab",
+          "shorthand":"- Crab"
         },
         "nextMoves": [
           "set deep ape",
@@ -889,7 +924,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": "left leg",
-          "command": "underswitch"
+          "command": "underswitch",
+          "shorthand":"LL US"
         },
         "nextMoves": [
           "set deep ape",
@@ -919,7 +955,8 @@
         "callout": {
           "keyPhrase": "into",
           "direction": null,
-          "command": "loaded beast"
+          "command": "loaded beast",
+          "shorthand":"- LB"
         },
         "nextMoves": []
       },
@@ -933,7 +970,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": "left leg",
-          "command": "beast reach"
+          "command": "beast reach",
+          "shorthand":"LL BR"
         },
         "nextMoves": [
           "return to loaded beast",
@@ -951,7 +989,8 @@
         "callout": {
           "keyPhrase": "return to",
           "direction": null,
-          "command": "loaded beast"
+          "command": "loaded beast",
+          "shorthand":"- LB"
         },
         "nextMoves": []
       },
@@ -965,7 +1004,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": "right leg",
-          "command": "beast reach"
+          "command": "beast reach",
+          "shorthand":"RL BR"
         },
         "nextMoves": [
           "return to loaded beast",
@@ -983,7 +1023,8 @@
         "callout": {
           "keyPhrase": "return to",
           "direction": null,
-          "command": "loaded beast"
+          "command": "loaded beast",
+          "shorthand":"- LB"
         },
         "nextMoves": []
       },
@@ -997,7 +1038,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": "left leg",
-          "command": "scorpion reach"
+          "command": "scorpion reach",
+          "shorthand":"LL SR"
         },
         "nextMoves": [
           "return to loaded beast",
@@ -1020,7 +1062,8 @@
         "callout": {
           "keyPhrase": "return to",
           "direction": null,
-          "command": "loaded beast"
+          "command": "loaded beast",
+          "shorthand":"- LB"
         },
         "nextMoves": []
       },
@@ -1034,7 +1077,8 @@
         "callout": {
           "keyPhrase": null,
           "direction": "right leg",
-          "command": "scorpion reach"
+          "command": "scorpion reach",
+          "shorthand":"RL SR"
         },
         "nextMoves": [
           "return to loaded beast",
@@ -1057,7 +1101,8 @@
         "callout": {
           "keyPhrase": "return to",
           "direction": null,
-          "command": "loaded beast"
+          "command": "loaded beast",
+          "shorthand":"- LB"
         },
         "nextMoves": []
       }
