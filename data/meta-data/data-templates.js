@@ -19,7 +19,7 @@ let moveTemplate =
 /*
 >>>move is the full callout (ex: "left leg scorpion reach");
 
->>>alias is another move that's effectively the same as the current move just with a different callout
+>>>alias is another move that's effectively the same as the current move just with a different callout and transition
 (ex: "return to loaded beast" and "pop back to loaded beast" are effectively the same as "set loaded beast" so "set loaded beast" would be the alias for these two;
 "return to crab" is not necessarily the same as "set static crab" though as you could transition into other movements);
 
@@ -34,7 +34,7 @@ let moveTemplate =
 >>>callout:
 
   >>>key phrases options: set, return to, slide to, fall back to, pop back to, to, into, jump to, levitate to,
-  push back to,
+  push back to, float to,
   ...(TODO: add all options)
 
   >>>direction: for this API the direction is the combination of direction/side and limb.

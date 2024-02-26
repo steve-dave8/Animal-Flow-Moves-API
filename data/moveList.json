@@ -50,12 +50,16 @@
       "right leg underswitch tap precursor static crab",
       "left leg jumping underswitch",
       "right leg jumping underswitch",
-      "left leg levitating underswitch",
-      "right leg levitating underswitch",
       "left leg full scorpion",
       "right leg full scorpion",
       "left leg underswitch to ape",
-      "right leg underswitch to ape"
+      "right leg underswitch to ape",
+      "left leg jumping underswitch shift",
+      "right leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift"
     ]
   },
   {
@@ -601,15 +605,19 @@
       "left leg jumping underswitch",
       "right leg jumping underswitch",
       "into right leg jumping underswitch",
-      "left leg levitating underswitch",
-      "right leg levitating underswitch",
-      "into right leg levitating underswitch",
       "left leg full scorpion",
       "right leg full scorpion",
       "into right leg full scorpion",
       "left leg underswitch to ape",
       "right leg underswitch to ape",
-      "into right leg underswitch to ape"
+      "into right leg underswitch to ape",
+      "into right leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "right leg levitating underswitch",
+      "into right leg levitating underswitch",
+      "right leg levitating underswitch shift",
+      "into right leg levitating underswitch shift"
     ]
   },
   {
@@ -669,16 +677,20 @@
       "right leg underswitch tap precursor static crab",
       "left leg jumping underswitch",
       "into left leg jumping underswitch",
-      "right leg jumping underswitch",
-      "left leg levitating underswitch",
-      "into left leg levitating underswitch",
-      "right leg levitating underswitch",     
+      "right leg jumping underswitch",    
       "left leg full scorpion",
       "into left leg full scorpion",
       "right leg full scorpion",
       "left leg underswitch to ape",
       "into left leg underswitch to ape",
-      "right leg underswitch to ape"
+      "right leg underswitch to ape",
+      "into left leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "into left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "into left leg levitating underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift"
     ]
   },
   {
@@ -797,15 +809,19 @@
       "right leg underswitch tap precursor static crab",
       "left leg jumping underswitch",
       "right leg jumping underswitch",
-      "left leg levitating underswitch",
-      "right leg levitating underswitch",
       "left leg full scorpion",
       "right leg full scorpion",
       "left leg underswitch to ape",
       "right leg underswitch to ape",
       "into left side crocodile roll",
       "into right leg roll through",
-      "into left side pop out"
+      "into left side pop out",
+      "left leg jumping underswitch shift",
+      "right leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "right leg levitating underswitch shift",
+      "right leg levitating underswitch"
     ]
   },
   {
@@ -862,15 +878,19 @@
       "right leg underswitch tap precursor static crab",
       "left leg jumping underswitch",
       "right leg jumping underswitch",
-      "left leg levitating underswitch",
-      "right leg levitating underswitch",
       "left leg full scorpion",
       "right leg full scorpion",
       "left leg underswitch to ape",
       "right leg underswitch to ape",
       "into right side crocodile roll",
       "into left leg roll through",
-      "into right side pop out"
+      "into right side pop out",
+      "left leg jumping underswitch shift",
+      "right leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "right leg levitating underswitch shift",
+      "right leg levitating underswitch"
     ]
   },
   {
@@ -927,8 +947,6 @@
       "right leg underswitch tap precursor static crab",
       "left leg jumping underswitch",
       "right leg jumping underswitch",
-      "left leg levitating underswitch",
-      "right leg levitating underswitch",
       "to left leg side kickthrough",
       "left leg full scorpion",
       "right leg full scorpion",
@@ -936,7 +954,13 @@
       "right leg underswitch to ape",
       "into left side crocodile roll",
       "into right leg roll through",
-      "into left side pop out"
+      "into left side pop out",
+      "left leg jumping underswitch shift",
+      "right leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift"
     ]
   },
   {
@@ -978,8 +1002,6 @@
       "right leg underswitch tap precursor static crab",
       "left leg jumping underswitch",
       "right leg jumping underswitch",
-      "left leg levitating underswitch",
-      "right leg levitating underswitch",
       "to right leg side kickthrough",
       "left leg full scorpion",
       "right leg full scorpion",
@@ -987,7 +1009,13 @@
       "right leg underswitch to ape",  
       "into right side crocodile roll",
       "into left leg roll through",
-      "into right side pop out"
+      "into right side pop out",
+      "left leg jumping underswitch shift",
+      "right leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "right leg levitating underswitch shift",
+      "right leg levitating underswitch"
     ]
   },
   {
@@ -1032,11 +1060,13 @@
       "left leg underswitch tap precursor static beast",
       "right leg underswitch tap precursor static beast",
       "into left leg jumping underswitch",
-      "into left leg levitating underswitch",
       "left leg side kickthrough",
       "right leg side kickthrough",
       "into left leg full scorpion",
-      "into right leg scorpion sweep"
+      "into right leg scorpion sweep",
+      "into left leg jumping underswitch shift",
+      "into left leg levitating underswitch",
+      "into left leg levitating underswitch shift"
     ]
   },
   {
@@ -1096,11 +1126,13 @@
       "left leg underswitch tap precursor static beast",
       "right leg underswitch tap precursor static beast",
       "into right leg jumping underswitch",
-      "into right leg levitating underswitch",
       "left leg side kickthrough",
       "right leg side kickthrough",
       "into right leg full scorpion",
-      "into left leg scorpion sweep"
+      "into left leg scorpion sweep",
+      "into right leg jumping underswitch shift",
+      "into right leg levitating underswitch",
+      "into right leg levitating underswitch shift"
     ]
   },
   {
@@ -1157,8 +1189,6 @@
       "right leg underswitch tap precursor static crab",
       "left leg jumping underswitch",
       "right leg jumping underswitch",
-      "left leg levitating underswitch",
-      "right leg levitating underswitch",
       "to right leg side kickthrough",
       "to right leg front kickthrough",
       "left leg full scorpion",
@@ -1167,7 +1197,13 @@
       "right leg underswitch to ape",
       "into right side crocodile roll",
       "into left leg roll through",
-      "into right side pop out"   
+      "into right side pop out",
+      "left leg jumping underswitch shift",
+      "right leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift"
     ]
   },
   {
@@ -1209,8 +1245,6 @@
       "right leg underswitch tap precursor static crab",
       "left leg jumping underswitch",
       "right leg jumping underswitch",
-      "left leg levitating underswitch",
-      "right leg levitating underswitch",
       "to left leg side kickthrough",
       "to left leg front kickthrough",
       "left leg full scorpion",
@@ -1219,7 +1253,13 @@
       "right leg underswitch to ape",
       "into left side crocodile roll",
       "into right leg roll through",
-      "into left side pop out" 
+      "into left side pop out",
+      "left leg jumping underswitch shift",
+      "right leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift"
     ]
   },
   {
@@ -1234,110 +1274,6 @@
       "direction":"right leg",
       "command":"jumping underswitch",
       "shorthand":"- RL JUS"
-    },
-    "nextMoves":[]
-  },
-  {
-    "move":"left leg levitating underswitch",
-    "alias":null,
-    "precursor":null,
-    "imgSrc":"./AF-move-images/placeholder.png",
-    "level":"1",
-    "component":"switches and transitions",
-    "callout":{
-      "keyPhrase":null,
-      "direction":"left leg",
-      "command":"levitating underswitch",
-      "shorthand":"LL LUS"
-    },
-    "nextMoves":[
-      "set deep ape",
-      "left arm crab reach",
-      "into left arm crab reach",
-      "right arm crab reach",
-      "left leg underswitch precursor static crab",
-      "right leg underswitch precursor static crab",
-      "left leg underswitch tap precursor static crab",
-      "right leg underswitch tap precursor static crab",
-      "left leg jumping underswitch",
-      "right leg jumping underswitch",
-      "left leg levitating underswitch",
-      "right leg levitating underswitch",
-      "to right leg side kickthrough",
-      "to right leg front kickthrough",
-      "left leg full scorpion",
-      "right leg full scorpion",
-      "left leg underswitch to ape",
-      "right leg underswitch to ape",
-      "into right side crocodile roll",
-      "into left leg roll through",
-      "into right side pop out"   
-    ]
-  },
-  {
-    "move":"into left leg levitating underswitch",
-    "alias":"left leg levitating underswitch",
-    "precursor":null,
-    "imgSrc":"./AF-move-images/placeholder.png",
-    "level":"1",
-    "component":"switches and transitions",
-    "callout":{
-      "keyPhrase":"into",
-      "direction":"left leg",
-      "command":"levitating underswitch",
-      "shorthand":"- LL LUS"
-    },
-    "nextMoves":[]
-  },
-  {
-    "move":"right leg levitating underswitch",
-    "alias":null,
-    "precursor":null,
-    "imgSrc":"./AF-move-images/placeholder.png",
-    "level":"1",
-    "component":"switches and transitions",
-    "callout":{
-      "keyPhrase":null,
-      "direction":"right leg",
-      "command":"levitating underswitch",
-      "shorthand":"RL LUS"
-    },
-    "nextMoves":[
-      "set deep ape",
-      "left arm crab reach",
-      "right arm crab reach",
-      "into right arm crab reach",
-      "left leg underswitch precursor static crab",
-      "right leg underswitch precursor static crab",
-      "left leg underswitch tap precursor static crab",
-      "right leg underswitch tap precursor static crab",
-      "left leg jumping underswitch",
-      "right leg jumping underswitch",
-      "left leg levitating underswitch",
-      "right leg levitating underswitch",
-      "to left leg side kickthrough",
-      "to left leg front kickthrough",
-      "left leg full scorpion",
-      "right leg full scorpion",
-      "left leg underswitch to ape",
-      "right leg underswitch to ape",
-      "into left side crocodile roll",
-      "into right leg roll through",
-      "into left side pop out" 
-    ]
-  },
-  {
-    "move":"into right leg levitating underswitch",
-    "alias":"right leg levitating underswitch",
-    "precursor":null,
-    "imgSrc":"./AF-move-images/placeholder.png",
-    "level":"1",
-    "component":"switches and transitions",
-    "callout":{
-      "keyPhrase":"into",
-      "direction":"right leg",
-      "command":"levitating underswitch",
-      "shorthand":"- RL LUS"
     },
     "nextMoves":[]
   },
@@ -1360,7 +1296,6 @@
       "left leg underswitch precursor static crab",
       "left leg underswitch tap precursor static crab",
       "left leg jumping underswitch",
-      "left leg levitating underswitch",
       "jump to right leg side kickthrough",
       "levitate to right leg side kickthrough",
       "jump to right leg front kickthrough",
@@ -1368,7 +1303,10 @@
       "left leg full scorpion",
       "left leg underswitch to ape",
       "left side crocodile roll",
-      "right leg roll through"
+      "right leg roll through",
+      "left leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift"
     ]
   },
   {
@@ -1465,7 +1403,6 @@
       "right leg underswitch precursor static crab",
       "right leg underswitch tap precursor static crab",
       "right leg jumping underswitch",
-      "right leg levitating underswitch",
       "jump to left leg side kickthrough",
       "levitate to left leg side kickthrough",
       "jump to left leg front kickthrough",   
@@ -1473,7 +1410,10 @@
       "right leg full scorpion",
       "right leg underswitch to ape",
       "right side crocodile roll",
-      "left leg roll through"
+      "left leg roll through",
+      "right leg jumping underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift"
     ]
   },
   {
@@ -1885,11 +1825,13 @@
       "right leg underswitch precursor static crab",
       "right leg underswitch tap precursor static crab",
       "right leg jumping underswitch",
-      "right leg levitating underswitch",
       "right leg full scorpion",
       "right leg underswitch to ape",
       "left leg roll through",
-      "close the gap precursor right leg roll through"
+      "close the gap precursor right leg roll through",
+      "right leg jumping underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift"
 
     ]
   },
@@ -1941,11 +1883,13 @@
       "right leg underswitch precursor static crab",
       "right leg underswitch tap precursor static crab",
       "right leg jumping underswitch",
-      "right leg levitating underswitch",
       "right leg full scorpion",
       "right leg underswitch to ape",
       "left leg roll through",
-      "close the gap precursor right leg roll through"
+      "close the gap precursor right leg roll through",
+      "right leg jumping underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift"
     ]
   },
   {
@@ -1966,11 +1910,13 @@
       "left leg underswitch precursor static crab",
       "left leg underswitch tap precursor static crab",
       "left leg jumping underswitch",
-      "left leg levitating underswitch",
       "left leg full scorpion",
       "left leg underswitch to ape",
       "right leg roll through",
-      "close the gap precursor left leg roll through"
+      "close the gap precursor left leg roll through",
+      "left leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift"
     ]
   },
   {
@@ -2021,11 +1967,13 @@
       "left leg underswitch precursor static crab",
       "left leg underswitch tap precursor static crab",
       "left leg jumping underswitch",
-      "left leg levitating underswitch",
       "left leg full scorpion",
       "left leg underswitch to ape",
       "right leg roll through",
-      "close the gap precursor left leg roll through"
+      "close the gap precursor left leg roll through",
+      "left leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift"
     ]
   },
   {
@@ -2046,11 +1994,13 @@
       "right leg underswitch precursor static crab",
       "right leg underswitch tap precursor static crab",
       "right leg jumping underswitch",
-      "right leg levitating underswitch",
       "right leg full scorpion",
       "right leg underswitch to ape",
       "left leg roll through",
-      "close the gap precursor right leg roll through"
+      "close the gap precursor right leg roll through",
+      "right leg jumping underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift"
     ]
   },
   {
@@ -2086,11 +2036,13 @@
       "left leg underswitch precursor static crab",
       "left leg underswitch tap precursor static crab",
       "left leg jumping underswitch",
-      "left leg levitating underswitch",
       "left leg full scorpion",
       "left leg underswitch to ape",
       "right leg roll through",
-      "close the gap precursor left leg roll through"
+      "close the gap precursor left leg roll through",
+      "left leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift"
     ]
   },
   {
@@ -2207,14 +2159,18 @@
       "right leg underswitch tap precursor static crab",
       "left leg jumping underswitch",
       "right leg jumping underswitch",
-      "left leg levitating underswitch",
-      "right leg levitating underswitch",
       "left leg full scorpion",
       "right leg full scorpion",
       "left leg underswitch to ape",
       "right leg underswitch to ape",
       "into right leg roll through",
-      "into left side crocodile roll"
+      "into left side crocodile roll",
+      "left leg jumping underswitch shift",
+      "right leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift"
     ]
   },
   {
@@ -2240,14 +2196,18 @@
       "right leg underswitch tap precursor static crab",
       "left leg jumping underswitch",
       "right leg jumping underswitch",
-      "left leg levitating underswitch",
-      "right leg levitating underswitch",
       "left leg full scorpion",
       "right leg full scorpion",
       "left leg underswitch to ape",
       "right leg underswitch to ape",
       "into left leg roll through",
-      "into right side crocodile roll"
+      "into right side crocodile roll",
+      "left leg jumping underswitch shift",
+      "right leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift"
     ]
   },
   {
@@ -2487,10 +2447,12 @@
       "left leg underswitch precursor static crab",
       "left leg underswitch tap precursor static crab",
       "left leg jumping underswitch",
-      "left leg levitating underswitch",
       "left leg full scorpion",
       "left leg underswitch to ape",
-      "right leg roll through"
+      "right leg roll through",
+      "left leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift"
     ]
   },
   {
@@ -2590,10 +2552,12 @@
       "right leg underswitch precursor static crab",
       "right leg underswitch tap precursor static crab",
       "right leg jumping underswitch",
-      "right leg levitating underswitch",
       "right leg full scorpion",
       "right leg underswitch to ape",
-      "left leg roll through"
+      "left leg roll through",
+      "right leg jumping underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift"
     ]
   },
   {
@@ -2615,7 +2579,6 @@
       "left leg underswitch precursor static crab",
       "left leg underswitch tap precursor static crab",
       "left leg jumping underswitch",
-      "left leg levitating underswitch",
       "jump to right leg side kickthrough",
       "levitate to right leg side kickthrough",
       "jump to right leg front kickthrough",
@@ -2623,7 +2586,10 @@
       "left leg full scorpion",
       "left leg underswitch to ape",
       "right leg roll through",
-      "close the gap precursor left leg roll through"
+      "close the gap precursor left leg roll through",
+      "left leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift"
     ]
   },
   {
@@ -2679,7 +2645,6 @@
       "right leg underswitch precursor static crab",
       "right leg underswitch tap precursor static crab",
       "right leg jumping underswitch",
-      "right leg levitating underswitch",
       "jump to left leg side kickthrough",
       "levitate to left leg side kickthrough",
       "jump to left leg front kickthrough",
@@ -2687,7 +2652,10 @@
       "right leg full scorpion",
       "right leg underswitch to ape",
       "left leg roll through",
-      "close the gap precursor right leg roll through"
+      "close the gap precursor right leg roll through",
+      "right leg jumping underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift"
     ]
   },
   {
@@ -2829,6 +2797,238 @@
       "direction":null,
       "command":"pop out",
       "shorthand":"- PO"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left leg jumping underswitch shift",
+    "alias":"left leg jumping underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg",
+      "command":"jumping underswitch shift",
+      "shorthand":"LL JUS shift"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into left leg jumping underswitch shift",
+    "alias":"left leg jumping underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left leg",
+      "command":"jumping underswitch shift",
+      "shorthand":"- LL JUS shift"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right leg jumping underswitch shift",
+    "alias":"right leg jumping underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg",
+      "command":"jumping underswitch shift",
+      "shorthand":"RL JUS shift"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into right leg jumping underswitch shift",
+    "alias":"right leg jumping underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right leg",
+      "command":"jumping underswitch shift",
+      "shorthand":"- RL JUS shift"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left leg levitating underswitch",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg",
+      "command":"levitating underswitch",
+      "shorthand":"LL LUS"
+    },
+    "nextMoves":[
+      "set deep ape",
+      "left arm crab reach",
+      "into left arm crab reach",
+      "right arm crab reach",
+      "left leg underswitch precursor static crab",
+      "right leg underswitch precursor static crab",
+      "left leg underswitch tap precursor static crab",
+      "right leg underswitch tap precursor static crab",
+      "left leg jumping underswitch",
+      "right leg jumping underswitch",
+      "to right leg side kickthrough",
+      "to right leg front kickthrough",
+      "left leg full scorpion",
+      "right leg full scorpion",
+      "left leg underswitch to ape",
+      "right leg underswitch to ape",
+      "into right side crocodile roll",
+      "into left leg roll through",
+      "into right side pop out",
+      "left leg jumping underswitch shift",
+      "right leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift"
+    ]
+  },
+  {
+    "move":"into left leg levitating underswitch",
+    "alias":"left leg levitating underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left leg",
+      "command":"levitating underswitch",
+      "shorthand":"- LL LUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left leg levitating underswitch shift",
+    "alias":"left leg levitating underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg",
+      "command":"levitating underswitch shift",
+      "shorthand":"LL LUS shift"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into left leg levitating underswitch shift",
+    "alias":"left leg levitating underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left leg",
+      "command":"levitating underswitch shift",
+      "shorthand":"- LL LUS shift"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right leg levitating underswitch",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg",
+      "command":"levitating underswitch",
+      "shorthand":"RL LUS"
+    },
+    "nextMoves":[
+      "set deep ape",
+      "left arm crab reach",
+      "right arm crab reach",
+      "into right arm crab reach",
+      "left leg underswitch precursor static crab",
+      "right leg underswitch precursor static crab",
+      "left leg underswitch tap precursor static crab",
+      "right leg underswitch tap precursor static crab",
+      "left leg jumping underswitch",
+      "right leg jumping underswitch",
+      "to left leg side kickthrough",
+      "to left leg front kickthrough",
+      "left leg full scorpion",
+      "right leg full scorpion",
+      "left leg underswitch to ape",
+      "right leg underswitch to ape",
+      "into left side crocodile roll",
+      "into right leg roll through",
+      "into left side pop out",
+      "left leg jumping underswitch shift",
+      "right leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift"
+    ]
+  },
+  {
+    "move":"into right leg levitating underswitch",
+    "alias":"right leg levitating underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right leg",
+      "command":"levitating underswitch",
+      "shorthand":"- RL LUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right leg levitating underswitch shift",
+    "alias":"right leg levitating underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg",
+      "command":"levitating underswitch shift",
+      "shorthand":"RL LUS shift"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into right leg levitating underswitch shift",
+    "alias":"right leg levitating underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right leg",
+      "command":"levitating underswitch shift",
+      "shorthand":"- RL LUS shift"
     },
     "nextMoves":[]
   }

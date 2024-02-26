@@ -64,8 +64,6 @@ left leg jumping underswitch
     into left leg jumping underswitch
 right leg jumping underswitch
     into right leg jumping underswitch
-left leg levitating underswitch
-right leg levitating underswitch
 left leg side kickthrough
     to left leg side kickthrough
     slide to left leg side kickthrough
@@ -144,5 +142,19 @@ left side pop out
 right side pop out
     into right side pop out
     to pop out (precursor: right side crocodile roll)
+
+>>>LEVEL 3<<<
+    left leg jumping underswitch shift (alias: left leg jumping underswitch)
+        into left leg jumping underswitch shift (alias: left leg jumping underswitch)
+    right leg jumping underswitch shift (alias: right leg jumping underswitch)
+        into right leg jumping underswitch shift (alias: right leg jumping underswitch)
+left leg levitating underswitch
+    into left leg levitating underswitch
+    left leg levitating underswitch shift
+        into left leg levitating underswitch shift
+right leg levitating underswitch
+    into right leg levitating underswitch
+    right leg levitating underswitch shift
+        into right leg levitating underswitch shift
 
 */ 
