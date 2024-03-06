@@ -113,7 +113,11 @@
       "left leg scorpion sweep",
       "right leg scorpion sweep",
       "left leg reaching underswitch",
-      "right leg reaching underswitch"
+      "right leg reaching underswitch",
+      "left leg reverse reaching underswitch",
+      "right leg reverse reaching underswitch",
+      "left leg high hip reaching underswitch",
+      "right leg high hip reaching underswitch"
     ]
   },
   {
@@ -544,7 +548,11 @@
       "left leg reaching underswitch",
       "right leg reaching underswitch",
       "left leg scorpion sweep",
-      "right leg scorpion sweep"     
+      "right leg scorpion sweep",
+      "left leg reverse reaching underswitch",
+      "right leg reverse reaching underswitch",
+      "left leg high hip reaching underswitch",
+      "right leg high hip reaching underswitch"    
     ]
   },
   {
@@ -821,7 +829,8 @@
       "left leg levitating underswitch",
       "left leg levitating underswitch shift",
       "right leg levitating underswitch shift",
-      "right leg levitating underswitch"
+      "right leg levitating underswitch",
+      "into left side lateral pop out"
     ]
   },
   {
@@ -890,7 +899,8 @@
       "left leg levitating underswitch",
       "left leg levitating underswitch shift",
       "right leg levitating underswitch shift",
-      "right leg levitating underswitch"
+      "right leg levitating underswitch",
+      "into right side lateral pop out"
     ]
   },
   {
@@ -960,7 +970,8 @@
       "left leg levitating underswitch",
       "left leg levitating underswitch shift",
       "right leg levitating underswitch",
-      "right leg levitating underswitch shift"
+      "right leg levitating underswitch shift",
+      "into left side lateral pop out"
     ]
   },
   {
@@ -1015,7 +1026,8 @@
       "left leg levitating underswitch",
       "left leg levitating underswitch shift",
       "right leg levitating underswitch shift",
-      "right leg levitating underswitch"
+      "right leg levitating underswitch",
+      "into right side lateral pop out"
     ]
   },
   {
@@ -1203,7 +1215,8 @@
       "left leg levitating underswitch",
       "left leg levitating underswitch shift",
       "right leg levitating underswitch",
-      "right leg levitating underswitch shift"
+      "right leg levitating underswitch shift",
+      "into right side lateral pop out"
     ]
   },
   {
@@ -1259,7 +1272,8 @@
       "left leg levitating underswitch",
       "left leg levitating underswitch shift",
       "right leg levitating underswitch",
-      "right leg levitating underswitch shift"
+      "right leg levitating underswitch shift",
+      "into left side lateral pop out"
     ]
   },
   {
@@ -2080,7 +2094,11 @@
       "left leg reaching underswitch",
       "right leg reaching underswitch",
       "left leg scorpion sweep",
-      "right leg scorpion sweep"     
+      "right leg scorpion sweep",
+      "left leg reverse reaching underswitch",
+      "right leg reverse reaching underswitch",
+      "left leg high hip reaching underswitch",
+      "right leg high hip reaching underswitch"  
     ]
   },
   {
@@ -2118,7 +2136,11 @@
       "left leg reaching underswitch",
       "right leg reaching underswitch",
       "left leg scorpion sweep",
-      "right leg scorpion sweep"   
+      "right leg scorpion sweep",
+      "left leg reverse reaching underswitch",
+      "right leg reverse reaching underswitch",
+      "left leg high hip reaching underswitch",
+      "right leg high hip reaching underswitch"   
     ]
   },
   {
@@ -2232,7 +2254,11 @@
       "left leg reaching underswitch",
       "right leg reaching underswitch",
       "left leg scorpion sweep",
-      "right leg scorpion sweep" 
+      "right leg scorpion sweep",
+      "left leg reverse reaching underswitch",
+      "right leg reverse reaching underswitch",
+      "left leg high hip reaching underswitch",
+      "right leg high hip reaching underswitch"
     ]
   },
   {
@@ -2302,7 +2328,11 @@
       "left leg reaching underswitch",
       "right leg reaching underswitch",
       "left leg scorpion sweep",
-      "right leg scorpion sweep"
+      "right leg scorpion sweep",
+      "left leg reverse reaching underswitch",
+      "right leg reverse reaching underswitch",
+      "left leg high hip reaching underswitch",
+      "right leg high hip reaching underswitch"
     ]
   },
   {
@@ -2372,7 +2402,10 @@
       "left side crocodile roll",
       "pop switch precursor left side crocodile roll",
       "open the gap precursor left side crocodile roll",
-      "to pop out precursor left side crocodile roll"
+      "left side pop out",
+      "to pop out precursor left side crocodile roll",
+      "left side lateral pop out",
+      "to lateral pop out precursor left side crocodile roll"
     ]
   },
   {
@@ -2408,7 +2441,10 @@
       "left side crocodile roll",
       "pop switch precursor left side crocodile roll",
       "open the gap precursor left side crocodile roll",
-      "to pop out precursor left side crocodile roll"
+      "left side pop out",
+      "to pop out precursor left side crocodile roll",
+      "left side lateral pop out",
+      "to lateral pop out precursor left side crocodile roll"
     ]
   },
   {
@@ -2427,7 +2463,8 @@
     "nextMoves":[
       "right side crocodile roll",
       "open the gap precursor right side crocodile roll",
-      "right side pop out"
+      "right side pop out",
+      "right side lateral pop out"
     ]
   },
   {
@@ -2477,7 +2514,10 @@
       "right side crocodile roll",
       "pop switch precursor right side crocodile roll",
       "open the gap precursor right side crocodile roll",
-      "to pop out precursor right side crocodile roll"
+      "right side pop out",
+      "to pop out precursor right side crocodile roll",
+      "right side lateral pop out",
+      "to lateral pop out precursor right side crocodile roll"
     ]
   },
   {
@@ -2513,7 +2553,10 @@
       "right side crocodile roll",
       "pop switch precursor right side crocodile roll",
       "open the gap precursor right side crocodile roll",
-      "to pop out precursor right side crocodile roll"
+      "right side pop out",
+      "to pop out precursor right side crocodile roll",
+      "right side lateral pop out",
+      "to lateral pop out precursor right side crocodile roll"
     ]
   },
   {
@@ -2532,7 +2575,8 @@
     "nextMoves":[
       "left side crocodile roll",
       "open the gap precursor left side crocodile roll",
-      "left side pop out"
+      "left side pop out",
+      "left side lateral pop out"
     ]
   },
   {
@@ -2623,7 +2667,8 @@
     "nextMoves":[
       "left side crocodile roll",
       "pop switch precursor left side crocodile roll",
-      "left side pop out"
+      "left side pop out",
+      "left side lateral pop out"
     ]
   },
   {
@@ -2689,7 +2734,8 @@
     "nextMoves":[
       "right side crocodile roll",
       "pop switch precursor right side crocodile roll",
-      "right side pop out"
+      "right side pop out",
+      "right side lateral pop out"
     ]
   },
   {
@@ -2713,7 +2759,11 @@
       "left leg reaching underswitch",
       "right leg reaching underswitch",
       "left leg scorpion sweep",
-      "right leg scorpion sweep"   
+      "right leg scorpion sweep",
+      "left leg reverse reaching underswitch",
+      "right leg reverse reaching underswitch",
+      "left leg high hip reaching underswitch",
+      "right leg high hip reaching underswitch"  
     ]
   },
   {
@@ -2767,7 +2817,11 @@
       "left leg reaching underswitch",
       "right leg reaching underswitch",
       "left leg scorpion sweep",
-      "right leg scorpion sweep"
+      "right leg scorpion sweep",
+      "left leg reverse reaching underswitch",
+      "right leg reverse reaching underswitch",
+      "left leg high hip reaching underswitch",
+      "right leg high hip reaching underswitch"
     ]
   },
   {
@@ -2898,7 +2952,8 @@
       "left leg levitating underswitch",
       "left leg levitating underswitch shift",
       "right leg levitating underswitch",
-      "right leg levitating underswitch shift"
+      "right leg levitating underswitch shift",
+      "into right side lateral pop out"
     ]
   },
   {
@@ -2984,7 +3039,8 @@
       "left leg levitating underswitch",
       "left leg levitating underswitch shift",
       "right leg levitating underswitch",
-      "right leg levitating underswitch shift"
+      "right leg levitating underswitch shift",
+      "into left side lateral pop out"
     ]
   },
   {
@@ -3029,6 +3085,156 @@
       "direction":"right leg",
       "command":"levitating underswitch shift",
       "shorthand":"- RL LUS shift"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left side lateral pop out",
+    "alias":"left side pop out",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left side",
+      "command":"lateral pop out",
+      "shorthand":"LS LPO"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into left side lateral pop out",
+    "alias":"left side pop out",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left side",
+      "command":"lateral pop out",
+      "shorthand":"- LS LPO"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"to lateral pop out",
+    "alias":"left side pop out",
+    "precursor":"left side crocodile roll",
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"to",
+      "direction":null,
+      "command":"lateral pop out",
+      "shorthand":"- LPO"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right side lateral pop out",
+    "alias":"right side pop out",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right side",
+      "command":"lateral pop out",
+      "shorthand":"RS LPO"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into right side lateral pop out",
+    "alias":"right side pop out",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right side",
+      "command":"lateral pop out",
+      "shorthand":"- RS LPO"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"to lateral pop out",
+    "alias":"right side pop out",
+    "precursor":"right side crocodile roll",
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"to",
+      "direction":null,
+      "command":"lateral pop out",
+      "shorthand":"- LPO"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left leg reverse reaching underswitch",
+    "alias":"left leg reaching underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg",
+      "command":"reverse reaching underswitch",
+      "shorthand":"LL RRUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right leg reverse reaching underswitch",
+    "alias":"right leg reaching underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg",
+      "command":"reverse reaching underswitch",
+      "shorthand":"RL RRUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left leg high hip reaching underswitch",
+    "alias":"left leg reaching underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg",
+      "command":"high hip reaching underswitch",
+      "shorthand":"LL HH RUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right leg high hip reaching underswitch",
+    "alias":"right leg reaching underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg",
+      "command":"high hip reaching underswitch",
+      "shorthand":"RL HH RUS"
     },
     "nextMoves":[]
   }

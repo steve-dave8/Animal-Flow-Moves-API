@@ -1,5 +1,5 @@
 /*A list of all of the movements available in moveList.json in the order they appear. 
-Moves with aliases are indented. Where necessary, precursors are noted in brackets.
+Moves with aliases are indented. Where necessary, precursors and deeper aliases are noted in brackets.
 
 >>>>>Static Activations:
 set static beast
@@ -144,10 +144,10 @@ right side pop out
     to pop out (precursor: right side crocodile roll)
 
 >>>LEVEL 3<<<
-    left leg jumping underswitch shift (alias: left leg jumping underswitch)
-        into left leg jumping underswitch shift (alias: left leg jumping underswitch)
-    right leg jumping underswitch shift (alias: right leg jumping underswitch)
-        into right leg jumping underswitch shift (alias: right leg jumping underswitch)
+left leg jumping underswitch shift (alias: left leg jumping underswitch)
+    into left leg jumping underswitch shift (alias: left leg jumping underswitch)
+right leg jumping underswitch shift (alias: right leg jumping underswitch)
+    into right leg jumping underswitch shift (alias: right leg jumping underswitch)
 left leg levitating underswitch
     into left leg levitating underswitch
     left leg levitating underswitch shift
@@ -156,5 +156,15 @@ right leg levitating underswitch
     into right leg levitating underswitch
     right leg levitating underswitch shift
         into right leg levitating underswitch shift
+left side lateral pop out (alias: left side pop out)
+    into left side lateral pop out (alias: left side pop out)
+    to lateral pop out (alias: left side pop out, precursor: left side crocodile roll)
+right side lateral pop out (alias: right side pop out)
+    into right side lateral pop out (alias: right side pop out)
+    to lateral pop out (alias: right side pop out, precursor: right side crocodile roll)
+left leg reverse reaching underswitch (alias: left leg reaching underswitch)
+right leg reverse reaching underswitch (alias: right leg reaching underswitch)
+left leg high hip reaching underswitch (alias: left leg reaching underswitch)
+right leg high hip reaching underswitch (alias: right leg reaching underswitch)
 
 */ 

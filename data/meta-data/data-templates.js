@@ -27,7 +27,7 @@ let moveTemplate =
 (ex: "left leg scorpion reach" can be done from static beast or loaded beast so a precursor needs to be included;
 "continue the switch" doesn't indicate which side so precursor would be needed here too).
 
->>>levels options: 1, 2, 2+ or 3
+>>>levels options: 1, 2, or 3
 
 >>>component options: static activations, form specific stretches, switches and transitions, traveling forms
 
