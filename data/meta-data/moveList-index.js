@@ -86,12 +86,8 @@ right leg front step through
     into right leg front step through
 left leg front kickthrough
     to left leg front kickthrough
-    jump to left leg front kickthrough
-    levitate to left leg front kickthrough
 right leg front kickthrough
     to right leg front kickthrough
-    jump to right leg front kickthrough
-    levitate to right leg front kickthrough
 left leg scorpion switch
     to left leg scorpion switch
     slide to left leg scorpion switch
@@ -180,5 +176,9 @@ left leg spinning underswitch
 right leg spinning underswitch
     into right leg spinning underswitch
     slide to right leg spinning underswitch
+jump to left leg front kickthrough (alias: left leg front kickthrough)
+levitate to left leg front kickthrough (alias: left leg front kickthrough)
+jump to right leg front kickthrough (alias: right leg front kickthrough)
+levitate to right leg front kickthrough (alias: right leg front kickthrough)
 
 */ 

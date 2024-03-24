@@ -1735,36 +1735,6 @@
     "nextMoves":[]
   },
   {
-    "move":"jump to left leg front kickthrough",
-    "alias":"left leg front kickthrough",
-    "precursor":null,
-    "imgSrc":"./AF-move-images/placeholder.png",
-    "level":"1",
-    "component":"switches and transitions",
-    "callout":{
-      "keyPhrase":"jump to",
-      "direction":"left leg",
-      "command":"front kickthrough",
-      "shorthand":"J - LL FKT"
-    },
-    "nextMoves":[]
-  },
-  {
-    "move":"levitate to left leg front kickthrough",
-    "alias":"left leg front kickthrough",
-    "precursor":null,
-    "imgSrc":"./AF-move-images/placeholder.png",
-    "level":"1",
-    "component":"switches and transitions",
-    "callout":{
-      "keyPhrase":"levitate to",
-      "direction":"left leg",
-      "command":"front kickthrough",
-      "shorthand":"L - LL FKT"
-    },
-    "nextMoves":[]
-  },
-  {
     "move":"right leg front kickthrough",
     "alias":null,
     "precursor":null,
@@ -1808,36 +1778,6 @@
       "direction":"right leg",
       "command":"front kickthrough",
       "shorthand":"- RL FKT"
-    },
-    "nextMoves":[]
-  },
-  {
-    "move":"jump to right leg front kickthrough",
-    "alias":"right leg front kickthrough",
-    "precursor":null,
-    "imgSrc":"./AF-move-images/placeholder.png",
-    "level":"1",
-    "component":"switches and transitions",
-    "callout":{
-      "keyPhrase":"jump to",
-      "direction":"right leg",
-      "command":"front kickthrough",
-      "shorthand":"J - RL FKT"
-    },
-    "nextMoves":[]
-  },
-  {
-    "move":"levitate to right leg front kickthrough",
-    "alias":"right leg front kickthrough",
-    "precursor":null,
-    "imgSrc":"./AF-move-images/placeholder.png",
-    "level":"1",
-    "component":"switches and transitions",
-    "callout":{
-      "keyPhrase":"levitate to",
-      "direction":"right leg",
-      "command":"front kickthrough",
-      "shorthand":"L - RL FKT"
     },
     "nextMoves":[]
   },
@@ -3516,6 +3456,66 @@
       "direction":"right leg",
       "command":"spinning underswitch",
       "shorthand":"slide to RL SUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"jump to left leg front kickthrough",
+    "alias":"left leg front kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"jump to",
+      "direction":"left leg",
+      "command":"front kickthrough",
+      "shorthand":"J - LL FKT"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"levitate to left leg front kickthrough",
+    "alias":"left leg front kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"levitate to",
+      "direction":"left leg",
+      "command":"front kickthrough",
+      "shorthand":"L - LL FKT"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"jump to right leg front kickthrough",
+    "alias":"right leg front kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"jump to",
+      "direction":"right leg",
+      "command":"front kickthrough",
+      "shorthand":"J - RL FKT"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"levitate to right leg front kickthrough",
+    "alias":"right leg front kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"levitate to",
+      "direction":"right leg",
+      "command":"front kickthrough",
+      "shorthand":"L - RL FKT"
     },
     "nextMoves":[]
   }
