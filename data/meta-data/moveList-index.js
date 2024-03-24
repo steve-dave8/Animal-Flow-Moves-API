@@ -182,5 +182,11 @@ jump to right leg front kickthrough (alias: right leg front kickthrough)
 levitate to right leg front kickthrough (alias: right leg front kickthrough)
 left leg front sweep
 right leg front sweep
+left side double crocodile roll (alias: left side crocodile roll)
+    into left side double crocodile roll (alias: left side crocodile roll)
+pop back to left side double crocodile roll (alias: pop back to left side crocodile roll)
+right side double crocodile roll (alias: right side crocodile roll)
+    into right side double crocodile roll (alias: right side crocodile roll)
+pop back to right side double crocodile roll (alias: pop back to right side crocodile roll)
 
 */ 

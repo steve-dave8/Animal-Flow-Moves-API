@@ -846,7 +846,8 @@
       "left leg levitating underswitch shift",
       "right leg levitating underswitch shift",
       "right leg levitating underswitch",
-      "into left side lateral pop out"
+      "into left side lateral pop out",
+      "into left side double crocodile roll"
     ]
   },
   {
@@ -916,7 +917,8 @@
       "left leg levitating underswitch shift",
       "right leg levitating underswitch shift",
       "right leg levitating underswitch",
-      "into right side lateral pop out"
+      "into right side lateral pop out",
+      "into right side double crocodile roll"
     ]
   },
   {
@@ -988,7 +990,8 @@
       "right leg levitating underswitch",
       "right leg levitating underswitch shift",
       "into left side lateral pop out",
-      "into left leg spinning underswitch"
+      "into left leg spinning underswitch",
+      "into left side double crocodile roll"
     ]
   },
   {
@@ -1045,7 +1048,8 @@
       "right leg levitating underswitch shift",
       "right leg levitating underswitch",
       "into right side lateral pop out",
-      "into right leg spinning underswitch"
+      "into right leg spinning underswitch",
+      "into right side double crocodile roll"
     ]
   },
   {
@@ -1239,7 +1243,8 @@
       "right leg levitating underswitch",
       "right leg levitating underswitch shift",
       "into right side lateral pop out",
-      "into right leg spinning underswitch"
+      "into right leg spinning underswitch",
+      "into right side double crocodile roll"
     ]
   },
   {
@@ -1297,7 +1302,8 @@
       "right leg levitating underswitch",
       "right leg levitating underswitch shift",
       "into left side lateral pop out",
-      "into left leg spinning underswitch"
+      "into left leg spinning underswitch",
+      "into left side double crocodile roll"
     ]
   },
   {
@@ -1344,7 +1350,8 @@
       "right leg roll through",
       "left leg jumping underswitch shift",
       "left leg levitating underswitch",
-      "left leg levitating underswitch shift"
+      "left leg levitating underswitch shift",
+      "left side double crocodile roll"
     ]
   },
   {
@@ -1451,7 +1458,8 @@
       "left leg roll through",
       "right leg jumping underswitch shift",
       "right leg levitating underswitch",
-      "right leg levitating underswitch shift"
+      "right leg levitating underswitch shift",
+      "right side double crocodile roll"
     ]
   },
   {
@@ -1628,7 +1636,9 @@
       "pop back to left leg scorpion sweep",
       "pop back to right leg scorpion sweep",
       "pop back to left side crocodile roll",
-      "pop back to right side crocodile roll"
+      "pop back to right side crocodile roll",
+      "pop back to left side double crocodile roll",
+      "pop back to right side double crocodile roll"
     ]
   },
   {
@@ -1675,7 +1685,9 @@
       "pop back to left leg scorpion sweep",
       "pop back to right leg scorpion sweep",
       "pop back to left side crocodile roll",
-      "pop back to right side crocodile roll"
+      "pop back to right side crocodile roll",
+      "pop back to left side double crocodile roll",
+      "pop back to right side double crocodile roll"
     ]
   },
   {
@@ -1722,7 +1734,9 @@
       "pop back to left leg scorpion sweep",
       "pop back to right leg scorpion sweep",
       "pop back to left side crocodile roll",
-      "pop back to right side crocodile roll"
+      "pop back to right side crocodile roll",
+      "pop back to left side double crocodile roll",
+      "pop back to right side double crocodile roll"
     ]
   },
   {
@@ -1769,7 +1783,9 @@
       "pop back to left leg scorpion sweep",
       "pop back to right leg scorpion sweep",
       "pop back to left side crocodile roll",
-      "pop back to right side crocodile roll"
+      "pop back to right side crocodile roll",
+      "pop back to left side double crocodile roll",
+      "pop back to right side double crocodile roll"
     ]
   },
   {
@@ -2191,7 +2207,8 @@
       "left leg levitating underswitch",
       "left leg levitating underswitch shift",
       "right leg levitating underswitch",
-      "right leg levitating underswitch shift"
+      "right leg levitating underswitch shift",
+      "into left side double crocodile roll"
     ]
   },
   {
@@ -2243,7 +2260,8 @@
       "left leg levitating underswitch",
       "left leg levitating underswitch shift",
       "right leg levitating underswitch",
-      "right leg levitating underswitch shift"
+      "right leg levitating underswitch shift",
+      "into right side double crocodile roll"
     ]
   },
   {
@@ -2438,7 +2456,8 @@
       "left side pop out",
       "to pop out precursor left side crocodile roll",
       "left side lateral pop out",
-      "to lateral pop out precursor left side crocodile roll"
+      "to lateral pop out precursor left side crocodile roll",
+      "left side double crocodile roll"
     ]
   },
   {
@@ -2477,7 +2496,8 @@
       "left side pop out",
       "to pop out precursor left side crocodile roll",
       "left side lateral pop out",
-      "to lateral pop out precursor left side crocodile roll"
+      "to lateral pop out precursor left side crocodile roll",
+      "left side double crocodile roll"
     ]
   },
   {
@@ -2497,7 +2517,8 @@
       "right side crocodile roll",
       "open the gap precursor right side crocodile roll",
       "right side pop out",
-      "right side lateral pop out"
+      "right side lateral pop out",
+      "right side double crocodile roll"
     ]
   },
   {
@@ -2550,7 +2571,8 @@
       "right side pop out",
       "to pop out precursor right side crocodile roll",
       "right side lateral pop out",
-      "to lateral pop out precursor right side crocodile roll"
+      "to lateral pop out precursor right side crocodile roll",
+      "right side double crocodile roll"
     ]
   },
   {
@@ -2589,7 +2611,8 @@
       "right side pop out",
       "to pop out precursor right side crocodile roll",
       "right side lateral pop out",
-      "to lateral pop out precursor right side crocodile roll"
+      "to lateral pop out precursor right side crocodile roll",
+      "right side double crocodile roll"
     ]
   },
   {
@@ -2609,7 +2632,8 @@
       "left side crocodile roll",
       "open the gap precursor left side crocodile roll",
       "left side pop out",
-      "left side lateral pop out"
+      "left side lateral pop out",
+      "left side double crocodile roll"
     ]
   },
   {
@@ -2701,7 +2725,8 @@
       "left side crocodile roll",
       "pop switch precursor left side crocodile roll",
       "left side pop out",
-      "left side lateral pop out"
+      "left side lateral pop out",
+      "left side double crocodile roll"
     ]
   },
   {
@@ -2768,7 +2793,8 @@
       "right side crocodile roll",
       "pop switch precursor right side crocodile roll",
       "right side pop out",
-      "right side lateral pop out"
+      "right side lateral pop out",
+      "right side double crocodile roll"
     ]
   },
   {
@@ -2993,7 +3019,8 @@
       "right leg levitating underswitch",
       "right leg levitating underswitch shift",
       "into right side lateral pop out",
-      "into right leg spinning underswitch"
+      "into right leg spinning underswitch",
+      "into right side double crocodile roll"
     ]
   },
   {
@@ -3081,7 +3108,8 @@
       "right leg levitating underswitch",
       "right leg levitating underswitch shift",
       "into left side lateral pop out",
-      "into left leg spinning underswitch"
+      "into left leg spinning underswitch",
+      "into left side double crocodile roll"
     ]
   },
   {
@@ -3556,7 +3584,8 @@
       "levitate to right leg side kickthrough",
       "left side crocodile roll",
       "jump to right leg front kickthrough",
-      "levitate to right leg front kickthrough"
+      "levitate to right leg front kickthrough",
+      "left side double crocodile roll"
     ]
   },
   {
@@ -3578,7 +3607,98 @@
       "levitate to left leg side kickthrough",
       "right side crocodile roll",
       "jump to left leg front kickthrough",
-      "levitate to left leg front kickthrough"
+      "levitate to left leg front kickthrough",
+      "right side double crocodile roll"
     ]
+  },
+  {
+    "move":"left side double crocodile roll",
+    "alias":"left side crocodile roll",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left side",
+      "command":"double crocodile roll",
+      "shorthand":"LS double CrocR"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into left side double crocodile roll",
+    "alias":"left side crocodile roll",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left side",
+      "command":"double crocodile roll",
+      "shorthand":"- LS double CrocR"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to left side double crocodile roll",
+    "alias":"pop back to left side crocodile roll",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"left side",
+      "command":"double crocodile roll",
+      "shorthand":"pop back to LS double CrocR"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right side double crocodile roll",
+    "alias":"right side crocodile roll",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right side",
+      "command":"double crocodile roll",
+      "shorthand":"RS double CrocR"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into right side double crocodile roll",
+    "alias":"right side crocodile roll",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right side",
+      "command":"double crocodile roll",
+      "shorthand":"- RS double CrocR"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to right side double crocodile roll",
+    "alias":"pop back to right side crocodile roll",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"right side",
+      "command":"double crocodile roll",
+      "shorthand":"pop back to LS double CrocR"
+    },
+    "nextMoves":[]
   }
 ]
