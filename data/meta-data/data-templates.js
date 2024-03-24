@@ -11,7 +11,8 @@ let moveTemplate =
   "callout":{
     "keyPhrase":null,
     "direction":"",
-    "command":""
+    "command":"",
+    "shorthand": ""
   },
   "nextMoves":[]
 }
