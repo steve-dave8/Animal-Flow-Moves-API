@@ -180,5 +180,7 @@ jump to left leg front kickthrough (alias: left leg front kickthrough)
 levitate to left leg front kickthrough (alias: left leg front kickthrough)
 jump to right leg front kickthrough (alias: right leg front kickthrough)
 levitate to right leg front kickthrough (alias: right leg front kickthrough)
+left leg front sweep
+right leg front sweep
 
 */ 

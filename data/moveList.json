@@ -119,7 +119,9 @@
       "left leg reverse reaching underswitch",
       "right leg reverse reaching underswitch",
       "left leg high hip reaching underswitch",
-      "right leg high hip reaching underswitch"
+      "right leg high hip reaching underswitch",
+      "left leg front sweep",
+      "right leg front sweep"
     ]
   },
   {
@@ -547,7 +549,7 @@
       "keyPhrase":null,
       "direction":null,
       "command":"open",
-      "shorthand":null
+      "shorthand":"open"
     },
     "nextMoves":[
       "return to ape reach",
@@ -558,7 +560,9 @@
       "left leg reverse reaching underswitch",
       "right leg reverse reaching underswitch",
       "left leg high hip reaching underswitch",
-      "right leg high hip reaching underswitch"    
+      "right leg high hip reaching underswitch",
+      "left leg front sweep",
+      "right leg front sweep" 
     ]
   },
   {
@@ -1541,7 +1545,8 @@
     "nextMoves":[
       "return to loaded beast",
       "left leg beast reach",
-      "right leg scorpion sweep"
+      "right leg scorpion sweep",
+      "right leg front sweep"
     ]
   },
   {
@@ -1575,7 +1580,8 @@
     "nextMoves":[
       "return to loaded beast",
       "right leg beast reach",
-      "left leg scorpion sweep"
+      "left leg scorpion sweep",
+      "left leg front sweep"
     ]
   },
   {
@@ -2087,7 +2093,9 @@
       "left leg reverse reaching underswitch",
       "right leg reverse reaching underswitch",
       "left leg high hip reaching underswitch",
-      "right leg high hip reaching underswitch"  
+      "right leg high hip reaching underswitch",
+      "left leg front sweep",
+      "right leg front sweep" 
     ]
   },
   {
@@ -2129,7 +2137,9 @@
       "left leg reverse reaching underswitch",
       "right leg reverse reaching underswitch",
       "left leg high hip reaching underswitch",
-      "right leg high hip reaching underswitch"   
+      "right leg high hip reaching underswitch",
+      "left leg front sweep",
+      "right leg front sweep"  
     ]
   },
   {
@@ -2277,7 +2287,9 @@
       "left leg reverse reaching underswitch",
       "right leg reverse reaching underswitch",
       "left leg high hip reaching underswitch",
-      "right leg high hip reaching underswitch"
+      "right leg high hip reaching underswitch",
+      "left leg front sweep",
+      "right leg front sweep"
     ]
   },
   {
@@ -2351,7 +2363,9 @@
       "left leg reverse reaching underswitch",
       "right leg reverse reaching underswitch",
       "left leg high hip reaching underswitch",
-      "right leg high hip reaching underswitch"
+      "right leg high hip reaching underswitch",
+      "left leg front sweep",
+      "right leg front sweep"
     ]
   },
   {
@@ -2783,7 +2797,9 @@
       "right leg reverse reaching underswitch",
       "left leg high hip reaching underswitch",
       "right leg high hip reaching underswitch",
-      "into right leg spinning underswitch" 
+      "into right leg spinning underswitch",
+      "left leg front sweep",
+      "right leg front sweep"
     ]
   },
   {
@@ -2842,7 +2858,9 @@
       "right leg reverse reaching underswitch",
       "left leg high hip reaching underswitch",
       "right leg high hip reaching underswitch",
-      "into left leg spinning underswitch"
+      "into left leg spinning underswitch",
+      "left leg front sweep",
+      "right leg front sweep"
     ]
   },
   {
@@ -3518,5 +3536,49 @@
       "shorthand":"L - RL FKT"
     },
     "nextMoves":[]
+  },
+  {
+    "move":"left leg front sweep",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg",
+      "command":"front sweep",
+      "shorthand": "LL FSweep"
+    },
+    "nextMoves":[
+      "set deep ape",
+      "jump to right leg side kickthrough",
+      "levitate to right leg side kickthrough",
+      "left side crocodile roll",
+      "jump to right leg front kickthrough",
+      "levitate to right leg front kickthrough"
+    ]
+  },
+  {
+    "move":"right leg front sweep",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg",
+      "command":"front sweep",
+      "shorthand": "RL FSweep"
+    },
+    "nextMoves":[
+      "set deep ape",
+      "jump to left leg side kickthrough",
+      "levitate to left leg side kickthrough",
+      "right side crocodile roll",
+      "jump to left leg front kickthrough",
+      "levitate to left leg front kickthrough"
+    ]
   }
 ]
