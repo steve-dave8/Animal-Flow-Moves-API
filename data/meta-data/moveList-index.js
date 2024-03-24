@@ -93,10 +93,12 @@ right leg front kickthrough
     jump to right leg front kickthrough
     levitate to right leg front kickthrough
 left leg scorpion switch
+    to left leg scorpion switch
     slide to left leg scorpion switch
     pop back to left leg scorpion switch
 continue the switch (precursor: left leg scorpion reach)
 right leg scorpion switch
+    to right leg scorpion switch
     slide to right leg scorpion switch
     pop back to right leg scorpion switch
 continue the switch (precursor: right leg scorpion reach)
@@ -111,7 +113,9 @@ left leg underswitch to ape
 right leg underswitch to ape
     into right leg underswitch to ape
 left leg reaching underswitch
+    to left leg reaching underswitch
 right leg reaching underswitch
+    to right leg reaching underswitch
 left leg scorpion sweep
     slide to left leg scorpion sweep
     into left leg scorpion sweep
@@ -163,8 +167,18 @@ right side lateral pop out (alias: right side pop out)
     into right side lateral pop out (alias: right side pop out)
     to lateral pop out (alias: right side pop out, precursor: right side crocodile roll)
 left leg reverse reaching underswitch (alias: left leg reaching underswitch)
+    to left leg reverse reaching underswitch (alias: left leg reaching underswitch) 
 right leg reverse reaching underswitch (alias: right leg reaching underswitch)
+    to right leg reverse reaching underswitch (alias: right leg reaching underswitch)
 left leg high hip reaching underswitch (alias: left leg reaching underswitch)
+    to left leg high hip reaching underswitch (alias: left leg reaching underswitch)
 right leg high hip reaching underswitch (alias: right leg reaching underswitch)
+    to right leg high hip reaching underswitch (alias: right leg reaching underswitch)
+left leg spinning underswitch
+    into left leg spinning underswitch
+    slide to left leg spinning underswitch
+right leg spinning underswitch
+    into right leg spinning underswitch
+    slide to right leg spinning underswitch
 
 */ 
