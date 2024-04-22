@@ -322,7 +322,9 @@
       "slide to left leg side kickthrough",
       "left leg front step",
       "left leg front step through",
-      "continue the switch precursor left leg scorpion reach"
+      "continue the switch precursor left leg scorpion reach",
+      "float to left leg side kickthrough",
+      "float to right leg side kickthrough"
     ]
   },
   {
@@ -346,7 +348,9 @@
       "slide to right leg side kickthrough",
       "right leg front step",
       "right leg front step through",
-      "continue the switch precursor right leg scorpion reach"
+      "continue the switch precursor right leg scorpion reach",
+      "float to left leg side kickthrough",
+      "float to right leg side kickthrough"
     ]
   },
   {
@@ -367,7 +371,9 @@
       "left leg underswitch precursor static beast",
       "left leg underswitch tap precursor static beast",
       "left leg side kickthrough",
-      "continue the switch precursor left leg scorpion reach"    
+      "continue the switch precursor left leg scorpion reach",
+      "float to left leg side kickthrough",
+      "float to right leg side kickthrough"    
     ]
   },
   {
@@ -403,7 +409,9 @@
       "right leg underswitch precursor static beast",
       "right leg underswitch tap precursor static beast",
       "right leg side kickthrough",
-      "continue the switch precursor right leg scorpion reach"  
+      "continue the switch precursor right leg scorpion reach",
+      "float to left leg side kickthrough",
+      "float to right leg side kickthrough"  
     ]
   },
   {
@@ -1351,7 +1359,8 @@
       "left leg jumping underswitch shift",
       "left leg levitating underswitch",
       "left leg levitating underswitch shift",
-      "left side double crocodile roll"
+      "left side double crocodile roll",
+      "float to right leg side kickthrough"
     ]
   },
   {
@@ -1459,7 +1468,8 @@
       "right leg jumping underswitch shift",
       "right leg levitating underswitch",
       "right leg levitating underswitch shift",
-      "right side double crocodile roll"
+      "right side double crocodile roll",
+      "float to left leg side kickthrough"
     ]
   },
   {
@@ -1638,7 +1648,9 @@
       "pop back to left side crocodile roll",
       "pop back to right side crocodile roll",
       "pop back to left side double crocodile roll",
-      "pop back to right side double crocodile roll"
+      "pop back to right side double crocodile roll",
+      "float to left leg side kickthrough",
+      "float to right leg side kickthrough"
     ]
   },
   {
@@ -1687,7 +1699,9 @@
       "pop back to left side crocodile roll",
       "pop back to right side crocodile roll",
       "pop back to left side double crocodile roll",
-      "pop back to right side double crocodile roll"
+      "pop back to right side double crocodile roll",
+      "float to left leg side kickthrough",
+      "float to right leg side kickthrough"
     ]
   },
   {
@@ -1736,7 +1750,9 @@
       "pop back to left side crocodile roll",
       "pop back to right side crocodile roll",
       "pop back to left side double crocodile roll",
-      "pop back to right side double crocodile roll"
+      "pop back to right side double crocodile roll",
+      "float to left leg side kickthrough",
+      "float to right leg side kickthrough"
     ]
   },
   {
@@ -1785,7 +1801,9 @@
       "pop back to left side crocodile roll",
       "pop back to right side crocodile roll",
       "pop back to left side double crocodile roll",
-      "pop back to right side double crocodile roll"
+      "pop back to right side double crocodile roll",
+      "float to left leg side kickthrough",
+      "float to right leg side kickthrough"
     ]
   },
   {
@@ -3698,6 +3716,36 @@
       "direction":"right side",
       "command":"double crocodile roll",
       "shorthand":"pop back to LS double CrocR"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"float to left leg side kickthrough",
+    "alias":"left leg side kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"float to",
+      "direction":"left leg",
+      "command":"side kickthrough",
+      "shorthand":"float to LL SKT"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"float to right leg side kickthrough",
+    "alias":"right leg side kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"float to",
+      "direction":"right leg",
+      "command":"side kickthrough",
+      "shorthand":"float to RL SKT"
     },
     "nextMoves":[]
   }
