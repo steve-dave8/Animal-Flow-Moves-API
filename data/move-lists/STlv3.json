@@ -1,0 +1,814 @@
+[
+  {
+    "move":"left leg jumping underswitch shift",
+    "alias":"left leg jumping underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg",
+      "command":"jumping underswitch shift",
+      "shorthand":"LL JUS shift"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into left leg jumping underswitch shift",
+    "alias":"left leg jumping underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left leg",
+      "command":"jumping underswitch shift",
+      "shorthand":"- LL JUS shift"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right leg jumping underswitch shift",
+    "alias":"right leg jumping underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg",
+      "command":"jumping underswitch shift",
+      "shorthand":"RL JUS shift"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into right leg jumping underswitch shift",
+    "alias":"right leg jumping underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right leg",
+      "command":"jumping underswitch shift",
+      "shorthand":"- RL JUS shift"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left leg levitating underswitch",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg",
+      "command":"levitating underswitch",
+      "shorthand":"LL LUS"
+    },
+    "nextMoves":[
+      "set deep ape",
+      "left arm crab reach",
+      "into left arm crab reach",
+      "right arm crab reach",
+      "left leg underswitch precursor static crab",
+      "right leg underswitch precursor static crab",
+      "left leg underswitch tap precursor static crab",
+      "right leg underswitch tap precursor static crab",
+      "left leg jumping underswitch",
+      "right leg jumping underswitch",
+      "to right leg side kickthrough",
+      "to right leg front kickthrough",
+      "left leg full scorpion",
+      "right leg full scorpion",
+      "left leg underswitch to ape",
+      "right leg underswitch to ape",
+      "into right side crocodile roll",
+      "into left leg roll through",
+      "into right side pop out",
+      "left leg jumping underswitch shift",
+      "right leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift",
+      "into right side lateral pop out",
+      "into right leg spinning underswitch",
+      "into right side double crocodile roll"
+    ]
+  },
+  {
+    "move":"into left leg levitating underswitch",
+    "alias":"left leg levitating underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left leg",
+      "command":"levitating underswitch",
+      "shorthand":"- LL LUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left leg levitating underswitch shift",
+    "alias":"left leg levitating underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg",
+      "command":"levitating underswitch shift",
+      "shorthand":"LL LUS shift"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into left leg levitating underswitch shift",
+    "alias":"left leg levitating underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left leg",
+      "command":"levitating underswitch shift",
+      "shorthand":"- LL LUS shift"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right leg levitating underswitch",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg",
+      "command":"levitating underswitch",
+      "shorthand":"RL LUS"
+    },
+    "nextMoves":[
+      "set deep ape",
+      "left arm crab reach",
+      "right arm crab reach",
+      "into right arm crab reach",
+      "left leg underswitch precursor static crab",
+      "right leg underswitch precursor static crab",
+      "left leg underswitch tap precursor static crab",
+      "right leg underswitch tap precursor static crab",
+      "left leg jumping underswitch",
+      "right leg jumping underswitch",
+      "to left leg side kickthrough",
+      "to left leg front kickthrough",
+      "left leg full scorpion",
+      "right leg full scorpion",
+      "left leg underswitch to ape",
+      "right leg underswitch to ape",
+      "into left side crocodile roll",
+      "into right leg roll through",
+      "into left side pop out",
+      "left leg jumping underswitch shift",
+      "right leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift",
+      "into left side lateral pop out",
+      "into left leg spinning underswitch",
+      "into left side double crocodile roll"
+    ]
+  },
+  {
+    "move":"into right leg levitating underswitch",
+    "alias":"right leg levitating underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right leg",
+      "command":"levitating underswitch",
+      "shorthand":"- RL LUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right leg levitating underswitch shift",
+    "alias":"right leg levitating underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg",
+      "command":"levitating underswitch shift",
+      "shorthand":"RL LUS shift"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into right leg levitating underswitch shift",
+    "alias":"right leg levitating underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right leg",
+      "command":"levitating underswitch shift",
+      "shorthand":"- RL LUS shift"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left side lateral pop out",
+    "alias":"left side pop out",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left side",
+      "command":"lateral pop out",
+      "shorthand":"LS LPO"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into left side lateral pop out",
+    "alias":"left side pop out",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left side",
+      "command":"lateral pop out",
+      "shorthand":"- LS LPO"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"to lateral pop out",
+    "alias":"left side pop out",
+    "precursor":"left side crocodile roll",
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"to",
+      "direction":null,
+      "command":"lateral pop out",
+      "shorthand":"- LPO"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right side lateral pop out",
+    "alias":"right side pop out",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right side",
+      "command":"lateral pop out",
+      "shorthand":"RS LPO"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into right side lateral pop out",
+    "alias":"right side pop out",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right side",
+      "command":"lateral pop out",
+      "shorthand":"- RS LPO"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"to lateral pop out",
+    "alias":"right side pop out",
+    "precursor":"right side crocodile roll",
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"to",
+      "direction":null,
+      "command":"lateral pop out",
+      "shorthand":"- LPO"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left leg reverse reaching underswitch",
+    "alias":"left leg reaching underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg",
+      "command":"reverse reaching underswitch",
+      "shorthand":"LL RRUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"to left leg reverse reaching underswitch",
+    "alias":"left leg reaching underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"to",
+      "direction":"left leg",
+      "command":"reverse reaching underswitch",
+      "shorthand":"- LL RRUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right leg reverse reaching underswitch",
+    "alias":"right leg reaching underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg",
+      "command":"reverse reaching underswitch",
+      "shorthand":"RL RRUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"to right leg reverse reaching underswitch",
+    "alias":"right leg reaching underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"to",
+      "direction":"right leg",
+      "command":"reverse reaching underswitch",
+      "shorthand":"- RL RRUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left leg high hip reaching underswitch",
+    "alias":"left leg reaching underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg",
+      "command":"high hip reaching underswitch",
+      "shorthand":"LL HH RUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"to left leg high hip reaching underswitch",
+    "alias":"left leg reaching underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"to",
+      "direction":"left leg",
+      "command":"high hip reaching underswitch",
+      "shorthand":"- LL HH RUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right leg high hip reaching underswitch",
+    "alias":"right leg reaching underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg",
+      "command":"high hip reaching underswitch",
+      "shorthand":"RL HH RUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"to right leg high hip reaching underswitch",
+    "alias":"right leg reaching underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"to",
+      "direction":"right leg",
+      "command":"high hip reaching underswitch",
+      "shorthand":"- RL HH RUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left leg spinning underswitch",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg",
+      "command":"spinning underswitch",
+      "shorthand":"LL SUS"
+    },
+    "nextMoves":[
+      "set deep ape",
+      "set loaded beast",     
+      "left leg scorpion reach precursor static beast",
+      "right leg scorpion reach precursor static beast",
+      "into right leg scorpion reach precursor static beast",
+      "left leg underswitch precursor static beast",
+      "right leg underswitch precursor static beast",
+      "left leg underswitch tap precursor static beast",
+      "right leg underswitch tap precursor static beast",
+      "left leg side kickthrough",
+      "right leg side kickthrough",
+      "left leg scorpion switch",
+      "right leg scorpion switch",
+      "to right leg scorpion switch",
+      "to left leg reaching underswitch",
+      "into left leg scorpion sweep",
+      "into left leg roll through",
+      "into right leg roll through",
+      "to left leg reverse reaching underswitch",
+      "to right leg reverse reaching underswitch",
+      "to left leg high hip reaching underswitch",
+      "left leg spinning underswitch",
+      "right leg spinning underswitch"
+    ]
+  },
+  {
+    "move":"into left leg spinning underswitch",
+    "alias":"left leg spinning underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left leg",
+      "command":"spinning underswitch",
+      "shorthand":"- LL SUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"slide to left leg spinning underswitch",
+    "alias":"left leg spinning underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"slide to",
+      "direction":"left leg",
+      "command":"spinning underswitch",
+      "shorthand":"slide to LL SUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right leg spinning underswitch",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg",
+      "command":"spinning underswitch",
+      "shorthand":"RL SUS"
+    },
+    "nextMoves":[
+      "set deep ape",
+      "set loaded beast",     
+      "left leg scorpion reach precursor static beast",
+      "into left leg scorpion reach precursor static beast",
+      "right leg scorpion reach precursor static beast",
+      "left leg underswitch precursor static beast",
+      "right leg underswitch precursor static beast",
+      "left leg underswitch tap precursor static beast",
+      "right leg underswitch tap precursor static beast",
+      "left leg side kickthrough",
+      "right leg side kickthrough",
+      "left leg scorpion switch",
+      "to left leg scorpion switch",
+      "right leg scorpion switch",
+      "to right leg reaching underswitch",
+      "into right leg scorpion sweep",
+      "into left leg roll through",
+      "into right leg roll through",
+      "to left leg reverse reaching underswitch",
+      "to right leg reverse reaching underswitch",
+      "to right leg high hip reaching underswitch",
+      "left leg spinning underswitch",
+      "right leg spinning underswitch"
+    ]
+  },
+  {
+    "move":"into right leg spinning underswitch",
+    "alias":"right leg spinning underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right leg",
+      "command":"spinning underswitch",
+      "shorthand":"- RL SUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"slide to right leg spinning underswitch",
+    "alias":"right leg spinning underswitch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"slide to",
+      "direction":"right leg",
+      "command":"spinning underswitch",
+      "shorthand":"slide to RL SUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"jump to left leg front kickthrough",
+    "alias":"left leg front kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"jump to",
+      "direction":"left leg",
+      "command":"front kickthrough",
+      "shorthand":"J - LL FKT"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"levitate to left leg front kickthrough",
+    "alias":"left leg front kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"levitate to",
+      "direction":"left leg",
+      "command":"front kickthrough",
+      "shorthand":"L - LL FKT"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"jump to right leg front kickthrough",
+    "alias":"right leg front kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"jump to",
+      "direction":"right leg",
+      "command":"front kickthrough",
+      "shorthand":"J - RL FKT"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"levitate to right leg front kickthrough",
+    "alias":"right leg front kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"levitate to",
+      "direction":"right leg",
+      "command":"front kickthrough",
+      "shorthand":"L - RL FKT"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left leg front sweep",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg",
+      "command":"front sweep",
+      "shorthand": "LL FSweep"
+    },
+    "nextMoves":[
+      "set deep ape",
+      "jump to right leg side kickthrough",
+      "levitate to right leg side kickthrough",
+      "left side crocodile roll",
+      "jump to right leg front kickthrough",
+      "levitate to right leg front kickthrough",
+      "left side double crocodile roll"
+    ]
+  },
+  {
+    "move":"right leg front sweep",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg",
+      "command":"front sweep",
+      "shorthand": "RL FSweep"
+    },
+    "nextMoves":[
+      "set deep ape",
+      "jump to left leg side kickthrough",
+      "levitate to left leg side kickthrough",
+      "right side crocodile roll",
+      "jump to left leg front kickthrough",
+      "levitate to left leg front kickthrough",
+      "right side double crocodile roll"
+    ]
+  },
+  {
+    "move":"left side double crocodile roll",
+    "alias":"left side crocodile roll",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left side",
+      "command":"double crocodile roll",
+      "shorthand":"LS double CrocR"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into left side double crocodile roll",
+    "alias":"left side crocodile roll",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left side",
+      "command":"double crocodile roll",
+      "shorthand":"- LS double CrocR"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to left side double crocodile roll",
+    "alias":"pop back to left side crocodile roll",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"left side",
+      "command":"double crocodile roll",
+      "shorthand":"pop back to LS double CrocR"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right side double crocodile roll",
+    "alias":"right side crocodile roll",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right side",
+      "command":"double crocodile roll",
+      "shorthand":"RS double CrocR"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into right side double crocodile roll",
+    "alias":"right side crocodile roll",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right side",
+      "command":"double crocodile roll",
+      "shorthand":"- RS double CrocR"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to right side double crocodile roll",
+    "alias":"pop back to right side crocodile roll",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"right side",
+      "command":"double crocodile roll",
+      "shorthand":"pop back to LS double CrocR"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"float to left leg side kickthrough",
+    "alias":"left leg side kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"float to",
+      "direction":"left leg",
+      "command":"side kickthrough",
+      "shorthand":"float to LL SKT"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"float to right leg side kickthrough",
+    "alias":"right leg side kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"float to",
+      "direction":"right leg",
+      "command":"side kickthrough",
+      "shorthand":"float to RL SKT"
+    },
+    "nextMoves":[]
+  }
+]

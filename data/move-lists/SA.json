@@ -1,0 +1,246 @@
+[
+  {
+    "move":"set static beast",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"static activations",
+    "callout":{
+      "keyPhrase":"set",
+      "direction":null,
+      "command":"static beast",
+      "shorthand":"Beast"
+    },
+    "nextMoves":[
+      "set deep ape",
+      "set loaded beast",     
+      "left leg scorpion reach precursor static beast",
+      "right leg scorpion reach precursor static beast",
+      "left leg underswitch precursor static beast",
+      "right leg underswitch precursor static beast",
+      "left leg underswitch tap precursor static beast",
+      "right leg underswitch tap precursor static beast",
+      "left leg side kickthrough",
+      "right leg side kickthrough",
+      "left leg scorpion switch",
+      "right leg scorpion switch",
+      "left leg spinning underswitch",
+      "right leg spinning underswitch"
+    ]
+  },
+  {
+    "move":"set static crab",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"static activations",
+    "callout":{
+      "keyPhrase":"set",
+      "direction":null,
+      "command":"static crab",
+      "shorthand":"Crab"
+    },
+    "nextMoves":[
+      "set deep ape",
+      "left arm crab reach",
+      "right arm crab reach",
+      "left leg underswitch precursor static crab",
+      "right leg underswitch precursor static crab",
+      "left leg underswitch tap precursor static crab",
+      "right leg underswitch tap precursor static crab",
+      "left leg jumping underswitch",
+      "right leg jumping underswitch",
+      "left leg full scorpion",
+      "right leg full scorpion",
+      "left leg underswitch to ape",
+      "right leg underswitch to ape",
+      "left leg jumping underswitch shift",
+      "right leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift"
+    ]
+  },
+  {
+    "move":"to crab",
+    "alias":"set static crab",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"static activations",
+    "callout":{
+      "keyPhrase":"to",
+      "direction":null,
+      "command":"crab",
+      "shorthand":"- Crab"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"fall back to crab",
+    "alias":"set static crab",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"static activations",
+    "callout":{
+      "keyPhrase":"fall back to",
+      "direction":null,
+      "command":"crab",
+      "shorthand":null
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"set deep ape",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"static activations",
+    "callout":{
+      "keyPhrase":"set",
+      "direction":null,
+      "command":"deep ape",
+      "shorthand":"Ape"
+    },
+    "nextMoves":[
+      "set static beast",
+      "set loaded beast",
+      "fall back to crab",
+      "ape reach",
+      "left leg scorpion sweep",
+      "right leg scorpion sweep",
+      "left leg reaching underswitch",
+      "right leg reaching underswitch",
+      "left leg reverse reaching underswitch",
+      "right leg reverse reaching underswitch",
+      "left leg high hip reaching underswitch",
+      "right leg high hip reaching underswitch",
+      "left leg front sweep",
+      "right leg front sweep"
+    ]
+  },
+  {
+    "move":"to ape",
+    "alias":"set deep ape",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"static activations",
+    "callout":{
+      "keyPhrase":"to",
+      "direction":null,
+      "command":"ape",
+      "shorthand":"- Ape"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"push back to deep ape",
+    "alias":"set deep ape",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"static activations",
+    "callout":{
+      "keyPhrase":"push back to",
+      "direction":null,
+      "command":"deep ape",
+      "shorthand":null
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"set loaded beast",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"static activations",
+    "callout":{
+      "keyPhrase":"set",
+      "direction":null,
+      "command":"loaded beast",
+      "shorthand":"LB"
+    },
+    "nextMoves":[
+      "set static beast",
+      "set deep ape",
+      "loaded beast unload",
+      "beast wave unload",
+      "left leg scorpion reach precursor loaded beast",
+      "right leg scorpion reach precursor loaded beast",
+      "left leg beast reach",
+      "right leg beast reach", 
+      "left leg underswitch precursor static beast",
+      "slide to left leg underswitch precursor static beast",
+      "right leg underswitch precursor static beast",
+      "slide to right leg underswitch precursor static beast", 
+      "slide to left leg underswitch tap precursor static beast", 
+      "slide to right leg underswitch tap precursor static beast",
+      "slide to left leg side kickthrough",
+      "slide to right leg side kickthrough",
+      "left leg front step",
+      "right leg front step",
+      "left leg front step through",
+      "right leg front step through",
+      "left leg front kickthrough",
+      "right leg front kickthrough",
+      "slide to left leg scorpion switch",
+      "slide to right leg scorpion switch",
+      "slide to left leg scorpion sweep",
+      "slide to right leg scorpion sweep",
+      "slide to left leg spinning underswitch",
+      "slide to right leg spinning underswitch"
+    ]
+  },
+  {
+    "move":"return to loaded beast",
+    "alias":"set loaded beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"static activations",
+    "callout":{
+      "keyPhrase":"return to",
+      "direction":null,
+      "command":"loaded beast",
+      "shorthand":"- LB"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into loaded beast",
+    "alias":"set loaded beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"static activations",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":null,
+      "command":"loaded beast",
+      "shorthand":"- LB"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to loaded beast",
+    "alias":"set loaded beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"static activations",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":null,
+      "command":"loaded beast",
+      "shorthand":"pop back to LB"
+    },
+    "nextMoves":[]
+  }
+]

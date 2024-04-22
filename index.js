@@ -12,7 +12,6 @@ import userFlowRoutes from './src/routes/userFlowRoutes.js';
 
 //Data filepaths:
 const basesFile = path.resolve('./data/basePositions.json');
-const movesFile = path.resolve('./data/moveList.json');
 // Connecting to the database
 mongoose.connect('mongodb://localhost:27017/af-sequences')
     .then(() => console.log("Successfully connected to the Mongo database"))
@@ -43,8 +42,13 @@ app.get('/base-positions', async (req, res, next) => {
 
 app.get('/move-list', async (req, res, next) => {
     try {
-        let data = await dataHandler.getAll(movesFile);
-        return res.json(data);
+        let SAmoves = await dataHandler.getAll(path.resolve('./data/move-lists/SA.json'));
+        let FSSmoves = await dataHandler.getAll(path.resolve('./data/move-lists/FSS.json'));
+        let ST1moves = await dataHandler.getAll(path.resolve('./data/move-lists/STlv1.json'));
+        let ST2moves = await dataHandler.getAll(path.resolve('./data/move-lists/STlv2.json'));
+        let ST3moves = await dataHandler.getAll(path.resolve('./data/move-lists/STlv3.json'));
+        let moveList = SAmoves.concat(FSSmoves, ST1moves, ST2moves, ST3moves);
+        return res.json(moveList);
     } catch (err) {
         console.error(err);
         return next(err);
