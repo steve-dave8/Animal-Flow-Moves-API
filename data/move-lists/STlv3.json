@@ -810,5 +810,35 @@
       "shorthand":"float to RL SKT"
     },
     "nextMoves":[]
+  },
+  {
+    "move":"float to left leg front kickthrough",
+    "alias":"left leg front kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"float to",
+      "direction":"left leg",
+      "command":"front kickthrough",
+      "shorthand":"float to LL FKT"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"float to right leg front kickthrough",
+    "alias":"right leg front kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"float to",
+      "direction":"right leg",
+      "command":"front kickthrough",
+      "shorthand":"float to RL FKT"
+    },
+    "nextMoves":[]
   }
 ]

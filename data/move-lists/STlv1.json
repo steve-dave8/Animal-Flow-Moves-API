@@ -638,7 +638,8 @@
       "left leg levitating underswitch",
       "left leg levitating underswitch shift",
       "left side double crocodile roll",
-      "float to right leg side kickthrough"
+      "float to right leg side kickthrough",
+      "float to right leg front kickthrough"
     ]
   },
   {
@@ -747,7 +748,8 @@
       "right leg levitating underswitch",
       "right leg levitating underswitch shift",
       "right side double crocodile roll",
-      "float to left leg side kickthrough"
+      "float to left leg side kickthrough",
+      "float to left leg front kickthrough"
     ]
   },
   {
@@ -928,7 +930,8 @@
       "pop back to left side double crocodile roll",
       "pop back to right side double crocodile roll",
       "float to left leg side kickthrough",
-      "float to right leg side kickthrough"
+      "float to right leg side kickthrough",
+      "float to left leg front kickthrough"
     ]
   },
   {
@@ -979,7 +982,8 @@
       "pop back to left side double crocodile roll",
       "pop back to right side double crocodile roll",
       "float to left leg side kickthrough",
-      "float to right leg side kickthrough"
+      "float to right leg side kickthrough",
+      "float to right leg front kickthrough"
     ]
   },
   {
@@ -1030,7 +1034,8 @@
       "pop back to left side double crocodile roll",
       "pop back to right side double crocodile roll",
       "float to left leg side kickthrough",
-      "float to right leg side kickthrough"
+      "float to right leg side kickthrough",
+      "float to right leg front kickthrough"
     ]
   },
   {
@@ -1081,7 +1086,8 @@
       "pop back to left side double crocodile roll",
       "pop back to right side double crocodile roll",
       "float to left leg side kickthrough",
-      "float to right leg side kickthrough"
+      "float to right leg side kickthrough",
+      "float to left leg front kickthrough"
     ]
   },
   {

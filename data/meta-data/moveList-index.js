@@ -190,5 +190,7 @@ right side double crocodile roll (alias: right side crocodile roll)
 pop back to right side double crocodile roll (alias: pop back to right side crocodile roll)
 float to left leg side kickthrough (alias: left leg side kickthrough)
 float to right leg side kickthrough (alias: right leg side kickthrough)
+float to left leg front kickthrough (alias: left leg front kickthrough)
+float to right leg front kickthrough (alias: right leg front kickthrough)
 
 */ 

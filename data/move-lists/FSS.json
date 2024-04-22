@@ -37,7 +37,11 @@
       "slide to left leg scorpion sweep",
       "slide to right leg scorpion sweep",
       "slide to left leg spinning underswitch",
-      "slide to right leg spinning underswitch"
+      "slide to right leg spinning underswitch",
+      "float to left leg side kickthrough",
+      "float to right leg side kickthrough",
+      "float to left leg front kickthrough",
+      "float to right leg front kickthrough"
     ]
   },
   {
@@ -80,7 +84,9 @@
       "left leg front step through",
       "continue the switch precursor left leg scorpion reach",
       "float to left leg side kickthrough",
-      "float to right leg side kickthrough"
+      "float to right leg side kickthrough",
+      "float to left leg front kickthrough",
+      "float to right leg front kickthrough"
     ]
   },
   {
@@ -106,7 +112,9 @@
       "right leg front step through",
       "continue the switch precursor right leg scorpion reach",
       "float to left leg side kickthrough",
-      "float to right leg side kickthrough"
+      "float to right leg side kickthrough",
+      "float to left leg front kickthrough",
+      "float to right leg front kickthrough"
     ]
   },
   {
@@ -129,7 +137,9 @@
       "left leg side kickthrough",
       "continue the switch precursor left leg scorpion reach",
       "float to left leg side kickthrough",
-      "float to right leg side kickthrough"    
+      "float to right leg side kickthrough",
+      "float to left leg front kickthrough",
+      "float to right leg front kickthrough"   
     ]
   },
   {
@@ -167,7 +177,9 @@
       "right leg side kickthrough",
       "continue the switch precursor right leg scorpion reach",
       "float to left leg side kickthrough",
-      "float to right leg side kickthrough"  
+      "float to right leg side kickthrough",
+      "float to left leg front kickthrough",
+      "float to right leg front kickthrough" 
     ]
   },
   {
@@ -201,7 +213,8 @@
     "nextMoves":[
       "return to loaded beast",
       "left leg front step",
-      "left leg front step through"
+      "left leg front step through",
+      "float to right leg front kickthrough"
     ]
   },
   {
@@ -235,7 +248,8 @@
     "nextMoves":[
       "return to loaded beast",
       "right leg front step",
-      "right leg front step through"
+      "right leg front step through",
+      "float to left leg front kickthrough"
     ]
   },
   {
