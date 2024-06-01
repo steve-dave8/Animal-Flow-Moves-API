@@ -1,4 +1,4 @@
-/*A list of all of the movements available in moveList.json in the order they appear. 
+/*A list of all of the movements available in ./data/move-lists in the order they appear. 
 Moves with aliases are indented. Where necessary, precursors and deeper aliases are noted in brackets.
 
 >>>>>Static Activations:
@@ -184,13 +184,17 @@ left leg front sweep
 right leg front sweep
 left side double crocodile roll (alias: left side crocodile roll)
     into left side double crocodile roll (alias: left side crocodile roll)
-pop back to left side double crocodile roll (alias: pop back to left side crocodile roll)
+    pop back to left side double crocodile roll (alias: pop back to left side crocodile roll)
 right side double crocodile roll (alias: right side crocodile roll)
     into right side double crocodile roll (alias: right side crocodile roll)
-pop back to right side double crocodile roll (alias: pop back to right side crocodile roll)
+    pop back to right side double crocodile roll (alias: pop back to right side crocodile roll)
 float to left leg side kickthrough (alias: left leg side kickthrough)
 float to right leg side kickthrough (alias: right leg side kickthrough)
 float to left leg front kickthrough (alias: left leg front kickthrough)
 float to right leg front kickthrough (alias: right leg front kickthrough)
+left side rotating crab
+    into left side rotating crab
+right side rotating crab
+    into right side rotating crab
 
 */ 

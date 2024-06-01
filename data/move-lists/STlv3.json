@@ -100,7 +100,9 @@
       "right leg levitating underswitch shift",
       "into right side lateral pop out",
       "into right leg spinning underswitch",
-      "into right side double crocodile roll"
+      "into right side double crocodile roll",
+      "left side rotating crab",
+      "right side rotating crab"
     ]
   },
   {
@@ -189,7 +191,9 @@
       "right leg levitating underswitch shift",
       "into left side lateral pop out",
       "into left leg spinning underswitch",
-      "into left side double crocodile roll"
+      "into left side double crocodile roll",
+      "left side rotating crab",
+      "right side rotating crab"
     ]
   },
   {
@@ -838,6 +842,112 @@
       "direction":"right leg",
       "command":"front kickthrough",
       "shorthand":"float to RL FKT"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left side rotating crab",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left side",
+      "command":"rotating crab",
+      "shorthand": "LS RC"
+    },
+    "nextMoves":[
+      "set deep ape",
+      "left arm crab reach",
+      "right arm crab reach",
+      "into right arm crab reach",
+      "left leg underswitch precursor static crab",
+      "right leg underswitch precursor static crab",
+      "left leg underswitch tap precursor static crab",
+      "right leg underswitch tap precursor static crab",
+      "left leg jumping underswitch",
+      "right leg jumping underswitch",
+      "to left leg front kickthrough",
+      "left leg full scorpion",
+      "right leg full scorpion",
+      "left leg underswitch to ape",
+      "right leg underswitch to ape",
+      "into right leg roll through",
+      "left leg jumping underswitch shift",
+      "right leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift"
+    ]
+  },
+  {
+    "move":"into left side rotating crab",
+    "alias":"left side rotating crab",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left side",
+      "command":"rotating crab",
+      "shorthand": "- LS RC"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right side rotating crab",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right side",
+      "command":"rotating crab",
+      "shorthand": "RS RC"
+    },
+    "nextMoves":[
+      "set deep ape",
+      "left arm crab reach",
+      "into left arm crab reach",
+      "right arm crab reach",
+      "left leg underswitch precursor static crab",
+      "right leg underswitch precursor static crab",
+      "left leg underswitch tap precursor static crab",
+      "right leg underswitch tap precursor static crab",
+      "left leg jumping underswitch",
+      "right leg jumping underswitch",
+      "to right leg front kickthrough",
+      "left leg full scorpion",
+      "right leg full scorpion",
+      "left leg underswitch to ape",
+      "right leg underswitch to ape",
+      "into left leg roll through",
+      "left leg jumping underswitch shift",
+      "right leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift"
+    ]
+  },
+  {
+    "move":"into right side rotating crab",
+    "alias":"right side rotating crab",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right side",
+      "command":"rotating crab",
+      "shorthand": "- RS RC"
     },
     "nextMoves":[]
   }

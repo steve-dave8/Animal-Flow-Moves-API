@@ -122,7 +122,9 @@
       "left leg levitating underswitch shift",
       "right leg levitating underswitch",
       "right leg levitating underswitch shift",
-      "into left side double crocodile roll"
+      "into left side double crocodile roll",
+      "left side rotating crab",
+      "right side rotating crab"
     ]
   },
   {
@@ -175,7 +177,9 @@
       "left leg levitating underswitch shift",
       "right leg levitating underswitch",
       "right leg levitating underswitch shift",
-      "into right side double crocodile roll"
+      "into right side double crocodile roll",
+      "left side rotating crab",
+      "right side rotating crab"
     ]
   },
   {
@@ -604,7 +608,8 @@
       "close the gap precursor left leg roll through",
       "left leg jumping underswitch shift",
       "left leg levitating underswitch",
-      "left leg levitating underswitch shift"
+      "left leg levitating underswitch shift",
+      "right side rotating crab"
     ]
   },
   {
@@ -672,7 +677,8 @@
       "close the gap precursor right leg roll through",
       "right leg jumping underswitch shift",
       "right leg levitating underswitch",
-      "right leg levitating underswitch shift"
+      "right leg levitating underswitch shift",
+      "left side rotating crab"
     ]
   },
   {
