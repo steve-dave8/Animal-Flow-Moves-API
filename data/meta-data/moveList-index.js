@@ -196,5 +196,13 @@ left side rotating crab
     into left side rotating crab
 right side rotating crab
     into right side rotating crab
+left leg reverse jumping underswitch
+    into left leg reverse jumping underswitch
+right leg reverse jumping underswitch
+    into right leg reverse jumping underswitch
+left leg forward jumping underswitch
+    into left leg forward jumping underswitch
+right leg forward jumping underswitch
+    into right leg forward jumping underswitch
 
 */ 

@@ -415,7 +415,13 @@
       "right leg levitating underswitch shift",
       "into right leg levitating underswitch shift",
       "into right leg spinning underswitch",
-      "into left side rotating crab"
+      "into left side rotating crab",
+      "left leg reverse jumping underswitch",
+      "right leg reverse jumping underswitch",
+      "into right leg reverse jumping underswitch",
+      "left leg forward jumping underswitch",
+      "right leg forward jumping underswitch",
+      "into right leg forward jumping underswitch"
     ]
   },
   {
@@ -490,7 +496,13 @@
       "right leg levitating underswitch",
       "right leg levitating underswitch shift",
       "into left leg spinning underswitch",
-      "into right side rotating crab"
+      "into right side rotating crab",
+      "left leg reverse jumping underswitch",
+      "into left leg reverse jumping underswitch",
+      "right leg reverse jumping underswitch",   
+      "left leg forward jumping underswitch",
+      "into left leg forward jumping underswitch",
+      "right leg forward jumping underswitch"
     ]
   }
 ]
