@@ -204,5 +204,29 @@ left leg forward jumping underswitch
     into left leg forward jumping underswitch
 right leg forward jumping underswitch
     into right leg forward jumping underswitch
+left leg forward traveling underswitch (precursor: static crab)
+    into left leg forward traveling underswitch (precursor: static crab)
+right leg forward traveling underswitch (precursor: static crab)
+    into right leg forward traveling underswitch (precursor: static crab)
+left leg reverse traveling underswitch (precursor: static crab)
+    into left leg reverse traveling underswitch (precursor: static crab)
+right leg reverse traveling underswitch (precursor: static crab)
+    into right leg reverse traveling underswitch (precursor: static crab)
+left leg forward traveling underswitch (precursor: static beast)
+    into left leg forward traveling underswitch (precursor: static beast)  
+    slide to left leg forward traveling underswitch (precursor: static beast)
+    pop back to left leg forward traveling underswitch (precursor: static beast)
+right leg forward traveling underswitch (precursor: static beast)
+    into right leg forward traveling underswitch (precursor: static beast) 
+    slide to right leg forward traveling underswitch (precursor: static beast)
+    pop back to right leg forward traveling underswitch (precursor: static beast)
+left leg reverse traveling underswitch (precursor: static beast)
+    into left leg reverse traveling underswitch (precursor: static beast)
+    slide to left leg reverse traveling underswitch (precursor: static beast)
+    pop back to left leg reverse traveling underswitch (precursor: static beast)
+right leg reverse traveling underswitch (precursor: static beast)
+    into right leg reverse traveling underswitch (precursor: static beast)
+    slide to right leg reverse traveling underswitch (precursor: static beast)
+    pop back to right leg reverse traveling underswitch (precursor: static beast)
 
 */ 

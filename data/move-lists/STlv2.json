@@ -128,7 +128,13 @@
       "left leg reverse jumping underswitch",
       "right leg reverse jumping underswitch",
       "left leg forward jumping underswitch",
-      "right leg forward jumping underswitch"
+      "right leg forward jumping underswitch",
+      "left leg forward traveling underswitch precursor static crab",
+      "right leg forward traveling underswitch precursor static crab",
+      "left leg reverse traveling underswitch precursor static crab",
+      "right leg reverse traveling underswitch precursor static crab",
+      "into left leg forward traveling underswitch precursor static beast",
+      "into left leg reverse traveling underswitch precursor static beast"
     ]
   },
   {
@@ -187,7 +193,13 @@
       "left leg reverse jumping underswitch",
       "right leg reverse jumping underswitch",
       "left leg forward jumping underswitch",
-      "right leg forward jumping underswitch"
+      "right leg forward jumping underswitch",
+      "left leg forward traveling underswitch precursor static crab",
+      "right leg forward traveling underswitch precursor static crab",
+      "left leg reverse traveling underswitch precursor static crab",
+      "right leg reverse traveling underswitch precursor static crab",
+      "into right leg forward traveling underswitch precursor static beast",
+      "into right leg reverse traveling underswitch precursor static beast"
     ]
   },
   {
@@ -471,7 +483,9 @@
       "left leg levitating underswitch",
       "left leg levitating underswitch shift",
       "left leg reverse jumping underswitch",
-      "left leg forward jumping underswitch"
+      "left leg forward jumping underswitch",
+      "left leg forward traveling underswitch precursor static crab",
+      "left leg reverse traveling underswitch precursor static crab"
     ]
   },
   {
@@ -588,7 +602,9 @@
       "right leg levitating underswitch",
       "right leg levitating underswitch shift",
       "right leg reverse jumping underswitch",
-      "right leg forward jumping underswitch"
+      "right leg forward jumping underswitch",
+      "right leg forward traveling underswitch precursor static crab",
+      "right leg reverse traveling underswitch precursor static crab"
     ]
   },
   {
@@ -623,7 +639,9 @@
       "left leg levitating underswitch shift",
       "right side rotating crab",
       "left leg reverse jumping underswitch",
-      "left leg forward jumping underswitch"
+      "left leg forward jumping underswitch",
+      "left leg forward traveling underswitch precursor static crab",
+      "left leg reverse traveling underswitch precursor static crab"
     ]
   },
   {
@@ -694,7 +712,9 @@
       "right leg levitating underswitch shift",
       "left side rotating crab",
       "right leg reverse jumping underswitch",
-      "right leg forward jumping underswitch"
+      "right leg forward jumping underswitch",
+      "right leg forward traveling underswitch precursor static crab",
+      "right leg reverse traveling underswitch precursor static crab"
     ]
   },
   {
