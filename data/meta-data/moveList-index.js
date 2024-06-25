@@ -228,5 +228,11 @@ right leg reverse traveling underswitch (precursor: static beast)
     into right leg reverse traveling underswitch (precursor: static beast)
     slide to right leg reverse traveling underswitch (precursor: static beast)
     pop back to right leg reverse traveling underswitch (precursor: static beast)
+jump to left leg forward traveling side kickthrough (alias: left leg side kickthrough)
+jump to right leg forward traveling side kickthrough (alias: right leg side kickthrough)
+jump to left leg reverse traveling side kickthrough (alias: left leg side kickthrough)
+    pop back to left leg reverse traveling side kickthrough (alias: left leg side kickthrough)
+jump to right leg reverse traveling side kickthrough (alias: right leg side kickthrough)
+    pop back to right leg reverse traveling side kickthrough (alias: left leg side kickthrough)
 
 */ 

@@ -735,7 +735,9 @@
       "left leg reverse jumping underswitch",
       "left leg forward jumping underswitch",
       "left leg forward traveling underswitch precursor static crab",
-      "left leg reverse traveling underswitch precursor static crab"
+      "left leg reverse traveling underswitch precursor static crab",
+      "jump to right leg forward traveling side kickthrough",
+      "jump to right leg reverse traveling side kickthrough"
     ]
   },
   {
@@ -849,7 +851,9 @@
       "right leg reverse jumping underswitch",
       "right leg forward jumping underswitch",
       "right leg forward traveling underswitch precursor static crab",
-      "right leg reverse traveling underswitch precursor static crab"
+      "right leg reverse traveling underswitch precursor static crab",
+      "jump to left leg forward traveling side kickthrough",
+      "jump to left leg reverse traveling side kickthrough"
     ]
   },
   {
@@ -1035,7 +1039,8 @@
       "pop back to left leg forward traveling underswitch precursor static beast",
       "pop back to right leg forward traveling underswitch precursor static beast",
       "pop back to left leg reverse traveling underswitch precursor static beast",
-      "pop back to right leg reverse traveling underswitch precursor static beast"
+      "pop back to right leg reverse traveling underswitch precursor static beast",
+      "pop back to left leg reverse traveling side kickthrough"
     ]
   },
   {
@@ -1091,7 +1096,8 @@
       "pop back to left leg forward traveling underswitch precursor static beast",
       "pop back to right leg forward traveling underswitch precursor static beast",
       "pop back to left leg reverse traveling underswitch precursor static beast",
-      "pop back to right leg reverse traveling underswitch precursor static beast"
+      "pop back to right leg reverse traveling underswitch precursor static beast",
+      "pop back to right leg reverse traveling side kickthrough"
     ]
   },
   {
@@ -1147,7 +1153,8 @@
       "pop back to left leg forward traveling underswitch precursor static beast",
       "pop back to right leg forward traveling underswitch precursor static beast",
       "pop back to left leg reverse traveling underswitch precursor static beast",
-      "pop back to right leg reverse traveling underswitch precursor static beast"
+      "pop back to right leg reverse traveling underswitch precursor static beast",
+      "pop back to right leg reverse traveling side kickthrough"
     ]
   },
   {
@@ -1203,7 +1210,8 @@
       "pop back to left leg forward traveling underswitch precursor static beast",
       "pop back to right leg forward traveling underswitch precursor static beast",
       "pop back to left leg reverse traveling underswitch precursor static beast",
-      "pop back to right leg reverse traveling underswitch precursor static beast"
+      "pop back to right leg reverse traveling underswitch precursor static beast",
+      "pop back to left leg reverse traveling side kickthrough"
     ]
   },
   {

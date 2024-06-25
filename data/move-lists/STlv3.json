@@ -1640,5 +1640,95 @@
       "shorthand": "pop back to RL RTUS"
     },
     "nextMoves":[]
+  },
+  {
+    "move":"jump to left leg forward traveling side kickthrough",
+    "alias":"left leg side kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"jump to",
+      "direction":"left leg forward",
+      "command":"traveling side kickthrough",
+      "shorthand": "J - LL FTSKT"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"jump to right leg forward traveling side kickthrough",
+    "alias":"right leg side kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"jump to",
+      "direction":"right leg forward",
+      "command":"traveling side kickthrough",
+      "shorthand": "J - RL FTSKT"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"jump to left leg reverse traveling side kickthrough",
+    "alias":"left leg side kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"jump to",
+      "direction":"left leg reverse",
+      "command":"traveling side kickthrough",
+      "shorthand": "J - LL RTSKT"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to left leg reverse traveling side kickthrough",
+    "alias":"left leg side kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"left leg reverse",
+      "command":"traveling side kickthrough",
+      "shorthand": "pop back to LL RTSKT"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"jump to right leg reverse traveling side kickthrough",
+    "alias":"right leg side kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"jump to",
+      "direction":"right leg reverse",
+      "command":"traveling side kickthrough",
+      "shorthand": "J - RL RTSKT"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to right leg reverse traveling side kickthrough",
+    "alias":"right leg side kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"right leg reverse",
+      "command":"traveling side kickthrough",
+      "shorthand": "pop back to RL RTSKT"
+    },
+    "nextMoves":[]
   }
 ]
