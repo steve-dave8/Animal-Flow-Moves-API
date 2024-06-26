@@ -92,7 +92,8 @@
       "float to left leg front kickthrough",
       "float to right leg front kickthrough",
       "slide to left leg forward traveling underswitch precursor static beast",
-      "slide to left leg reverse traveling underswitch precursor static beast"
+      "slide to left leg reverse traveling underswitch precursor static beast",
+      "pop to left side rotating ape"
     ]
   },
   {
@@ -122,7 +123,8 @@
       "float to left leg front kickthrough",
       "float to right leg front kickthrough",
       "slide to right leg forward traveling underswitch precursor static beast",
-      "slide to right leg reverse traveling underswitch precursor static beast"
+      "slide to right leg reverse traveling underswitch precursor static beast",
+      "pop to right side rotating ape"
     ]
   },
   {
@@ -149,7 +151,8 @@
       "float to left leg front kickthrough",
       "float to right leg front kickthrough",
       "left leg forward traveling underswitch precursor static crab",
-      "left leg reverse traveling underswitch precursor static crab"   
+      "left leg reverse traveling underswitch precursor static crab",
+      "pop to left side rotating ape"
     ]
   },
   {
@@ -191,7 +194,8 @@
       "float to left leg front kickthrough",
       "float to right leg front kickthrough",
       "right leg forward traveling underswitch precursor static crab",
-      "right leg reverse traveling underswitch precursor static crab"
+      "right leg reverse traveling underswitch precursor static crab",
+      "pop to right side rotating ape"
     ]
   },
   {
@@ -352,7 +356,9 @@
       "left leg high hip reaching underswitch",
       "right leg high hip reaching underswitch",
       "left leg front sweep",
-      "right leg front sweep" 
+      "right leg front sweep",
+      "left side rotating ape",
+      "right side rotating ape"
     ]
   },
   {

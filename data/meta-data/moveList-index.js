@@ -234,5 +234,11 @@ jump to left leg reverse traveling side kickthrough (alias: left leg side kickth
     pop back to left leg reverse traveling side kickthrough (alias: left leg side kickthrough)
 jump to right leg reverse traveling side kickthrough (alias: right leg side kickthrough)
     pop back to right leg reverse traveling side kickthrough (alias: left leg side kickthrough)
+left side rotating ape
+    into left side rotating ape
+    pop to left side rotating ape
+right side rotating ape
+    into right side rotating ape
+    pop to right side rotating ape
 
 */ 
