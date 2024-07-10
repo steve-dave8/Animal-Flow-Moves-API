@@ -46,9 +46,11 @@ right leg underswitch (precursor: static crab)
     into right leg underswitch (precursor: static crab)
 left leg underswitch (precursor: static beast)
     slide to left leg underswitch (precursor: static beast)
+    high hip slide to left leg underswitch (precursor: static beast)
     pop back to left leg underswitch (precursor: static beast)
 right leg underswitch (precursor: static beast)
     slide to right leg underswitch (precursor: static beast)
+    high hip slide to right leg underswitch (precursor: static beast)
     pop back to right leg underswitch (precursor: static beast)
 left leg underswitch tap (precursor: static crab)
     into left leg underswitch tap (precursor: static crab)
@@ -56,9 +58,11 @@ right leg underswitch tap (precursor: static crab)
     into right leg underswitch tap (precursor: static crab)
 left leg underswitch tap (precursor: static beast)
     slide to left leg underswitch tap (precursor: static beast)
+    high hip slide to left leg underswitch tap (precursor: static beast)
     pop back to left leg underswitch tap (precursor: static beast)
 right leg underswitch tap (precursor: static beast)
     slide to right leg underswitch tap (precursor: static beast)
+    high hip slide to right leg underswitch tap (precursor: static beast)
     pop back to right leg underswitch tap (precursor: static beast)
 left leg jumping underswitch
     into left leg jumping underswitch
@@ -67,12 +71,14 @@ right leg jumping underswitch
 left leg side kickthrough
     to left leg side kickthrough
     slide to left leg side kickthrough
+    high hip slide to left leg side kickthrough
     pop back to left leg side kickthrough
     jump to left leg side kickthrough
     levitate to left leg side kickthrough
 right leg side kickthrough
     to right leg side kickthrough
     slide to right leg side kickthrough
+    high hip slide to right leg side kickthrough
     pop back to right leg side kickthrough
     jump to right leg side kickthrough
     levitate to right leg side kickthrough
@@ -91,11 +97,13 @@ right leg front kickthrough
 left leg scorpion switch
     to left leg scorpion switch
     slide to left leg scorpion switch
+    high hip slide to left leg scorpion switch
     pop back to left leg scorpion switch
 continue the switch (precursor: left leg scorpion reach)
 right leg scorpion switch
     to right leg scorpion switch
     slide to right leg scorpion switch
+    high hip slide to right leg scorpion switch
     pop back to right leg scorpion switch
 continue the switch (precursor: right leg scorpion reach)
 left leg full scorpion
@@ -114,10 +122,12 @@ right leg reaching underswitch
     to right leg reaching underswitch
 left leg scorpion sweep
     slide to left leg scorpion sweep
+    high hip slide to left leg scorpion sweep
     into left leg scorpion sweep
     pop back to left leg scorpion sweep
 right leg scorpion sweep
     slide to right leg scorpion sweep
+    high hip slide to right leg scorpion sweep
     into right leg scorpion sweep
     pop back to right leg scorpion sweep
 left side crocodile roll
@@ -173,9 +183,11 @@ right leg high hip reaching underswitch (alias: right leg reaching underswitch)
 left leg spinning underswitch
     into left leg spinning underswitch
     slide to left leg spinning underswitch
+    high hip slide to left leg spinning underswitch
 right leg spinning underswitch
     into right leg spinning underswitch
     slide to right leg spinning underswitch
+    high hip slide to right leg spinning underswitch
 jump to left leg front kickthrough (alias: left leg front kickthrough)
 levitate to left leg front kickthrough (alias: left leg front kickthrough)
 jump to right leg front kickthrough (alias: right leg front kickthrough)
@@ -215,18 +227,22 @@ right leg reverse traveling underswitch (precursor: static crab)
 left leg forward traveling underswitch (precursor: static beast)
     into left leg forward traveling underswitch (precursor: static beast)  
     slide to left leg forward traveling underswitch (precursor: static beast)
+    high hip slide to left leg forward traveling underswitch (precursor: static beast)
     pop back to left leg forward traveling underswitch (precursor: static beast)
 right leg forward traveling underswitch (precursor: static beast)
     into right leg forward traveling underswitch (precursor: static beast) 
     slide to right leg forward traveling underswitch (precursor: static beast)
+    high hip slide to right leg forward traveling underswitch (precursor: static beast)
     pop back to right leg forward traveling underswitch (precursor: static beast)
 left leg reverse traveling underswitch (precursor: static beast)
     into left leg reverse traveling underswitch (precursor: static beast)
     slide to left leg reverse traveling underswitch (precursor: static beast)
+    high hip slide to left leg reverse traveling underswitch (precursor: static beast)
     pop back to left leg reverse traveling underswitch (precursor: static beast)
 right leg reverse traveling underswitch (precursor: static beast)
     into right leg reverse traveling underswitch (precursor: static beast)
     slide to right leg reverse traveling underswitch (precursor: static beast)
+    high hip slide to right leg reverse traveling underswitch (precursor: static beast)
     pop back to right leg reverse traveling underswitch (precursor: static beast)
 jump to left leg forward traveling side kickthrough (alias: left leg side kickthrough)
 jump to right leg forward traveling side kickthrough (alias: right leg side kickthrough)

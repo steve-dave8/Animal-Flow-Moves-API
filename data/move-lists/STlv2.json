@@ -276,6 +276,21 @@
     "nextMoves":[]
   },
   {
+    "move":"high hip slide to left leg scorpion sweep",
+    "alias":"left leg scorpion sweep",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"high hip slide to",
+      "direction":"left leg",
+      "command":"scorpion sweep",
+      "shorthand":"HH slide to LL SSweep"
+    },
+    "nextMoves":[]
+  },
+  {
     "move":"into left leg scorpion sweep",
     "alias":"left leg scorpion sweep",
     "precursor":null,
@@ -352,6 +367,21 @@
       "direction":"right leg",
       "command":"scorpion sweep",
       "shorthand":"slide to RL SSweep"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"high hip slide to right leg scorpion sweep",
+    "alias":"right leg scorpion sweep",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"high hip slide to",
+      "direction":"right leg",
+      "command":"scorpion sweep",
+      "shorthand":"HH slide to RL SSweep"
     },
     "nextMoves":[]
   },

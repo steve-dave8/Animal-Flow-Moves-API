@@ -174,6 +174,21 @@
     "nextMoves":[]
   },
   {
+    "move":"high hip slide to left leg underswitch",
+    "alias":"left leg underswitch precursor static beast",
+    "precursor":"static beast",
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"high hip slide to",
+      "direction":"left leg",
+      "command":"underswitch",
+      "shorthand":"HH slide to LL US"
+    },
+    "nextMoves":[]
+  },
+  {
     "move":"pop back to left leg underswitch",
     "alias":"left leg underswitch precursor static beast",
     "precursor":"static beast",
@@ -251,6 +266,21 @@
       "direction":"right leg",
       "command":"underswitch",
       "shorthand":"slide to RL US"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"high hip slide to right leg underswitch",
+    "alias":"right leg underswitch precursor static beast",
+    "precursor":"static beast",
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"high hip slide to",
+      "direction":"right leg",
+      "command":"underswitch",
+      "shorthand":"HH slide to RL US"
     },
     "nextMoves":[]
   },
@@ -473,6 +503,21 @@
     "nextMoves":[]
   },
   {
+    "move":"high hip slide to left leg underswitch tap",
+    "alias":"left leg underswitch tap precursor static beast",
+    "precursor":"static beast",
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"high hip slide to",
+      "direction":"left leg",
+      "command":"underswitch tap",
+      "shorthand":"HH slide to LL USTap"
+    },
+    "nextMoves":[]
+  },
+  {
     "move":"pop back to left leg underswitch tap",
     "alias":"left leg underswitch tap precursor static beast",
     "precursor":"static beast",
@@ -547,6 +592,21 @@
       "direction":"right leg",
       "command":"underswitch tap",
       "shorthand":"slide to RL USTap"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"high hip slide to right leg underswitch tap",
+    "alias":"right leg underswitch tap precursor static beast",
+    "precursor":"static beast",
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"high hip slide to",
+      "direction":"right leg",
+      "command":"underswitch tap",
+      "shorthand":"HH slide to RL USTap"
     },
     "nextMoves":[]
   },
@@ -779,6 +839,21 @@
     "nextMoves":[]
   },
   {
+    "move":"high hip slide to left leg side kickthrough",
+    "alias":"left leg side kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"high hip slide to",
+      "direction":"left leg",
+      "command":"side kickthrough",
+      "shorthand":"HH slide to LL SKT"
+    },
+    "nextMoves":[]
+  },
+  {
     "move":"pop back to left leg side kickthrough",
     "alias":"left leg side kickthrough",
     "precursor":null,
@@ -891,6 +966,21 @@
       "direction":"right leg",
       "command":"side kickthrough",
       "shorthand":"slide to RL SKT"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"high hip slide to right leg side kickthrough",
+    "alias":"right leg side kickthrough",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"high hip slide to",
+      "direction":"right leg",
+      "command":"side kickthrough",
+      "shorthand":"HH slide to RL SKT"
     },
     "nextMoves":[]
   },
@@ -1304,6 +1394,21 @@
     "nextMoves":[]
   },
   {
+    "move":"high hip slide to left leg scorpion switch",
+    "alias":"left leg scorpion switch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"high hip slide to",
+      "direction":"left leg",
+      "command":"scorpion switch",
+      "shorthand":"HH slide to LL SS"
+    },
+    "nextMoves":[]
+  },
+  {
     "move":"pop back to left leg scorpion switch",
     "alias":"left leg scorpion switch",
     "precursor":null,
@@ -1409,6 +1514,21 @@
       "direction":"right leg",
       "command":"scorpion switch",
       "shorthand":"slide to RL SS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"high hip slide to right leg scorpion switch",
+    "alias":"right leg scorpion switch",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"high hip slide to",
+      "direction":"right leg",
+      "command":"scorpion switch",
+      "shorthand":"HH slide to RL SS"
     },
     "nextMoves":[]
   },
