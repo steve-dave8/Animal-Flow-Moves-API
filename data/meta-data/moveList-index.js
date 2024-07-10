@@ -68,6 +68,10 @@ left leg jumping underswitch
     into left leg jumping underswitch
 right leg jumping underswitch
     into right leg jumping underswitch
+left leg jumping underswitch tap
+    into left leg jumping underswitch tap
+right leg jumping underswitch tap
+    into right leg jumping underswitch tap
 left leg side kickthrough
     to left leg side kickthrough
     slide to left leg side kickthrough
