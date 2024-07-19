@@ -174,6 +174,10 @@ right leg levitating underswitch
     into right leg levitating underswitch
     right leg levitating underswitch shift
         into right leg levitating underswitch shift
+left leg levitating underswitch tap (alias: right leg underswitch tap precursor static beast)
+    into left leg levitating underswitch tap (alias: right leg underswitch tap precursor static beast)
+right leg levitating underswitch tap (alias: left leg underswitch tap precursor static beast)
+    into right leg levitating underswitch tap (alias: left leg underswitch tap precursor static beast)
 left side lateral pop out (alias: left side pop out)
     into left side lateral pop out (alias: left side pop out)
     to lateral pop out (alias: left side pop out, precursor: left side crocodile roll)

@@ -100,6 +100,8 @@
       "left leg levitating underswitch shift",
       "right leg levitating underswitch",
       "right leg levitating underswitch shift",
+      "left leg levitating underswitch tap",
+      "right leg levitating underswitch tap",
       "into right side lateral pop out",
       "into right leg spinning underswitch",
       "into right side double crocodile roll",
@@ -203,6 +205,8 @@
       "left leg levitating underswitch shift",
       "right leg levitating underswitch",
       "right leg levitating underswitch shift",
+      "left leg levitating underswitch tap",
+      "right leg levitating underswitch tap",
       "into left side lateral pop out",
       "into left leg spinning underswitch",
       "into left side double crocodile roll",
@@ -262,6 +266,66 @@
       "direction":"right leg",
       "command":"levitating underswitch shift",
       "shorthand":"- RL LUS shift"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left leg levitating underswitch tap",
+    "alias":"right leg underswitch tap precursor static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg",
+      "command":"levitating underswitch tap",
+      "shorthand":"LL LUSTap"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into left leg levitating underswitch tap",
+    "alias":"right leg underswitch tap precursor static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left leg",
+      "command":"levitating underswitch tap",
+      "shorthand":"- LL LUSTap"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right leg levitating underswitch tap",
+    "alias":"left leg underswitch tap precursor static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg",
+      "command":"levitating underswitch tap",
+      "shorthand":"RL LUSTap"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into right leg levitating underswitch tap",
+    "alias":"left leg underswitch tap precursor static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right leg",
+      "command":"levitating underswitch tap",
+      "shorthand":"- RL LUSTap"
     },
     "nextMoves":[]
   },
@@ -1025,6 +1089,8 @@
       "left leg levitating underswitch shift",
       "right leg levitating underswitch",
       "right leg levitating underswitch shift",
+      "left leg levitating underswitch tap",
+      "right leg levitating underswitch tap",
       "left leg reverse jumping underswitch",
       "right leg reverse jumping underswitch",
       "left leg forward jumping underswitch",
@@ -1090,6 +1156,8 @@
       "left leg levitating underswitch shift",
       "right leg levitating underswitch",
       "right leg levitating underswitch shift",
+      "left leg levitating underswitch tap",
+      "right leg levitating underswitch tap",
       "left leg reverse jumping underswitch",
       "right leg reverse jumping underswitch",
       "left leg forward jumping underswitch",
@@ -1449,6 +1517,8 @@
       "left leg levitating underswitch shift",
       "right leg levitating underswitch",
       "right leg levitating underswitch shift",
+      "left leg levitating underswitch tap",
+      "right leg levitating underswitch tap",
       "left side rotating crab",
       "right side rotating crab",
       "left leg reverse jumping underswitch",
@@ -1551,6 +1621,8 @@
       "left leg levitating underswitch shift",
       "right leg levitating underswitch",
       "right leg levitating underswitch shift",
+      "left leg levitating underswitch tap",
+      "right leg levitating underswitch tap",
       "left side rotating crab",
       "right side rotating crab",
       "left leg reverse jumping underswitch",
@@ -1653,6 +1725,8 @@
       "left leg levitating underswitch shift",
       "right leg levitating underswitch",
       "right leg levitating underswitch shift",
+      "left leg levitating underswitch tap",
+      "right leg levitating underswitch tap",
       "left side rotating crab",
       "right side rotating crab",
       "left leg reverse jumping underswitch",
@@ -1755,6 +1829,8 @@
       "left leg levitating underswitch shift",
       "right leg levitating underswitch",
       "right leg levitating underswitch shift",
+      "left leg levitating underswitch tap",
+      "right leg levitating underswitch tap",
       "left side rotating crab",
       "right side rotating crab",
       "left leg reverse jumping underswitch",
