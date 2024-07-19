@@ -196,6 +196,10 @@ left leg high hip reaching underswitch (alias: left leg reaching underswitch)
     to left leg high hip reaching underswitch (alias: left leg reaching underswitch)
 right leg high hip reaching underswitch (alias: right leg reaching underswitch)
     to right leg high hip reaching underswitch (alias: right leg reaching underswitch)
+left leg high hip reaching underswitch tap (alias: left leg underswitch tap precursor static beast)
+    to left leg high hip reaching underswitch tap (alias: left leg underswitch tap precursor static beast)
+right leg high hip reaching underswitch tap (alias: right leg underswitch tap precursor static beast)
+    to right leg high hip reaching underswitch tap (alias: right leg underswitch tap precursor static beast)
 left leg spinning underswitch
     into left leg spinning underswitch
     slide to left leg spinning underswitch
