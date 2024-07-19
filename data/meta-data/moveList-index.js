@@ -124,6 +124,10 @@ left leg reaching underswitch
     to left leg reaching underswitch
 right leg reaching underswitch
     to right leg reaching underswitch
+left leg reaching underswitch tap (alias: left leg underswitch tap precursor static beast)
+    to left leg reaching underswitch tap (alias: left leg underswitch tap precursor static beast)
+right leg reaching underswitch tap (alias: right leg underswitch tap precursor static beast)
+    to right leg reaching underswitch tap (alias: right leg underswitch tap precursor static beast)
 left leg scorpion sweep
     slide to left leg scorpion sweep
     high hip slide to left leg scorpion sweep
