@@ -15,6 +15,7 @@
     "nextMoves":[
       "set static beast",
       "set loaded beast",
+      "pop back to loaded beast",
       "fall back to crab",
       "into left leg beast reach",
       "into right leg beast reach",
@@ -42,7 +43,45 @@
       "left leg front sweep",
       "right leg front sweep",
       "left side rotating ape",
-      "right side rotating ape"
+      "right side rotating ape",
+      "traveling frog",
+      "forward traveling ape"
+    ]
+  },
+  {
+    "move":"forward traveling ape",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"forward",
+      "command":"traveling ape",
+      "shorthand": "FTA"
+    },
+    "nextMoves":[
+      "set static beast",
+      "pop back to loaded beast",
+      "to left leg side kickthrough",
+      "to right leg side kickthrough",
+      "to left leg front kickthrough",
+      "to right leg front kickthrough",
+      "left leg reaching underswitch",
+      "right leg reaching underswitch",
+      "left leg reaching underswitch tap",
+      "right leg reaching underswitch tap",
+      "into left leg scorpion sweep",
+      "into right leg scorpion sweep",
+      "left leg high hip reaching underswitch",
+      "right leg high hip reaching underswitch",
+      "left leg high hip reaching underswitch tap",
+      "right leg high hip reaching underswitch tap",
+      "left leg front sweep",
+      "right leg front sweep",
+      "traveling frog",
+      "forward traveling ape"
     ]
   }
 ]
