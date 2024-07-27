@@ -1,0 +1,48 @@
+[
+  {
+    "move":"traveling frog",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":null,
+      "direction":null,
+      "command":"traveling frog",
+      "shorthand": "traveling frog"
+    },
+    "nextMoves":[
+      "set static beast",
+      "set loaded beast",
+      "fall back to crab",
+      "into left leg beast reach",
+      "into right leg beast reach",
+      "ape reach",
+      "into left leg front step",
+      "into right leg front step",
+      "into left leg front step through",
+      "into right leg front step through",
+      "left leg reaching underswitch",
+      "right leg reaching underswitch",
+      "left leg reaching underswitch tap",
+      "right leg reaching underswitch tap",
+      "left leg scorpion sweep",
+      "right leg scorpion sweep",
+      "left leg roll through",
+      "right leg roll through",
+      "left leg reverse reaching underswitch",
+      "right leg reverse reaching underswitch",
+      "left leg reverse reaching underswitch tap",
+      "right leg reverse reaching underswitch tap",
+      "left leg high hip reaching underswitch",
+      "right leg high hip reaching underswitch",
+      "left leg high hip reaching underswitch tap",
+      "right leg high hip reaching underswitch tap",
+      "left leg front sweep",
+      "right leg front sweep",
+      "left side rotating ape",
+      "right side rotating ape"
+    ]
+  }
+]

@@ -116,7 +116,8 @@
       "float to right leg front kickthrough",
       "slide to left leg forward traveling underswitch precursor static beast",
       "slide to left leg reverse traveling underswitch precursor static beast",
-      "pop to left side rotating ape"
+      "pop to left side rotating ape",
+      "traveling frog"
     ]
   },
   {
@@ -150,7 +151,8 @@
       "float to right leg front kickthrough",
       "slide to right leg forward traveling underswitch precursor static beast",
       "slide to right leg reverse traveling underswitch precursor static beast",
-      "pop to right side rotating ape"
+      "pop to right side rotating ape",
+      "traveling frog"
     ]
   },
   {
@@ -327,7 +329,8 @@
     "nextMoves":[
       "fall back to crab",
       "set loaded beast",
-      "open"
+      "open",
+      "traveling frog"
     ]
   },
   {
