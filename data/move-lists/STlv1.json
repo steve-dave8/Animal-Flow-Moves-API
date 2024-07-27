@@ -1179,6 +1179,7 @@
       "shorthand":"LL FStep"
     },
     "nextMoves":[
+      "set deep ape",
       "return to loaded beast",
       "left leg beast reach",
       "right leg scorpion sweep",
@@ -1214,6 +1215,7 @@
       "shorthand":"RL FStep"
     },
     "nextMoves":[
+      "set deep ape",
       "return to loaded beast",
       "right leg beast reach",
       "left leg scorpion sweep",
