@@ -208,6 +208,14 @@ right leg spinning underswitch
     into right leg spinning underswitch
     slide to right leg spinning underswitch
     high hip slide to right leg spinning underswitch
+left leg spinning underswitch tap (alias: right leg underswitch tap precursor static crab)
+    into left leg spinning underswitch tap (alias: right leg underswitch tap precursor static crab)
+    slide to left leg spinning underswitch tap (alias: right leg underswitch tap precursor static crab)
+    high hip slide to left leg spinning underswitch tap (alias: right leg underswitch tap precursor static crab)
+right leg spinning underswitch tap (alias: left leg underswitch tap precursor static crab)
+    into right leg spinning underswitch tap (alias: left leg underswitch tap precursor static crab)
+    slide to right leg spinning underswitch tap (alias: left leg underswitch tap precursor static crab)
+    high hip slide to right leg spinning underswitch tap (alias: left leg underswitch tap precursor static crab)
 jump to left leg front kickthrough (alias: left leg front kickthrough)
 levitate to left leg front kickthrough (alias: left leg front kickthrough)
 jump to right leg front kickthrough (alias: right leg front kickthrough)
