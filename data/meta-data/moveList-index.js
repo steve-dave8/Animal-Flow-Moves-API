@@ -168,12 +168,12 @@ right leg jumping underswitch shift (alias: right leg jumping underswitch)
     into right leg jumping underswitch shift (alias: right leg jumping underswitch)
 left leg levitating underswitch
     into left leg levitating underswitch
-    left leg levitating underswitch shift
-        into left leg levitating underswitch shift
+left leg levitating underswitch shift
+    into left leg levitating underswitch shift
 right leg levitating underswitch
     into right leg levitating underswitch
-    right leg levitating underswitch shift
-        into right leg levitating underswitch shift
+right leg levitating underswitch shift
+    into right leg levitating underswitch shift
 left leg levitating underswitch tap (alias: right leg underswitch tap precursor static beast)
     into left leg levitating underswitch tap (alias: right leg underswitch tap precursor static beast)
 right leg levitating underswitch tap (alias: left leg underswitch tap precursor static beast)
