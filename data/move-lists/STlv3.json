@@ -112,6 +112,10 @@
       "right leg reverse jumping underswitch",
       "left leg forward jumping underswitch",
       "right leg forward jumping underswitch",
+      "left leg reverse jumping underswitch tap",
+      "right leg reverse jumping underswitch tap",
+      "left leg forward jumping underswitch tap",
+      "right leg forward jumping underswitch tap",
       "left leg forward traveling underswitch precursor static crab",
       "right leg forward traveling underswitch precursor static crab",
       "left leg reverse traveling underswitch precursor static crab",
@@ -218,6 +222,10 @@
       "right leg reverse jumping underswitch",
       "left leg forward jumping underswitch",
       "right leg forward jumping underswitch",
+      "left leg reverse jumping underswitch tap",
+      "right leg reverse jumping underswitch tap",
+      "left leg forward jumping underswitch tap",
+      "right leg forward jumping underswitch tap",
       "left leg forward traveling underswitch precursor static crab",
       "right leg forward traveling underswitch precursor static crab",
       "left leg reverse traveling underswitch precursor static crab",
@@ -1285,6 +1293,10 @@
       "right leg reverse jumping underswitch",
       "left leg forward jumping underswitch",
       "right leg forward jumping underswitch",
+      "left leg reverse jumping underswitch tap",
+      "right leg reverse jumping underswitch tap",
+      "left leg forward jumping underswitch tap",
+      "right leg forward jumping underswitch tap",
       "left leg forward traveling underswitch precursor static crab",
       "into left leg forward traveling underswitch precursor static crab",
       "right leg forward traveling underswitch precursor static crab",
@@ -1352,6 +1364,10 @@
       "right leg reverse jumping underswitch",
       "left leg forward jumping underswitch",
       "right leg forward jumping underswitch",
+      "left leg reverse jumping underswitch tap",
+      "right leg reverse jumping underswitch tap",
+      "left leg forward jumping underswitch tap",
+      "right leg forward jumping underswitch tap",
       "left leg forward traveling underswitch precursor static crab",
       "right leg forward traveling underswitch precursor static crab",
       "into right leg forward traveling underswitch precursor static crab",
@@ -1492,6 +1508,126 @@
       "direction":"right leg forward",
       "command":"jumping underswitch",
       "shorthand": "- RL FJUS"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left leg reverse jumping underswitch tap",
+    "alias":"right leg underswitch tap precursor static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg reverse",
+      "command":"jumping underswitch tap",
+      "shorthand": "LL RJUSTap"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into left leg reverse jumping underswitch tap",
+    "alias":"right leg underswitch tap precursor static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left leg reverse",
+      "command":"jumping underswitch tap",
+      "shorthand": "- LL RJUSTap"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right leg reverse jumping underswitch tap",
+    "alias":"left leg underswitch tap precursor static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg reverse",
+      "command":"jumping underswitch tap",
+      "shorthand": "RL RJUSTap"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into right leg reverse jumping underswitch tap",
+    "alias":"left leg underswitch tap precursor static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right leg reverse",
+      "command":"jumping underswitch tap",
+      "shorthand": "- RL RJUSTap"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left leg forward jumping underswitch tap",
+    "alias":"right leg underswitch tap precursor static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg forward",
+      "command":"jumping underswitch tap",
+      "shorthand": "LL FJUSTap"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into left leg forward jumping underswitch tap",
+    "alias":"right leg underswitch tap precursor static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left leg forward",
+      "command":"jumping underswitch tap",
+      "shorthand": "- LL FJUSTap"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right leg forward jumping underswitch tap",
+    "alias":"left leg underswitch tap precursor static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg forward",
+      "command":"jumping underswitch tap",
+      "shorthand": "RL FJUSTap"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into right leg forward jumping underswitch tap",
+    "alias":"left leg underswitch tap precursor static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right leg forward",
+      "command":"jumping underswitch tap",
+      "shorthand": "- RL FJUSTap"
     },
     "nextMoves":[]
   },
@@ -1722,7 +1858,11 @@
       "left leg reverse jumping underswitch",
       "right leg reverse jumping underswitch",
       "left leg forward jumping underswitch",
-      "right leg forward jumping underswitch"
+      "right leg forward jumping underswitch",
+      "left leg reverse jumping underswitch tap",
+      "right leg reverse jumping underswitch tap",
+      "left leg forward jumping underswitch tap",
+      "right leg forward jumping underswitch tap"
     ]
   },
   {
@@ -1826,7 +1966,11 @@
       "left leg reverse jumping underswitch",
       "right leg reverse jumping underswitch",
       "left leg forward jumping underswitch",
-      "right leg forward jumping underswitch"
+      "right leg forward jumping underswitch",
+      "left leg reverse jumping underswitch tap",
+      "right leg reverse jumping underswitch tap",
+      "left leg forward jumping underswitch tap",
+      "right leg forward jumping underswitch tap"
     ]
   },
   {
@@ -1930,7 +2074,11 @@
       "left leg reverse jumping underswitch",
       "right leg reverse jumping underswitch",
       "left leg forward jumping underswitch",
-      "right leg forward jumping underswitch"
+      "right leg forward jumping underswitch",
+      "left leg reverse jumping underswitch tap",
+      "right leg reverse jumping underswitch tap",
+      "left leg forward jumping underswitch tap",
+      "right leg forward jumping underswitch tap"
     ]
   },
   {
@@ -2034,7 +2182,11 @@
       "left leg reverse jumping underswitch",
       "right leg reverse jumping underswitch",
       "left leg forward jumping underswitch",
-      "right leg forward jumping underswitch"
+      "right leg forward jumping underswitch",
+      "left leg reverse jumping underswitch tap",
+      "right leg reverse jumping underswitch tap",
+      "left leg forward jumping underswitch tap",
+      "right leg forward jumping underswitch tap"
     ]
   },
   {

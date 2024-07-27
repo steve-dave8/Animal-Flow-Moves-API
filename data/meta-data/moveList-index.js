@@ -244,6 +244,14 @@ left leg forward jumping underswitch
     into left leg forward jumping underswitch
 right leg forward jumping underswitch
     into right leg forward jumping underswitch
+left leg reverse jumping underswitch tap (alias: right leg underswitch tap precursor static beast)
+    into left leg reverse jumping underswitch tap (alias: right leg underswitch tap precursor static beast)
+right leg reverse jumping underswitch tap (alias: left leg underswitch tap precursor static beast)
+    into right leg reverse jumping underswitch tap (alias: left leg underswitch tap precursor static beast)
+left leg forward jumping underswitch tap (alias: right leg underswitch tap precursor static beast)
+    into left leg forward jumping underswitch tap (alias: right leg underswitch tap precursor static beast)
+right leg forward jumping underswitch tap (alias: left leg underswitch tap precursor static beast)
+    into right leg forward jumping underswitch tap (alias: left leg underswitch tap precursor static beast)
 left leg forward traveling underswitch (precursor: static crab)
     into left leg forward traveling underswitch (precursor: static crab)
 right leg forward traveling underswitch (precursor: static crab)
