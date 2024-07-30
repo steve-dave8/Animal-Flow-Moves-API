@@ -296,5 +296,12 @@ right side rotating ape
 >>>>>Traveling Forms
 >LEVEL 1<
 traveling frog
+forward traveling ape
+left side lateral traveling ape (alias: set deep ape)
+    into left side lateral traveling ape
+    pop back to left side lateral traveling ape
+right side lateral traveling ape (alias: set deep ape)
+    into right side lateral traveling ape
+    pop back to right side lateral traveling ape
 
 */ 

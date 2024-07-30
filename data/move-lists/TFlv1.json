@@ -45,7 +45,9 @@
       "left side rotating ape",
       "right side rotating ape",
       "traveling frog",
-      "forward traveling ape"
+      "forward traveling ape",
+      "left side lateral traveling ape",
+      "right side lateral traveling ape"
     ]
   },
   {
@@ -83,5 +85,95 @@
       "traveling frog",
       "forward traveling ape"
     ]
+  },
+  {
+    "move":"left side lateral traveling ape",
+    "alias":"set deep ape",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left side",
+      "command":"lateral traveling ape",
+      "shorthand": "LS LTA"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into left side lateral traveling ape",
+    "alias":"set deep ape",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left side",
+      "command":"lateral traveling ape",
+      "shorthand": "- LS LTA"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to left side lateral traveling ape",
+    "alias":"set deep ape",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"left side",
+      "command":"lateral traveling ape",
+      "shorthand": "pop back to LS LTA"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right side lateral traveling ape",
+    "alias":"set deep ape",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right side",
+      "command":"lateral traveling ape",
+      "shorthand": "RS LTA"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into right side lateral traveling ape",
+    "alias":"set deep ape",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right side",
+      "command":"lateral traveling ape",
+      "shorthand": "- RS LTA"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to right side lateral traveling ape",
+    "alias":"set deep ape",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"right side",
+      "command":"lateral traveling ape",
+      "shorthand": "pop back to RS LTA"
+    },
+    "nextMoves":[]
   }
 ]
