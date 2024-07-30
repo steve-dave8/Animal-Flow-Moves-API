@@ -12,13 +12,13 @@ import userFlowRoutes from './src/routes/userFlowRoutes.js';
 
 //Data filepaths:
 const basesFile = path.resolve('./data/basePositions.json');
-// Connecting to the database
-mongoose.connect('mongodb://localhost:27017/af-sequences')
-    .then(() => console.log("Successfully connected to the Mongo database"))
-    .catch(err => {
-        console.log('Could not connect to the database. Exiting now...', err);
-        process.exit();
-});
+// Uncomment to connect to database:
+// mongoose.connect('mongodb://localhost:27017/af-sequences')
+//     .then(() => console.log("Successfully connected to the Mongo database"))
+//     .catch(err => {
+//         console.log('Could not connect to the database. Exiting now...', err);
+//         process.exit();
+// });
 
 const port = process.env.PORT || 4000;
 const app = express();
@@ -47,7 +47,8 @@ app.get('/move-list', async (req, res, next) => {
         let ST1moves = await dataHandler.getAll(path.resolve('./data/move-lists/STlv1.json'));
         let ST2moves = await dataHandler.getAll(path.resolve('./data/move-lists/STlv2.json'));
         let ST3moves = await dataHandler.getAll(path.resolve('./data/move-lists/STlv3.json'));
-        let moveList = SAmoves.concat(FSSmoves, ST1moves, ST2moves, ST3moves);
+        let TF1moves = await dataHandler.getAll(path.resolve('./data/move-lists/TFlv1.json'));
+        let moveList = SAmoves.concat(FSSmoves, ST1moves, ST2moves, ST3moves, TF1moves);
         return res.json(moveList);
     } catch (err) {
         console.error(err);
