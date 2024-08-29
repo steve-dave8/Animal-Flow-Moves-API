@@ -47,7 +47,9 @@
       "traveling frog",
       "forward traveling ape",
       "left side lateral traveling ape",
-      "right side lateral traveling ape"
+      "right side lateral traveling ape",
+      "left side lateral traveling ape version 2",
+      "right side lateral traveling ape version 2"
     ]
   },
   {
@@ -173,6 +175,170 @@
       "direction":"right side",
       "command":"lateral traveling ape",
       "shorthand": "pop back to RS LTA"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left side lateral traveling ape version 2",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left side",
+      "command":"lateral traveling ape version 2",
+      "shorthand": "LS LTA v2"
+    },
+    "nextMoves":[
+      "set static beast",
+      "set loaded beast",
+      "fall back to crab",
+      "into left leg scorpion reach precursor static beast",
+      "into right leg scorpion reach precursor static beast",
+      "ape reach",
+      "into left leg underswitch precursor static beast",
+      "into left leg underswitch tap precursor static beast",
+      "to left leg scorpion switch",
+      "to right leg scorpion switch",
+      "left leg reaching underswitch",
+      "right leg reaching underswitch",
+      "left leg reaching underswitch tap",
+      "right leg reaching underswitch tap",
+      "left leg scorpion sweep",
+      "right leg scorpion sweep",
+      "left leg roll through",
+      "right leg roll through",
+      "left leg reverse reaching underswitch",
+      "right leg reverse reaching underswitch",
+      "left leg reverse reaching underswitch tap",
+      "right leg reverse reaching underswitch tap",
+      "left leg high hip reaching underswitch",
+      "right leg high hip reaching underswitch",
+      "left leg high hip reaching underswitch tap",
+      "right leg high hip reaching underswitch tap",
+      "left leg front sweep",
+      "right leg front sweep",
+      "left side rotating ape",
+      "right side rotating ape",
+      "traveling frog",
+      "forward traveling ape",
+      "left side lateral traveling ape",
+      "right side lateral traveling ape",
+      "left side lateral traveling ape version 2",
+      "right side lateral traveling ape version 2"
+    ]
+  },
+  {
+    "move":"into left side lateral traveling ape version 2",
+    "alias":"left side lateral traveling ape version 2",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left side",
+      "command":"lateral traveling ape version 2",
+      "shorthand": "- LS LTA v2"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to left side lateral traveling ape version 2",
+    "alias":"left side lateral traveling ape version 2",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"left side",
+      "command":"lateral traveling ape version 2",
+      "shorthand": "PB - LS LTA v2"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right side lateral traveling ape version 2",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right side",
+      "command":"lateral traveling ape version 2",
+      "shorthand": "RS LTA v2"
+    },
+    "nextMoves":[
+      "set static beast",
+      "set loaded beast",
+      "fall back to crab",
+      "into left leg scorpion reach precursor static beast",
+      "into right leg scorpion reach precursor static beast",
+      "ape reach",
+      "into right leg underswitch precursor static beast",
+      "into right leg underswitch tap precursor static beast",
+      "to left leg scorpion switch",
+      "to right leg scorpion switch",
+      "left leg reaching underswitch",
+      "right leg reaching underswitch",
+      "left leg reaching underswitch tap",
+      "right leg reaching underswitch tap",
+      "left leg scorpion sweep",
+      "right leg scorpion sweep",
+      "left leg roll through",
+      "right leg roll through",
+      "left leg reverse reaching underswitch",
+      "right leg reverse reaching underswitch",
+      "left leg reverse reaching underswitch tap",
+      "right leg reverse reaching underswitch tap",
+      "left leg high hip reaching underswitch",
+      "right leg high hip reaching underswitch",
+      "left leg high hip reaching underswitch tap",
+      "right leg high hip reaching underswitch tap",
+      "left leg front sweep",
+      "right leg front sweep",
+      "left side rotating ape",
+      "right side rotating ape",
+      "traveling frog",
+      "forward traveling ape",
+      "left side lateral traveling ape",
+      "right side lateral traveling ape",
+      "left side lateral traveling ape version 2",
+      "right side lateral traveling ape version 2"
+    ]
+  },
+  {
+    "move":"into right side lateral traveling ape version 2",
+    "alias":"right side lateral traveling ape version 2",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right side",
+      "command":"lateral traveling ape version 2",
+      "shorthand": "- RS LTA v2"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to right side lateral traveling ape version 2",
+    "alias":"right side lateral traveling ape version 2",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"right side",
+      "command":"lateral traveling ape version 2",
+      "shorthand": "PB - RS LTA v2"
     },
     "nextMoves":[]
   }

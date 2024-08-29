@@ -48,10 +48,12 @@ left leg underswitch (precursor: static beast)
     slide to left leg underswitch (precursor: static beast)
     high hip slide to left leg underswitch (precursor: static beast)
     pop back to left leg underswitch (precursor: static beast)
+    into left leg underswitch (precursor: static beast)
 right leg underswitch (precursor: static beast)
     slide to right leg underswitch (precursor: static beast)
     high hip slide to right leg underswitch (precursor: static beast)
     pop back to right leg underswitch (precursor: static beast)
+    into right leg underswitch (precursor: static beast)
 left leg underswitch tap (precursor: static crab)
     into left leg underswitch tap (precursor: static crab)
 right leg underswitch tap (precursor: static crab)
@@ -60,10 +62,12 @@ left leg underswitch tap (precursor: static beast)
     slide to left leg underswitch tap (precursor: static beast)
     high hip slide to left leg underswitch tap (precursor: static beast)
     pop back to left leg underswitch tap (precursor: static beast)
+    into left leg underswitch tap (precursor: static beast)
 right leg underswitch tap (precursor: static beast)
     slide to right leg underswitch tap (precursor: static beast)
     high hip slide to right leg underswitch tap (precursor: static beast)
     pop back to right leg underswitch tap (precursor: static beast)
+    into right leg underswitch tap (precursor: static beast)
 left leg jumping underswitch
     into left leg jumping underswitch
 right leg jumping underswitch
@@ -303,5 +307,11 @@ left side lateral traveling ape (alias: set deep ape)
 right side lateral traveling ape (alias: set deep ape)
     into right side lateral traveling ape
     pop back to right side lateral traveling ape
+left side lateral traveling ape version 2
+    into left side lateral traveling ape version 2
+    pop back to left side lateral traveling ape version 2
+right side lateral traveling ape version 2
+    into right side lateral traveling ape version 2
+    pop back to right side lateral traveling ape version 2
 
 */ 

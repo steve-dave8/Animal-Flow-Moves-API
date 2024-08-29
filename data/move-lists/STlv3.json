@@ -121,7 +121,9 @@
       "left leg reverse traveling underswitch precursor static crab",
       "right leg reverse traveling underswitch precursor static crab",
       "into right leg forward traveling underswitch precursor static beast",
-      "into right leg reverse traveling underswitch precursor static beast"
+      "into right leg reverse traveling underswitch precursor static beast",
+      "into left side lateral traveling ape version 2",
+      "into right side lateral traveling ape version 2"
     ]
   },
   {
@@ -279,7 +281,9 @@
       "left leg reverse traveling underswitch precursor static crab",
       "right leg reverse traveling underswitch precursor static crab",
       "into left leg forward traveling underswitch precursor static beast",
-      "into left leg reverse traveling underswitch precursor static beast"
+      "into left leg reverse traveling underswitch precursor static beast",
+      "into left side lateral traveling ape version 2",
+      "into right side lateral traveling ape version 2"
     ]
   },
   {
@@ -821,7 +825,9 @@
       "into left side rotating ape",
       "into right side rotating ape",
       "into left side lateral traveling ape",
-      "into right side lateral traveling ape"
+      "into right side lateral traveling ape",
+      "into left side lateral traveling ape version 2",
+      "into right side lateral traveling ape version 2"
     ]
   },
   {
@@ -925,7 +931,9 @@
       "into left side rotating ape",
       "into right side rotating ape",
       "into left side lateral traveling ape",
-      "into right side lateral traveling ape"
+      "into right side lateral traveling ape",
+      "into left side lateral traveling ape version 2",
+      "into right side lateral traveling ape version 2"
     ]
   },
   {
@@ -2480,7 +2488,9 @@
       "traveling frog",
       "forward traveling ape",
       "left side lateral traveling ape",
-      "right side lateral traveling ape"
+      "right side lateral traveling ape",
+      "into left side lateral traveling ape version 2",
+      "into right side lateral traveling ape version 2"
     ]
   },
   {
@@ -2554,7 +2564,9 @@
       "traveling frog",
       "forward traveling ape",
       "left side lateral traveling ape",
-      "right side lateral traveling ape"
+      "right side lateral traveling ape",
+      "into left side lateral traveling ape version 2",
+      "into right side lateral traveling ape version 2"
     ]
   },
   {
