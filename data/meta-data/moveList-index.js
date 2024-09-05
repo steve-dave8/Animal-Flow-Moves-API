@@ -225,7 +225,9 @@ levitate to left leg front kickthrough (alias: left leg front kickthrough)
 jump to right leg front kickthrough (alias: right leg front kickthrough)
 levitate to right leg front kickthrough (alias: right leg front kickthrough)
 left leg front sweep
+    into left leg front sweep
 right leg front sweep
+    into right leg front sweep
 left side double crocodile roll (alias: left side crocodile roll)
     into left side double crocodile roll (alias: left side crocodile roll)
     pop back to left side double crocodile roll (alias: pop back to left side crocodile roll)
@@ -313,5 +315,11 @@ left side lateral traveling ape version 2
 right side lateral traveling ape version 2
     into right side lateral traveling ape version 2
     pop back to right side lateral traveling ape version 2
+left side lateral traveling ape version 3
+    into left side lateral traveling ape version 3
+    pop back to left side lateral traveling ape version 3
+right side lateral traveling ape version 3
+    into right side lateral traveling ape version 3
+    pop back to right side lateral traveling ape version 3
 
 */ 

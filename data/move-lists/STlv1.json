@@ -41,7 +41,9 @@
       "into left side lateral traveling ape",
       "into right side lateral traveling ape",
       "into left side lateral traveling ape version 2",
-      "into right side lateral traveling ape version 2"
+      "into right side lateral traveling ape version 2",
+      "into left side lateral traveling ape version 3",
+      "into right side lateral traveling ape version 3"
     ]
   },
   {
@@ -101,7 +103,9 @@
       "into left side lateral traveling ape",
       "into right side lateral traveling ape",
       "into left side lateral traveling ape version 2",
-      "into right side lateral traveling ape version 2"
+      "into right side lateral traveling ape version 2",
+      "into left side lateral traveling ape version 3",
+      "into right side lateral traveling ape version 3"
     ]
   },
   {
@@ -570,7 +574,9 @@
       "into left side lateral traveling ape",
       "into right side lateral traveling ape",
       "into left side lateral traveling ape version 2",
-      "into right side lateral traveling ape version 2"
+      "into right side lateral traveling ape version 2",
+      "into left side lateral traveling ape version 3",
+      "into right side lateral traveling ape version 3"
     ]
   },
   {
@@ -688,7 +694,9 @@
       "into left side lateral traveling ape",
       "into right side lateral traveling ape",
       "into left side lateral traveling ape version 2",
-      "into right side lateral traveling ape version 2"
+      "into right side lateral traveling ape version 2",
+      "into left side lateral traveling ape version 3",
+      "into right side lateral traveling ape version 3"
     ]
   },
   {
@@ -815,7 +823,9 @@
       "into right leg forward traveling underswitch precursor static beast",
       "into right leg reverse traveling underswitch precursor static beast",
       "into left side lateral traveling ape",
-      "into right side lateral traveling ape"
+      "into right side lateral traveling ape",
+      "into left side lateral traveling ape version 3",
+      "into right side lateral traveling ape version 3"
     ]
   },
   {
@@ -897,7 +907,9 @@
       "into left leg forward traveling underswitch precursor static beast",
       "into left leg reverse traveling underswitch precursor static beast",
       "into left side lateral traveling ape",
-      "into right side lateral traveling ape"
+      "into right side lateral traveling ape",
+      "into left side lateral traveling ape version 3",
+      "into right side lateral traveling ape version 3"
     ]
   },
   {
@@ -1019,7 +1031,8 @@
       "jump to right leg forward traveling side kickthrough",
       "jump to right leg reverse traveling side kickthrough",
       "left side lateral traveling ape",
-      "left side lateral traveling ape version 2"
+      "left side lateral traveling ape version 2",
+      "left side lateral traveling ape version 3"
     ]
   },
   {
@@ -1156,7 +1169,8 @@
       "jump to left leg forward traveling side kickthrough",
       "jump to left leg reverse traveling side kickthrough",
       "right side lateral traveling ape",
-      "right side lateral traveling ape version 2"
+      "right side lateral traveling ape version 2",
+      "right side lateral traveling ape version 3"
     ]
   },
   {
@@ -1363,7 +1377,8 @@
       "pop back to left leg reverse traveling side kickthrough",
       "pop to right side rotating ape",
       "pop back to right side lateral traveling ape",
-      "pop back to right side lateral traveling ape version 2"
+      "pop back to right side lateral traveling ape version 2",
+      "pop back to right side lateral traveling ape version 3"
     ]
   },
   {
@@ -1423,7 +1438,8 @@
       "pop back to right leg reverse traveling side kickthrough",
       "pop to left side rotating ape",
       "pop back to left side lateral traveling ape",
-      "pop back to left side lateral traveling ape version 2"
+      "pop back to left side lateral traveling ape version 2",
+      "pop back to left side lateral traveling ape version 3"
     ]
   },
   {
@@ -1483,7 +1499,8 @@
       "pop back to right leg reverse traveling side kickthrough",
       "pop to left side rotating ape",
       "pop back to left side lateral traveling ape",
-      "pop back to left side lateral traveling ape version 2"
+      "pop back to left side lateral traveling ape version 2",
+      "pop back to left side lateral traveling ape version 3"
     ]
   },
   {
@@ -1543,7 +1560,8 @@
       "pop back to left leg reverse traveling side kickthrough",
       "pop to right side rotating ape",
       "pop back to right side lateral traveling ape",
-      "pop back to right side lateral traveling ape version 2"
+      "pop back to right side lateral traveling ape version 2",
+      "pop back to right side lateral traveling ape version 3"
     ]
   },
   {

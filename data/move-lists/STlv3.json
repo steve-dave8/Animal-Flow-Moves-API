@@ -827,7 +827,9 @@
       "into left side lateral traveling ape",
       "into right side lateral traveling ape",
       "into left side lateral traveling ape version 2",
-      "into right side lateral traveling ape version 2"
+      "into right side lateral traveling ape version 2",
+      "into left side lateral traveling ape version 3",
+      "into right side lateral traveling ape version 3"
     ]
   },
   {
@@ -933,7 +935,9 @@
       "into left side lateral traveling ape",
       "into right side lateral traveling ape",
       "into left side lateral traveling ape version 2",
-      "into right side lateral traveling ape version 2"
+      "into right side lateral traveling ape version 2",
+      "into left side lateral traveling ape version 3",
+      "into right side lateral traveling ape version 3"
     ]
   },
   {
@@ -1185,6 +1189,21 @@
     ]
   },
   {
+    "move":"into left leg front sweep",
+    "alias":"left leg front sweep",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left leg",
+      "command":"front sweep",
+      "shorthand": "- LL FSweep"
+    },
+    "nextMoves":[]
+  },
+  {
     "move":"right leg front sweep",
     "alias":null,
     "precursor":null,
@@ -1206,6 +1225,21 @@
       "levitate to left leg front kickthrough",
       "right side double crocodile roll"
     ]
+  },
+  {
+    "move":"into right leg front sweep",
+    "alias":"right leg front sweep",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right leg",
+      "command":"front sweep",
+      "shorthand": "- RL FSweep"
+    },
+    "nextMoves":[]
   },
   {
     "move":"left side double crocodile roll",
@@ -2489,8 +2523,10 @@
       "forward traveling ape",
       "left side lateral traveling ape",
       "right side lateral traveling ape",
-      "into left side lateral traveling ape version 2",
-      "into right side lateral traveling ape version 2"
+      "left side lateral traveling ape version 2",
+      "right side lateral traveling ape version 2",
+      "left side lateral traveling ape version 3",
+      "right side lateral traveling ape version 3"
     ]
   },
   {
@@ -2565,8 +2601,10 @@
       "forward traveling ape",
       "left side lateral traveling ape",
       "right side lateral traveling ape",
-      "into left side lateral traveling ape version 2",
-      "into right side lateral traveling ape version 2"
+      "left side lateral traveling ape version 2",
+      "right side lateral traveling ape version 2",
+      "left side lateral traveling ape version 3",
+      "right side lateral traveling ape version 3"
     ]
   },
   {

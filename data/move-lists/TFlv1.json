@@ -49,7 +49,9 @@
       "left side lateral traveling ape",
       "right side lateral traveling ape",
       "left side lateral traveling ape version 2",
-      "right side lateral traveling ape version 2"
+      "right side lateral traveling ape version 2",
+      "left side lateral traveling ape version 3",
+      "right side lateral traveling ape version 3"
     ]
   },
   {
@@ -227,7 +229,9 @@
       "left side lateral traveling ape",
       "right side lateral traveling ape",
       "left side lateral traveling ape version 2",
-      "right side lateral traveling ape version 2"
+      "right side lateral traveling ape version 2",
+      "left side lateral traveling ape version 3",
+      "right side lateral traveling ape version 3"
     ]
   },
   {
@@ -309,7 +313,9 @@
       "left side lateral traveling ape",
       "right side lateral traveling ape",
       "left side lateral traveling ape version 2",
-      "right side lateral traveling ape version 2"
+      "right side lateral traveling ape version 2",
+      "left side lateral traveling ape version 3",
+      "right side lateral traveling ape version 3"
     ]
   },
   {
@@ -339,6 +345,144 @@
       "direction":"right side",
       "command":"lateral traveling ape version 2",
       "shorthand": "PB - RS LTA v2"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left side lateral traveling ape version 3",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left side",
+      "command":"lateral traveling ape version 3",
+      "shorthand": "LS LTA v3"
+    },
+    "nextMoves":[
+      "into loaded beast",
+      "into left leg front step",
+      "into left leg front step through",
+      "into right leg front step",
+      "into right leg front step through",
+      "right leg reaching underswitch",
+      "right leg reaching underswitch tap",
+      "into left leg scorpion sweep",
+      "into right leg scorpion sweep",
+      "into left leg roll through",
+      "into right leg roll through",
+      "right leg high hip reaching underswitch",
+      "right leg high hip reaching underswitch tap",
+      "into left leg front sweep",
+      "into right leg front sweep",
+      "left side rotating ape",
+      "right side rotating ape",
+      "left side lateral traveling ape",
+      "right side lateral traveling ape",
+      "left side lateral traveling ape version 2",
+      "right side lateral traveling ape version 2",
+      "left side lateral traveling ape version 3",
+      "right side lateral traveling ape version 3"
+    ]
+  },
+  {
+    "move":"into left side lateral traveling ape version 3",
+    "alias":"left side lateral traveling ape version 3",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left side",
+      "command":"lateral traveling ape version 3",
+      "shorthand": "- LS LTA v3"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to left side lateral traveling ape version 3",
+    "alias":"left side lateral traveling ape version 3",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"left side",
+      "command":"lateral traveling ape version 3",
+      "shorthand": "PB - LS LTA v3"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right side lateral traveling ape version 3",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right side",
+      "command":"lateral traveling ape version 3",
+      "shorthand": "RS LTA v3"
+    },
+    "nextMoves":[
+      "into loaded beast",
+      "into left leg front step",
+      "into left leg front step through",
+      "into right leg front step",
+      "into right leg front step through",
+      "left leg reaching underswitch",
+      "left leg reaching underswitch tap",
+      "into left leg scorpion sweep",
+      "into right leg scorpion sweep",
+      "into left leg roll through",
+      "into right leg roll through",
+      "left leg high hip reaching underswitch",
+      "left leg high hip reaching underswitch tap",
+      "into left leg front sweep",
+      "into right leg front sweep",
+      "left side rotating ape",
+      "right side rotating ape",
+      "left side lateral traveling ape",
+      "right side lateral traveling ape",
+      "left side lateral traveling ape version 2",
+      "right side lateral traveling ape version 2",
+      "left side lateral traveling ape version 3",
+      "right side lateral traveling ape version 3"
+    ]
+  },
+  {
+    "move":"into right side lateral traveling ape version 3",
+    "alias":"right side lateral traveling ape version 3",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right side",
+      "command":"lateral traveling ape version 3",
+      "shorthand": "- RS LTA v3"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to right side lateral traveling ape version 3",
+    "alias":"right side lateral traveling ape version 3",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"right side",
+      "command":"lateral traveling ape version 3",
+      "shorthand": "PB - RS LTA v3"
     },
     "nextMoves":[]
   }
