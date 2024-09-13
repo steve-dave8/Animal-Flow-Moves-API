@@ -829,7 +829,11 @@
       "into left side lateral traveling ape version 2",
       "into right side lateral traveling ape version 2",
       "into left side lateral traveling ape version 3",
-      "into right side lateral traveling ape version 3"
+      "into right side lateral traveling ape version 3",
+      "left leg forward traveling beast",
+      "right leg forward traveling beast",
+      "left leg reverse traveling beast",
+      "right leg reverse traveling beast"
     ]
   },
   {
@@ -937,7 +941,11 @@
       "into left side lateral traveling ape version 2",
       "into right side lateral traveling ape version 2",
       "into left side lateral traveling ape version 3",
-      "into right side lateral traveling ape version 3"
+      "into right side lateral traveling ape version 3",
+      "left leg forward traveling beast",
+      "right leg forward traveling beast",
+      "left leg reverse traveling beast",
+      "right leg reverse traveling beast"
     ]
   },
   {
@@ -1802,7 +1810,9 @@
       "left leg spinning underswitch",
       "right leg spinning underswitch",
       "left leg spinning underswitch tap",
-      "right leg spinning underswitch tap"
+      "right leg spinning underswitch tap",
+      "right leg forward traveling beast",
+      "left leg reverse traveling beast"
     ]
   },
   {
@@ -1849,7 +1859,9 @@
       "left leg spinning underswitch",
       "right leg spinning underswitch",
       "left leg spinning underswitch tap",
-      "right leg spinning underswitch tap"
+      "right leg spinning underswitch tap",
+      "left leg forward traveling beast",
+      "right leg reverse traveling beast"
     ]
   },
   {
@@ -1895,7 +1907,9 @@
       "left leg spinning underswitch",
       "right leg spinning underswitch",
       "left leg spinning underswitch tap",
-      "right leg spinning underswitch tap"
+      "right leg spinning underswitch tap",
+      "left leg forward traveling beast",
+      "right leg reverse traveling beast"
     ]
   },
   {
@@ -1941,7 +1955,9 @@
       "left leg spinning underswitch",
       "right leg spinning underswitch",
       "left leg spinning underswitch tap",
-      "right leg spinning underswitch tap"
+      "right leg spinning underswitch tap",
+      "right leg forward traveling beast",
+      "left leg reverse traveling beast"
     ]
   },
   {

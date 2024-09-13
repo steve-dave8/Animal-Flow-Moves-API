@@ -321,5 +321,25 @@ left side lateral traveling ape version 3
 right side lateral traveling ape version 3
     into right side lateral traveling ape version 3
     pop back to right side lateral traveling ape version 3
+left leg forward traveling beast
+    into left leg forward traveling beast
+    pop back to left leg forward traveling beast
+    slide to left leg forward traveling beast
+    high hip slide to left leg forward traveling beast
+right leg forward traveling beast
+    into right leg forward traveling beast
+    pop back to right leg forward traveling beast
+    slide to right leg forward traveling beast
+    high hip slide to right leg forward traveling beast
+left leg reverse traveling beast
+    into left leg reverse traveling beast
+    pop back to left leg reverse traveling beast
+    slide to left leg reverse traveling beast
+    high hip slide to left leg reverse traveling beast
+right leg reverse traveling beast
+    into right leg reverse traveling beast
+    pop back to right leg reverse traveling beast
+    slide to right leg reverse traveling beast
+    high hip slide to right leg reverse traveling beast
 
 */ 

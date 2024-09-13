@@ -32,7 +32,11 @@
       "left leg forward traveling underswitch precursor static beast",
       "right leg forward traveling underswitch precursor static beast",
       "left leg reverse traveling underswitch precursor static beast",
-      "right leg reverse traveling underswitch precursor static beast"
+      "right leg reverse traveling underswitch precursor static beast",
+      "left leg forward traveling beast",
+      "right leg forward traveling beast",
+      "left leg reverse traveling beast",
+      "right leg reverse traveling beast"
     ]
   },
   {
@@ -269,7 +273,15 @@
       "pop to left side rotating ape",
       "pop to right side rotating ape",
       "traveling frog",
-      "forward traveling ape"
+      "forward traveling ape",
+      "slide to left leg forward traveling beast",
+      "high hip slide to left leg forward traveling beast",
+      "slide to right leg forward traveling beast",
+      "high hip slide to right leg forward traveling beast",
+      "slide to left leg reverse traveling beast",
+      "high hip slide to left leg reverse traveling beast",
+      "slide to right leg reverse traveling beast",
+      "high hip slide to right leg reverse traveling beast"
     ]
   },
   {

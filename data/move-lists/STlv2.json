@@ -829,7 +829,9 @@
       "left leg reverse jumping underswitch tap",
       "left leg forward jumping underswitch tap",
       "left leg forward traveling underswitch precursor static crab",
-      "left leg reverse traveling underswitch precursor static crab"
+      "left leg reverse traveling underswitch precursor static crab",
+      "into left leg forward traveling beast",
+      "into left leg reverse traveling beast"
     ]
   },
   {
@@ -904,7 +906,9 @@
       "right leg reverse jumping underswitch tap",
       "right leg forward jumping underswitch tap",
       "right leg forward traveling underswitch precursor static crab",
-      "right leg reverse traveling underswitch precursor static crab"
+      "right leg reverse traveling underswitch precursor static crab",
+      "into right leg forward traveling beast",
+      "into right leg reverse traveling beast"
     ]
   },
   {
