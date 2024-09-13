@@ -131,7 +131,7 @@
       "keyPhrase":"pop back to",
       "direction":"left side",
       "command":"lateral traveling ape",
-      "shorthand": "pop back to LS LTA"
+      "shorthand": "PB - LS LTA"
     },
     "nextMoves":[]
   },
@@ -176,7 +176,7 @@
       "keyPhrase":"pop back to",
       "direction":"right side",
       "command":"lateral traveling ape",
-      "shorthand": "pop back to RS LTA"
+      "shorthand": "PB - RS LTA"
     },
     "nextMoves":[]
   },

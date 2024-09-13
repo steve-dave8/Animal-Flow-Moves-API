@@ -231,7 +231,7 @@
       "keyPhrase":"pop back to",
       "direction":"left leg",
       "command":"underswitch",
-      "shorthand":"pop back to LL US"
+      "shorthand":"PB - LL US"
     },
     "nextMoves":[]
   },
@@ -350,7 +350,7 @@
       "keyPhrase":"pop back to",
       "direction":"right leg",
       "command":"underswitch",
-      "shorthand":"pop back to RL US"
+      "shorthand":"PB - RL US"
     },
     "nextMoves":[]
   },
@@ -632,7 +632,7 @@
       "keyPhrase":"pop back to",
       "direction":"left leg",
       "command":"underswitch tap",
-      "shorthand":"pop back to LL USTap"
+      "shorthand":"PB - LL USTap"
     },
     "nextMoves":[]
   },
@@ -756,7 +756,7 @@
       "keyPhrase":"pop back to",
       "direction":"right leg",
       "command":"underswitch tap",
-      "shorthand":"pop back to RL USTap"
+      "shorthand":"PB - RL USTap"
     },
     "nextMoves":[]
   },
@@ -1107,7 +1107,7 @@
       "keyPhrase":"pop back to",
       "direction":"left leg",
       "command":"side kickthrough",
-      "shorthand":"pop back to LL SKT"
+      "shorthand":"PB - LL SKT"
     },
     "nextMoves":[]
   },
@@ -1245,7 +1245,7 @@
       "keyPhrase":"pop back to",
       "direction":"right leg",
       "command":"side kickthrough",
-      "shorthand":"pop back to RL SKT"
+      "shorthand":"PB - RL SKT"
     },
     "nextMoves":[]
   },
@@ -1703,7 +1703,7 @@
       "keyPhrase":"pop back to",
       "direction":"left leg",
       "command":"scorpion switch",
-      "shorthand":"pop back to LL SS"
+      "shorthand":"PB - LL SS"
     },
     "nextMoves":[]
   },
@@ -1835,7 +1835,7 @@
       "keyPhrase":"pop back to",
       "direction":"right leg",
       "command":"scorpion switch",
-      "shorthand":"pop back to RL SS"
+      "shorthand":"PB - RL SS"
     },
     "nextMoves":[]
   },

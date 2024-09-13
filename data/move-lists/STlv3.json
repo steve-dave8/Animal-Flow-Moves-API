@@ -1290,7 +1290,7 @@
       "keyPhrase":"pop back to",
       "direction":"left side",
       "command":"double crocodile roll",
-      "shorthand":"pop back to LS double CrocR"
+      "shorthand":"PB - LS double CrocR"
     },
     "nextMoves":[]
   },
@@ -1335,7 +1335,7 @@
       "keyPhrase":"pop back to",
       "direction":"right side",
       "command":"double crocodile roll",
-      "shorthand":"pop back to LS double CrocR"
+      "shorthand":"PB - LS double CrocR"
     },
     "nextMoves":[]
   },
@@ -2089,7 +2089,7 @@
       "keyPhrase":"pop back to",
       "direction":"left leg forward",
       "command":"traveling underswitch",
-      "shorthand": "pop back to LL FTUS"
+      "shorthand": "PB - LL FTUS"
     },
     "nextMoves":[]
   },
@@ -2199,7 +2199,7 @@
       "keyPhrase":"pop back to",
       "direction":"right leg forward",
       "command":"traveling underswitch",
-      "shorthand": "pop back to RL FTUS"
+      "shorthand": "PB - RL FTUS"
     },
     "nextMoves":[]
   },
@@ -2309,7 +2309,7 @@
       "keyPhrase":"pop back to",
       "direction":"left leg reverse",
       "command":"traveling underswitch",
-      "shorthand": "pop back to LL RTUS"
+      "shorthand": "PB - LL RTUS"
     },
     "nextMoves":[]
   },
@@ -2419,7 +2419,7 @@
       "keyPhrase":"pop back to",
       "direction":"right leg reverse",
       "command":"traveling underswitch",
-      "shorthand": "pop back to RL RTUS"
+      "shorthand": "PB - RL RTUS"
     },
     "nextMoves":[]
   },
@@ -2479,7 +2479,7 @@
       "keyPhrase":"pop back to",
       "direction":"left leg reverse",
       "command":"traveling side kickthrough",
-      "shorthand": "pop back to LL RTSKT"
+      "shorthand": "PB - LL RTSKT"
     },
     "nextMoves":[]
   },
@@ -2509,7 +2509,7 @@
       "keyPhrase":"pop back to",
       "direction":"right leg reverse",
       "command":"traveling side kickthrough",
-      "shorthand": "pop back to RL RTSKT"
+      "shorthand": "PB - RL RTSKT"
     },
     "nextMoves":[]
   },

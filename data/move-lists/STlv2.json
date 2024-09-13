@@ -434,7 +434,7 @@
       "keyPhrase":"pop back to",
       "direction":"left leg",
       "command":"scorpion sweep",
-      "shorthand":"pop back to LL SSweep"
+      "shorthand":"PB - LL SSweep"
     },
     "nextMoves":[]
   },
@@ -543,7 +543,7 @@
       "keyPhrase":"pop back to",
       "direction":"right leg",
       "command":"scorpion sweep",
-      "shorthand":"pop back to RL SSweep"
+      "shorthand":"PB - RL SSweep"
     },
     "nextMoves":[]
   },
@@ -602,7 +602,7 @@
       "keyPhrase":"pop back to",
       "direction":"left side",
       "command":"crocodile roll",
-      "shorthand":"pop back to LS CrocR"
+      "shorthand":"PB - LS CrocR"
     },
     "nextMoves":[
       "set static crab",
@@ -725,7 +725,7 @@
       "keyPhrase":"pop back to",
       "direction":"right side",
       "command":"crocodile roll",
-      "shorthand":"pop back to RS CrocR"
+      "shorthand":"PB - RS CrocR"
     },
     "nextMoves":[
       "set static crab",
