@@ -573,7 +573,9 @@
       "to pop out precursor left side crocodile roll",
       "left side lateral pop out",
       "to lateral pop out precursor left side crocodile roll",
-      "left side double crocodile roll"
+      "left side double crocodile roll",
+      "into left leg forward traveling beast",
+      "into left side lateral traveling beast"
     ]
   },
   {
@@ -696,7 +698,9 @@
       "to pop out precursor right side crocodile roll",
       "right side lateral pop out",
       "to lateral pop out precursor right side crocodile roll",
-      "right side double crocodile roll"
+      "right side double crocodile roll",
+      "into right leg forward traveling beast",
+      "into right side lateral traveling beast"
     ]
   },
   {
@@ -830,8 +834,8 @@
       "left leg forward jumping underswitch tap",
       "left leg forward traveling underswitch precursor static crab",
       "left leg reverse traveling underswitch precursor static crab",
-      "into left leg forward traveling beast",
-      "into left leg reverse traveling beast"
+      "into right leg forward traveling beast",
+      "into right side lateral traveling beast"
     ]
   },
   {
@@ -907,8 +911,8 @@
       "right leg forward jumping underswitch tap",
       "right leg forward traveling underswitch precursor static crab",
       "right leg reverse traveling underswitch precursor static crab",
-      "into right leg forward traveling beast",
-      "into right leg reverse traveling beast"
+      "into left leg forward traveling beast",
+      "into left side lateral traveling beast"
     ]
   },
   {
@@ -994,7 +998,10 @@
       "left side lateral traveling ape version 2",
       "right side lateral traveling ape version 2",
       "left side lateral traveling ape version 3",
-      "right side lateral traveling ape version 3"
+      "right side lateral traveling ape version 3",
+      "into right leg forward traveling beast",
+      "into right leg reverse traveling beast",
+      "into right side lateral traveling beast"
     ]
   },
   {
@@ -1074,7 +1081,10 @@
       "left side lateral traveling ape version 2",
       "right side lateral traveling ape version 2",
       "left side lateral traveling ape version 3",
-      "right side lateral traveling ape version 3"
+      "right side lateral traveling ape version 3",
+      "into left leg forward traveling beast",
+      "into left leg reverse traveling beast",
+      "into left side lateral traveling beast"
     ]
   },
   {

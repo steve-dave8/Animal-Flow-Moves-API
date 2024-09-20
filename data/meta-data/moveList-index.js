@@ -341,5 +341,15 @@ right leg reverse traveling beast
     pop back to right leg reverse traveling beast
     slide to right leg reverse traveling beast
     high hip slide to right leg reverse traveling beast
+left side lateral traveling beast
+    into left side lateral traveling beast
+    pop back to left side lateral traveling beast
+    slide to left side lateral traveling beast
+    high hip slide to left side lateral traveling beast
+right side lateral traveling beast
+    into right side lateral traveling beast
+    pop back to right side lateral traveling beast
+    slide to right side lateral traveling beast
+    high hip slide to right side lateral traveling beast
 
 */ 

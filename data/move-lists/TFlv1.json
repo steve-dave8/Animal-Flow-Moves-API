@@ -867,5 +867,155 @@
       "shorthand": "HH slide to RL RTB"
     },
     "nextMoves":[]
+  },
+  {
+    "move":"left side lateral traveling beast",
+    "alias":"set static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left side lateral",
+      "command":"traveling beast",
+      "shorthand": "LS LTB"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into left side lateral traveling beast",
+    "alias":"set static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left side lateral",
+      "command":"traveling beast",
+      "shorthand": "- LS LTB"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to left side lateral traveling beast",
+    "alias":"set static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"left side lateral",
+      "command":"traveling beast",
+      "shorthand": "PB - LS LTB"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"slide to left side lateral traveling beast",
+    "alias":"set static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"slide to",
+      "direction":"left side lateral",
+      "command":"traveling beast",
+      "shorthand": "slide to LS LTB"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"high hip slide to left side lateral traveling beast",
+    "alias":"set static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"high hip slide to",
+      "direction":"left side lateral",
+      "command":"traveling beast",
+      "shorthand": "HH slide to LS LTB"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right side lateral traveling beast",
+    "alias":"set static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right side lateral",
+      "command":"traveling beast",
+      "shorthand": "RS LTB"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into right side lateral traveling beast",
+    "alias":"set static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right side lateral",
+      "command":"traveling beast",
+      "shorthand": "- RS LTB"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to right side lateral traveling beast",
+    "alias":"set static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"right side lateral",
+      "command":"traveling beast",
+      "shorthand": "PB - RS LTB"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"slide to right side lateral traveling beast",
+    "alias":"set static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"slide to",
+      "direction":"right side lateral",
+      "command":"traveling beast",
+      "shorthand": "slide to RS LTB"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"high hip slide to right side lateral traveling beast",
+    "alias":"set static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"high hip slide to",
+      "direction":"right side lateral",
+      "command":"traveling beast",
+      "shorthand": "HH slide to RS LTB"
+    },
+    "nextMoves":[]
   }
 ]

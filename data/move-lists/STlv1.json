@@ -47,7 +47,10 @@
       "left leg forward traveling beast",
       "right leg forward traveling beast",
       "left leg reverse traveling beast",
-      "right leg reverse traveling beast"
+      "right leg reverse traveling beast",
+      "left side lateral traveling beast",
+      "into left side lateral traveling beast",
+      "right side lateral traveling beast"
     ]
   },
   {
@@ -113,7 +116,10 @@
       "left leg forward traveling beast",
       "right leg forward traveling beast",
       "left leg reverse traveling beast",
-      "right leg reverse traveling beast"
+      "right leg reverse traveling beast",
+      "left side lateral traveling beast",
+      "right side lateral traveling beast",
+      "into right side lateral traveling beast"
     ]
   },
   {
@@ -588,7 +594,10 @@
       "left leg forward traveling beast",
       "right leg forward traveling beast",
       "left leg reverse traveling beast",
-      "right leg reverse traveling beast"
+      "right leg reverse traveling beast",
+      "left side lateral traveling beast",
+      "into left side lateral traveling beast",
+      "right side lateral traveling beast"
     ]
   },
   {
@@ -712,7 +721,10 @@
       "left leg forward traveling beast",
       "right leg forward traveling beast",
       "left leg reverse traveling beast",
-      "right leg reverse traveling beast"
+      "right leg reverse traveling beast",
+      "left side lateral traveling beast",
+      "right side lateral traveling beast",
+      "into right side lateral traveling beast"
     ]
   },
   {
@@ -1398,7 +1410,9 @@
       "pop back to left leg forward traveling beast",
       "pop back to right leg forward traveling beast",
       "pop back to left leg reverse traveling beast",
-      "pop back to right leg reverse traveling beast"
+      "pop back to right leg reverse traveling beast",
+      "pop back to left side lateral traveling beast",
+      "pop back to right side lateral traveling beast"
     ]
   },
   {
@@ -1463,7 +1477,9 @@
       "pop back to left leg forward traveling beast",
       "pop back to right leg forward traveling beast",
       "pop back to left leg reverse traveling beast",
-      "pop back to right leg reverse traveling beast"
+      "pop back to right leg reverse traveling beast",
+      "pop back to left side lateral traveling beast",
+      "pop back to right side lateral traveling beast"
     ]
   },
   {
@@ -1528,7 +1544,9 @@
       "pop back to left leg forward traveling beast",
       "pop back to right leg forward traveling beast",
       "pop back to left leg reverse traveling beast",
-      "pop back to right leg reverse traveling beast"
+      "pop back to right leg reverse traveling beast",
+      "pop back to left side lateral traveling beast",
+      "pop back to right side lateral traveling beast"
     ]
   },
   {
@@ -1593,7 +1611,9 @@
       "pop back to left leg forward traveling beast",
       "pop back to right leg forward traveling beast",
       "pop back to left leg reverse traveling beast",
-      "pop back to right leg reverse traveling beast"
+      "pop back to right leg reverse traveling beast",
+      "pop back to left side lateral traveling beast",
+      "pop back to right side lateral traveling beast"
     ]
   },
   {

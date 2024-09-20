@@ -833,7 +833,10 @@
       "left leg forward traveling beast",
       "right leg forward traveling beast",
       "left leg reverse traveling beast",
-      "right leg reverse traveling beast"
+      "right leg reverse traveling beast",
+      "left side lateral traveling beast",
+      "right side lateral traveling beast",
+      "into right side lateral traveling beast"
     ]
   },
   {
@@ -945,7 +948,10 @@
       "left leg forward traveling beast",
       "right leg forward traveling beast",
       "left leg reverse traveling beast",
-      "right leg reverse traveling beast"
+      "right leg reverse traveling beast",
+      "left side lateral traveling beast",
+      "into left side lateral traveling beast",
+      "right side lateral traveling beast"
     ]
   },
   {
@@ -1814,7 +1820,8 @@
       "left leg forward traveling underswitch precursor static beast",
       "right leg reverse traveling underswitch precursor static beast",
       "right leg forward traveling beast",
-      "left leg reverse traveling beast"
+      "left leg reverse traveling beast",
+      "right side lateral traveling beast"
     ]
   },
   {
@@ -1865,7 +1872,8 @@
       "right leg forward traveling underswitch precursor static beast",
       "left leg reverse traveling underswitch precursor static beast",
       "left leg forward traveling beast",
-      "right leg reverse traveling beast"
+      "right leg reverse traveling beast",
+      "left side lateral traveling beast"
     ]
   },
   {
@@ -1915,7 +1923,8 @@
       "right leg forward traveling underswitch precursor static beast",
       "left leg reverse traveling underswitch precursor static beast",
       "left leg forward traveling beast",
-      "right leg reverse traveling beast"
+      "right leg reverse traveling beast",
+      "right side lateral traveling beast"
     ]
   },
   {
@@ -1965,7 +1974,8 @@
       "left leg forward traveling underswitch precursor static beast",
       "right leg reverse traveling underswitch precursor static beast",
       "right leg forward traveling beast",
-      "left leg reverse traveling beast"
+      "left leg reverse traveling beast",
+      "left side lateral traveling beast"
     ]
   },
   {
