@@ -351,5 +351,13 @@ right side lateral traveling beast
     pop back to right side lateral traveling beast
     slide to right side lateral traveling beast
     high hip slide to right side lateral traveling beast
+left leg forward traveling crab
+    into left leg forward traveling crab
+right leg forward traveling crab
+    into right leg forward traveling crab
+left leg reverse traveling crab
+    into left leg reverse traveling crab
+right leg reverse traveling crab
+    into right leg reverse traveling crab
 
 */ 

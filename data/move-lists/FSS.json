@@ -529,7 +529,13 @@
       "into right leg forward traveling underswitch precursor static crab",
       "left leg reverse traveling underswitch precursor static crab",
       "right leg reverse traveling underswitch precursor static crab",
-      "into right leg reverse traveling underswitch precursor static crab"
+      "into right leg reverse traveling underswitch precursor static crab",
+      "left leg forward traveling crab",
+      "right leg forward traveling crab",
+      "into right leg forward traveling crab",
+      "left leg reverse traveling crab",
+      "right leg reverse traveling crab",
+      "into right leg reverse traveling crab"
     ]
   },
   {
@@ -629,7 +635,13 @@
       "right leg forward traveling underswitch precursor static crab",
       "left leg reverse traveling underswitch precursor static crab",
       "into left leg reverse traveling underswitch precursor static crab",
-      "right leg reverse traveling underswitch precursor static crab"
+      "right leg reverse traveling underswitch precursor static crab",
+      "left leg forward traveling crab",
+      "into left leg forward traveling crab",
+      "right leg forward traveling crab",
+      "left leg reverse traveling crab",
+      "into left leg reverse traveling crab",
+      "right leg reverse traveling crab"
     ]
   }
 ]
