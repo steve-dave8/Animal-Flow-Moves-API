@@ -577,7 +577,8 @@
       "into left leg forward traveling beast",
       "into left side lateral traveling beast",
       "left leg forward traveling crab",
-      "left leg reverse traveling crab"
+      "left leg reverse traveling crab",
+      "into left leg traveling leopard"
     ]
   },
   {
@@ -710,7 +711,8 @@
       "into right leg forward traveling beast",
       "into right side lateral traveling beast",
       "right leg forward traveling crab",
-      "right leg reverse traveling crab"
+      "right leg reverse traveling crab",
+      "into right leg traveling leopard"
     ]
   },
   {
@@ -853,7 +855,8 @@
       "into right leg forward traveling beast",
       "into right side lateral traveling beast",
       "left leg forward traveling crab",
-      "left leg reverse traveling crab"
+      "left leg reverse traveling crab",
+      "into right leg traveling leopard"
     ]
   },
   {
@@ -934,7 +937,8 @@
       "into left leg forward traveling beast",
       "into left side lateral traveling beast",
       "right leg forward traveling crab",
-      "right leg reverse traveling crab"
+      "right leg reverse traveling crab",
+      "into left leg traveling leopard"
     ]
   },
   {
@@ -1025,7 +1029,8 @@
       "right side lateral traveling ape version 3",
       "into right leg forward traveling beast",
       "into right leg reverse traveling beast",
-      "into right side lateral traveling beast"
+      "into right side lateral traveling beast",
+      "into right leg traveling leopard"
     ]
   },
   {
@@ -1108,7 +1113,8 @@
       "right side lateral traveling ape version 3",
       "into left leg forward traveling beast",
       "into left leg reverse traveling beast",
-      "into left side lateral traveling beast"
+      "into left side lateral traveling beast",
+      "into left leg traveling leopard"
     ]
   },
   {

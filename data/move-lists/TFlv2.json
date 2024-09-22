@@ -1,0 +1,152 @@
+[
+  {
+    "move":"left leg traveling leopard",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg",
+      "command":"traveling leopard",
+      "shorthand": "LL TL"
+    },
+    "nextMoves":[
+      "set static beast",
+      "set deep ape",
+      "set loaded beast",
+      "left leg underswitch precursor static beast",
+      "right leg underswitch precursor static beast",
+      "left leg underswitch tap precursor static beast",
+      "right leg underswitch tap precursor static beast",
+      "left leg side kickthrough",
+      "right leg side kickthrough",
+      "left leg front step",
+      "right leg front step",
+      "left leg front step through",
+      "right leg front step through",
+      "left leg front kickthrough",
+      "left leg scorpion switch",
+      "left leg scorpion sweep",
+      "left leg spinning underswitch",
+      "right leg spinning underswitch",
+      "left leg spinning underswitch tap",
+      "right leg spinning underswitch tap",
+      "left leg forward traveling underswitch precursor static beast",
+      "right leg reverse traveling underswitch precursor static beast",
+      "traveling frog",
+      "forward traveling ape",
+      "right leg forward traveling beast",
+      "left leg reverse traveling beast",
+      "left side lateral traveling beast",
+      "right side lateral traveling beast",
+      "right leg traveling leopard"
+    ]
+  },
+  {
+    "move":"into left leg traveling leopard",
+    "alias":"left leg traveling leopard",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left leg",
+      "command":"traveling leopard",
+      "shorthand": "- LL TL"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to left leg traveling leopard",
+    "alias":"left leg traveling leopard",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"left leg",
+      "command":"traveling leopard",
+      "shorthand": "PB - LL TL"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right leg traveling leopard",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg",
+      "command":"traveling leopard",
+      "shorthand": "RL TL"
+    },
+    "nextMoves":[
+      "set static beast",
+      "set deep ape",
+      "set loaded beast",
+      "left leg underswitch precursor static beast",
+      "right leg underswitch precursor static beast",
+      "left leg underswitch tap precursor static beast",
+      "right leg underswitch tap precursor static beast",
+      "left leg side kickthrough",
+      "right leg side kickthrough",
+      "left leg front step",
+      "right leg front step",
+      "left leg front step through",
+      "right leg front step through",
+      "right leg front kickthrough",
+      "right leg scorpion switch",
+      "right leg scorpion sweep",
+      "left leg spinning underswitch",
+      "right leg spinning underswitch",
+      "left leg spinning underswitch tap",
+      "right leg spinning underswitch tap",
+      "right leg forward traveling underswitch precursor static beast",
+      "left leg reverse traveling underswitch precursor static beast",
+      "traveling frog",
+      "forward traveling ape",
+      "left leg forward traveling beast",
+      "right leg reverse traveling beast",
+      "left side lateral traveling beast",
+      "right side lateral traveling beast",
+      "left leg traveling leopard"
+    ]
+  },
+  {
+    "move":"into right leg traveling leopard",
+    "alias":"right leg traveling leopard",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right leg",
+      "command":"traveling leopard",
+      "shorthand": "- RL TL"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to right leg traveling leopard",
+    "alias":"right leg traveling leopard",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"right leg",
+      "command":"traveling leopard",
+      "shorthand": "PB - RL TL"
+    },
+    "nextMoves":[]
+  }
+]

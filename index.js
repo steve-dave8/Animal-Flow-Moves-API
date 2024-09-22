@@ -48,7 +48,8 @@ app.get('/move-list', async (req, res, next) => {
         let ST2moves = await dataHandler.getAll(path.resolve('./data/move-lists/STlv2.json'));
         let ST3moves = await dataHandler.getAll(path.resolve('./data/move-lists/STlv3.json'));
         let TF1moves = await dataHandler.getAll(path.resolve('./data/move-lists/TFlv1.json'));
-        let moveList = SAmoves.concat(FSSmoves, ST1moves, ST2moves, ST3moves, TF1moves);
+        let TF2moves = await dataHandler.getAll(path.resolve('./data/move-lists/TFlv2.json'));
+        let moveList = SAmoves.concat(FSSmoves, ST1moves, ST2moves, ST3moves, TF1moves, TF2moves);
         return res.json(moveList);
     } catch (err) {
         console.error(err);

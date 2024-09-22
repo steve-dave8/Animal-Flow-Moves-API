@@ -360,4 +360,12 @@ left leg reverse traveling crab
 right leg reverse traveling crab
     into right leg reverse traveling crab
 
+>>Level 2<<
+left leg traveling leopard
+    into left leg traveling leopard
+    pop back to left leg traveling leopard
+right leg traveling leopard
+    into right leg traveling leopard
+    pop back to right leg traveling leopard
+
 */ 
