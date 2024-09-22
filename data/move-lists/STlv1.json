@@ -51,7 +51,10 @@
       "left side lateral traveling beast",
       "into left side lateral traveling beast",
       "right side lateral traveling beast",
-      "into left leg traveling leopard"
+      "into left leg traveling leopard",
+      "left leg forward traveling bear",
+      "into left leg forward traveling bear",
+      "right leg forward traveling bear"
     ]
   },
   {
@@ -121,7 +124,10 @@
       "left side lateral traveling beast",
       "right side lateral traveling beast",
       "into right side lateral traveling beast",
-      "into right leg traveling leopard"
+      "into right leg traveling leopard",
+      "left leg forward traveling bear",
+      "right leg forward traveling bear",
+      "into right leg forward traveling bear"
     ]
   },
   {
@@ -616,7 +622,10 @@
       "left side lateral traveling beast",
       "into left side lateral traveling beast",
       "right side lateral traveling beast",
-      "into left leg traveling leopard"
+      "into left leg traveling leopard",
+      "left leg forward traveling bear",
+      "into left leg forward traveling bear",
+      "right leg forward traveling bear"
     ]
   },
   {
@@ -744,7 +753,10 @@
       "left side lateral traveling beast",
       "right side lateral traveling beast",
       "into right side lateral traveling beast",
-      "into right leg traveling leopard"
+      "into right leg traveling leopard",
+      "left leg forward traveling bear",
+      "right leg forward traveling bear",
+      "into right leg forward traveling bear"
     ]
   },
   {
@@ -1442,7 +1454,9 @@
       "pop back to left side lateral traveling beast",
       "pop back to right side lateral traveling beast",
       "pop back to left leg traveling leopard",
-      "pop back to right leg traveling leopard"
+      "pop back to right leg traveling leopard",
+      "pop back to left leg forward traveling bear",
+      "pop back to right leg forward traveling bear"
     ]
   },
   {
@@ -1511,7 +1525,9 @@
       "pop back to left side lateral traveling beast",
       "pop back to right side lateral traveling beast",
       "pop back to left leg traveling leopard",
-      "pop back to right leg traveling leopard"
+      "pop back to right leg traveling leopard",
+      "pop back to left leg forward traveling bear",
+      "pop back to right leg forward traveling bear"
     ]
   },
   {
@@ -1580,7 +1596,9 @@
       "pop back to left side lateral traveling beast",
       "pop back to right side lateral traveling beast",
       "pop back to left leg traveling leopard",
-      "pop back to right leg traveling leopard"
+      "pop back to right leg traveling leopard",
+      "pop back to left leg forward traveling bear",
+      "pop back to right leg forward traveling bear"
     ]
   },
   {
@@ -1649,7 +1667,9 @@
       "pop back to left side lateral traveling beast",
       "pop back to right side lateral traveling beast",
       "pop back to left leg traveling leopard",
-      "pop back to right leg traveling leopard"
+      "pop back to right leg traveling leopard",
+      "pop back to left leg forward traveling bear",
+      "pop back to right leg forward traveling bear"
     ]
   },
   {

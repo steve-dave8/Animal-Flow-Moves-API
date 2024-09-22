@@ -38,7 +38,9 @@
       "left leg reverse traveling beast",
       "right leg reverse traveling beast",
       "left side lateral traveling beast",
-      "right side lateral traveling beast"
+      "right side lateral traveling beast",
+      "left leg forward traveling bear",
+      "right leg forward traveling bear"
     ]
   },
   {
@@ -293,7 +295,9 @@
       "slide to right side lateral traveling beast",
       "high hip slide to right side lateral traveling beast",
       "left leg traveling leopard",
-      "right leg traveling leopard"
+      "right leg traveling leopard",
+      "slide to left leg forward traveling bear",
+      "slide to right leg forward traveling bear"
     ]
   },
   {

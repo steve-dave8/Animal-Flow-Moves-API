@@ -77,7 +77,9 @@
       "slide to left side lateral traveling beast",
       "high hip slide to left side lateral traveling beast",
       "slide to right side lateral traveling beast",
-      "high hip slide to right side lateral traveling beast"
+      "high hip slide to right side lateral traveling beast",
+      "slide to left leg forward traveling bear",
+      "slide to right leg forward traveling bear"
     ]
   },
   {
@@ -134,7 +136,8 @@
       "slide to left leg forward traveling beast",
       "slide to left leg reverse traveling beast",
       "slide to left side lateral traveling beast",
-      "left leg traveling leopard"
+      "left leg traveling leopard",
+      "slide to left leg forward traveling bear"
     ]
   },
   {
@@ -174,7 +177,8 @@
       "slide to right leg forward traveling beast",
       "slide to right leg reverse traveling beast",
       "slide to right side lateral traveling beast",
-      "right leg traveling leopard"
+      "right leg traveling leopard",
+      "slide to right leg forward traveling bear"
     ]
   },
   {
@@ -205,7 +209,8 @@
       "pop to left side rotating ape",
       "left leg forward traveling beast",
       "left leg reverse traveling beast",
-      "left side lateral traveling beast"
+      "left side lateral traveling beast",
+      "left leg forward traveling bear"
     ]
   },
   {
@@ -251,7 +256,8 @@
       "pop to right side rotating ape",
       "right leg forward traveling beast",
       "right leg reverse traveling beast",
-      "right side lateral traveling beast"
+      "right side lateral traveling beast",
+      "right leg forward traveling bear"
     ]
   },
   {

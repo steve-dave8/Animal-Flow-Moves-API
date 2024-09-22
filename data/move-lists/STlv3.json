@@ -127,7 +127,8 @@
       "into right leg forward traveling crab",
       "left leg reverse traveling crab",
       "right leg reverse traveling crab",
-      "into right leg reverse traveling crab"
+      "into right leg reverse traveling crab",
+      "into right leg forward traveling bear"
     ]
   },
   {
@@ -295,7 +296,8 @@
       "right leg forward traveling crab",
       "left leg reverse traveling crab",
       "into left leg reverse traveling crab",
-      "right leg reverse traveling crab"
+      "right leg reverse traveling crab",
+      "into left leg forward traveling bear"
     ]
   },
   {
@@ -667,7 +669,7 @@
   },
   {
     "move":"left leg high hip reaching underswitch",
-    "alias":"left leg reaching underswitch",
+    "alias":null,
     "precursor":null,
     "imgSrc":"./AF-move-images/placeholder.png",
     "level":"3",
@@ -678,11 +680,55 @@
       "command":"high hip reaching underswitch",
       "shorthand":"LL HH RUS"
     },
-    "nextMoves":[]
+    "nextMoves":[
+      "left arm crab reach",
+      "right arm crab reach",
+      "into right arm crab reach",
+      "left leg underswitch precursor static crab",
+      "right leg underswitch precursor static crab",
+      "left leg underswitch tap precursor static crab",
+      "right leg underswitch tap precursor static crab",
+      "left leg jumping underswitch",
+      "right leg jumping underswitch",
+      "left leg jumping underswitch tap",
+      "right leg jumping underswitch tap",
+      "left leg full scorpion",
+      "right leg full scorpion",
+      "left leg underswitch to ape",
+      "right leg underswitch to ape",
+      "into right leg roll through",
+      "into left side crocodile roll",
+      "left leg jumping underswitch shift",
+      "right leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift",
+      "left leg levitating underswitch tap",
+      "right leg levitating underswitch tap",
+      "into left side double crocodile roll",
+      "left side rotating crab",
+      "right side rotating crab",
+      "left leg reverse jumping underswitch",
+      "right leg reverse jumping underswitch",
+      "left leg forward jumping underswitch",
+      "right leg forward jumping underswitch",
+      "left leg reverse jumping underswitch tap",
+      "right leg reverse jumping underswitch tap",
+      "left leg forward jumping underswitch tap",
+      "right leg forward jumping underswitch tap",
+      "left leg forward traveling underswitch precursor static crab",
+      "right leg forward traveling underswitch precursor static crab",
+      "left leg reverse traveling underswitch precursor static crab",
+      "right leg reverse traveling underswitch precursor static crab",
+      "into left leg forward traveling crab",
+      "into left leg reverse traveling crab",
+      "into left leg forward traveling bear"
+    ]
   },
   {
     "move":"to left leg high hip reaching underswitch",
-    "alias":"left leg reaching underswitch",
+    "alias":"left leg high hip reaching underswitch",
     "precursor":null,
     "imgSrc":"./AF-move-images/placeholder.png",
     "level":"3",
@@ -697,7 +743,7 @@
   },
   {
     "move":"right leg high hip reaching underswitch",
-    "alias":"right leg reaching underswitch",
+    "alias":null,
     "precursor":null,
     "imgSrc":"./AF-move-images/placeholder.png",
     "level":"3",
@@ -708,11 +754,55 @@
       "command":"high hip reaching underswitch",
       "shorthand":"RL HH RUS"
     },
-    "nextMoves":[]
+    "nextMoves":[
+      "left arm crab reach",
+      "into left arm crab reach",
+      "right arm crab reach",    
+      "left leg underswitch precursor static crab",
+      "right leg underswitch precursor static crab",
+      "left leg underswitch tap precursor static crab",
+      "right leg underswitch tap precursor static crab",
+      "left leg jumping underswitch",
+      "right leg jumping underswitch",
+      "left leg jumping underswitch tap",
+      "right leg jumping underswitch tap",
+      "left leg full scorpion",
+      "right leg full scorpion",
+      "left leg underswitch to ape",
+      "right leg underswitch to ape",
+      "into left leg roll through",
+      "into right side crocodile roll",
+      "left leg jumping underswitch shift",
+      "right leg jumping underswitch shift",
+      "left leg levitating underswitch",
+      "left leg levitating underswitch shift",
+      "right leg levitating underswitch",
+      "right leg levitating underswitch shift",
+      "left leg levitating underswitch tap",
+      "right leg levitating underswitch tap",
+      "into right side double crocodile roll",
+      "left side rotating crab",
+      "right side rotating crab",
+      "left leg reverse jumping underswitch",
+      "right leg reverse jumping underswitch",
+      "left leg forward jumping underswitch",
+      "right leg forward jumping underswitch",
+      "left leg reverse jumping underswitch tap",
+      "right leg reverse jumping underswitch tap",
+      "left leg forward jumping underswitch tap",
+      "right leg forward jumping underswitch tap",
+      "left leg forward traveling underswitch precursor static crab",
+      "right leg forward traveling underswitch precursor static crab",
+      "left leg reverse traveling underswitch precursor static crab",
+      "right leg reverse traveling underswitch precursor static crab",
+      "into right leg forward traveling crab",
+      "into right leg reverse traveling crab",
+      "into right leg forward traveling bear"
+    ]
   },
   {
     "move":"to right leg high hip reaching underswitch",
-    "alias":"right leg reaching underswitch",
+    "alias":"right leg high hip reaching underswitch",
     "precursor":null,
     "imgSrc":"./AF-move-images/placeholder.png",
     "level":"3",
@@ -853,7 +943,10 @@
       "left side lateral traveling beast",
       "right side lateral traveling beast",
       "into right side lateral traveling beast",
-      "into right leg traveling leopard"
+      "into right leg traveling leopard",
+      "left leg forward traveling bear",
+      "right leg forward traveling bear",
+      "into right leg forward traveling bear"
     ]
   },
   {
@@ -969,7 +1062,10 @@
       "left side lateral traveling beast",
       "into left side lateral traveling beast",
       "right side lateral traveling beast",
-      "into left leg traveling leopard"
+      "into left leg traveling leopard",
+      "left leg forward traveling bear",
+      "into left leg forward traveling bear",
+      "right leg forward traveling bear"
     ]
   },
   {
@@ -1851,7 +1947,8 @@
       "right leg reverse traveling underswitch precursor static beast",
       "right leg forward traveling beast",
       "left leg reverse traveling beast",
-      "right side lateral traveling beast"
+      "right side lateral traveling beast",
+      "right leg forward traveling bear"
     ]
   },
   {
@@ -1903,7 +2000,8 @@
       "left leg reverse traveling underswitch precursor static beast",
       "left leg forward traveling beast",
       "right leg reverse traveling beast",
-      "left side lateral traveling beast"
+      "left side lateral traveling beast",
+      "left leg forward traveling bear"
     ]
   },
   {
@@ -1954,7 +2052,8 @@
       "left leg reverse traveling underswitch precursor static beast",
       "left leg forward traveling beast",
       "right leg reverse traveling beast",
-      "right side lateral traveling beast"
+      "right side lateral traveling beast",
+      "left leg forward traveling bear"
     ]
   },
   {
@@ -2005,7 +2104,8 @@
       "right leg reverse traveling underswitch precursor static beast",
       "right leg forward traveling beast",
       "left leg reverse traveling beast",
-      "left side lateral traveling beast"
+      "left side lateral traveling beast",
+      "right leg forward traveling bear"
     ]
   },
   {

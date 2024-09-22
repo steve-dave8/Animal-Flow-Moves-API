@@ -41,7 +41,8 @@
       "left leg reverse traveling beast",
       "left side lateral traveling beast",
       "right side lateral traveling beast",
-      "right leg traveling leopard"
+      "right leg traveling leopard",
+      "right leg forward traveling bear"
     ]
   },
   {
@@ -116,7 +117,8 @@
       "right leg reverse traveling beast",
       "left side lateral traveling beast",
       "right side lateral traveling beast",
-      "left leg traveling leopard"
+      "left leg traveling leopard",
+      "left leg forward traveling bear"
     ]
   },
   {
@@ -146,6 +148,126 @@
       "direction":"right leg",
       "command":"traveling leopard",
       "shorthand": "PB - RL TL"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left leg forward traveling bear",
+    "alias":"left leg forward traveling beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg forward",
+      "command":"traveling bear",
+      "shorthand": "LL FTBear"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into left leg forward traveling bear",
+    "alias":"left leg forward traveling beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left leg forward",
+      "command":"traveling bear",
+      "shorthand": "- LL FTBear"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"slide to left leg forward traveling bear",
+    "alias":"left leg forward traveling beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"slide to",
+      "direction":"left leg forward",
+      "command":"traveling bear",
+      "shorthand": "slide to LL FTBear"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to left leg forward traveling bear",
+    "alias":"left leg forward traveling beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"left leg forward",
+      "command":"traveling bear",
+      "shorthand": "PB - LL FTBear"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right leg forward traveling bear",
+    "alias":"right leg forward traveling beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg forward",
+      "command":"traveling bear",
+      "shorthand": "RL FTBear"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into right leg forward traveling bear",
+    "alias":"right leg forward traveling beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right leg forward",
+      "command":"traveling bear",
+      "shorthand": "- RL FTBear"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"slide to right leg forward traveling bear",
+    "alias":"right leg forward traveling beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"slide to",
+      "direction":"right leg forward",
+      "command":"traveling bear",
+      "shorthand": "slide to RL FTBear"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to right leg forward traveling bear",
+    "alias":"right leg forward traveling beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"right leg forward",
+      "command":"traveling bear",
+      "shorthand": "PB - RL FTBear"
     },
     "nextMoves":[]
   }

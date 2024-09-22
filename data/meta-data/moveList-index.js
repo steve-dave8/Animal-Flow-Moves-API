@@ -196,10 +196,10 @@ left leg reverse reaching underswitch tap (alias: left leg underswitch tap precu
     to left leg reverse reaching underswitch tap (alias: left leg underswitch tap precursor static beast)
 right leg reverse reaching underswitch tap (alias: right leg underswitch tap precursor static beast)
     to right leg reverse reaching underswitch tap (alias: right leg underswitch tap precursor static beast)
-left leg high hip reaching underswitch (alias: left leg reaching underswitch)
-    to left leg high hip reaching underswitch (alias: left leg reaching underswitch)
-right leg high hip reaching underswitch (alias: right leg reaching underswitch)
-    to right leg high hip reaching underswitch (alias: right leg reaching underswitch)
+left leg high hip reaching underswitch
+    to left leg high hip reaching underswitch
+right leg high hip reaching underswitch 
+    to right leg high hip reaching underswitch
 left leg high hip reaching underswitch tap (alias: left leg underswitch tap precursor static beast)
     to left leg high hip reaching underswitch tap (alias: left leg underswitch tap precursor static beast)
 right leg high hip reaching underswitch tap (alias: right leg underswitch tap precursor static beast)
@@ -367,5 +367,13 @@ left leg traveling leopard
 right leg traveling leopard
     into right leg traveling leopard
     pop back to right leg traveling leopard
+left leg forward traveling bear (alias: left leg forward traveling beast)
+    into left leg forward traveling bear (alias: left leg forward traveling beast)
+    slide to left leg forward traveling bear (alias: left leg forward traveling beast)
+    pop back to left leg forward traveling bear (alias: left leg forward traveling beast)
+right leg forward traveling bear (alias: right leg forward traveling beast)
+    into right leg forward traveling bear (alias: right leg forward traveling beast)
+    slide to right leg forward traveling bear (alias: right leg forward traveling beast)
+    pop back to right leg forward traveling bear (alias: right leg forward traveling beast)
 
 */ 
