@@ -42,7 +42,8 @@
       "left side lateral traveling beast",
       "right side lateral traveling beast",
       "right leg traveling leopard",
-      "right leg forward traveling bear"
+      "right leg forward traveling bear",
+      "left leg crocodile crawl"
     ]
   },
   {
@@ -118,7 +119,8 @@
       "left side lateral traveling beast",
       "right side lateral traveling beast",
       "left leg traveling leopard",
-      "left leg forward traveling bear"
+      "left leg forward traveling bear",
+      "right leg crocodile crawl"
     ]
   },
   {
@@ -268,6 +270,118 @@
       "direction":"right leg forward",
       "command":"traveling bear",
       "shorthand": "PB - RL FTBear"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"left leg crocodile crawl",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg",
+      "command":"crocodile crawl",
+      "shorthand": "LL CC"
+    },
+    "nextMoves":[
+      "set static beast",
+      "set loaded beast", 
+      "right leg beast reach",
+      "right leg underswitch precursor static beast",
+      "right leg front step",
+      "right leg front step through",
+      "left leg front kickthrough",
+      "traveling frog",
+      "right leg forward traveling beast",
+      "right leg crocodile crawl"
+    ]
+  },
+  {
+    "move":"into left leg crocodile crawl",
+    "alias":"left leg crocodile crawl",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left leg",
+      "command":"crocodile crawl",
+      "shorthand": "- LL CC"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to left leg crocodile crawl",
+    "alias":"left leg crocodile crawl",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"left leg",
+      "command":"crocodile crawl",
+      "shorthand": "PB - LL CC"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right leg crocodile crawl",
+    "alias":null,
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg",
+      "command":"crocodile crawl",
+      "shorthand": "RL CC"
+    },
+    "nextMoves":[
+      "set static beast",
+      "set loaded beast", 
+      "left leg beast reach",
+      "left leg underswitch precursor static beast",
+      "left leg front step",
+      "left leg front step through",
+      "right leg front kickthrough",
+      "traveling frog",
+      "left leg forward traveling beast",
+      "left leg crocodile crawl"
+    ]
+  },
+  {
+    "move":"into right leg crocodile crawl",
+    "alias":"right leg crocodile crawl",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right leg",
+      "command":"crocodile crawl",
+      "shorthand": "- RL CC"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to right leg crocodile crawl",
+    "alias":"right leg crocodile crawl",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"right leg",
+      "command":"crocodile crawl",
+      "shorthand": "PB - RL CC"
     },
     "nextMoves":[]
   }

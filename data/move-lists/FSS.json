@@ -137,7 +137,8 @@
       "slide to left leg reverse traveling beast",
       "slide to left side lateral traveling beast",
       "left leg traveling leopard",
-      "slide to left leg forward traveling bear"
+      "slide to left leg forward traveling bear",
+      "left leg crocodile crawl"
     ]
   },
   {
@@ -178,7 +179,8 @@
       "slide to right leg reverse traveling beast",
       "slide to right side lateral traveling beast",
       "right leg traveling leopard",
-      "slide to right leg forward traveling bear"
+      "slide to right leg forward traveling bear",
+      "right leg crocodile crawl"
     ]
   },
   {
@@ -293,7 +295,8 @@
       "return to loaded beast",
       "left leg front step",
       "left leg front step through",
-      "float to right leg front kickthrough"
+      "float to right leg front kickthrough",
+      "left leg crocodile crawl"
     ]
   },
   {
@@ -329,7 +332,8 @@
       "return to loaded beast",
       "right leg front step",
       "right leg front step through",
-      "float to left leg front kickthrough"
+      "float to left leg front kickthrough",
+      "right leg crocodile crawl"
     ]
   },
   {

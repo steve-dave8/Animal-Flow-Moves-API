@@ -579,7 +579,8 @@
       "left leg forward traveling crab",
       "left leg reverse traveling crab",
       "into left leg traveling leopard",
-      "into left leg forward traveling bear"
+      "into left leg forward traveling bear",
+      "into right leg crocodile crawl"
     ]
   },
   {
@@ -714,7 +715,8 @@
       "right leg forward traveling crab",
       "right leg reverse traveling crab",
       "into right leg traveling leopard",
-      "into right leg forward traveling bear"
+      "into right leg forward traveling bear",
+      "into left leg crocodile crawl"
     ]
   },
   {
@@ -859,7 +861,8 @@
       "left leg forward traveling crab",
       "left leg reverse traveling crab",
       "into right leg traveling leopard",
-      "into right leg forward traveling bear"
+      "into right leg forward traveling bear",
+      "into left leg crocodile crawl"
     ]
   },
   {
@@ -942,7 +945,8 @@
       "right leg forward traveling crab",
       "right leg reverse traveling crab",
       "into left leg traveling leopard",
-      "into left leg forward traveling bear"
+      "into left leg forward traveling bear",
+      "into right leg crocodile crawl"
     ]
   },
   {

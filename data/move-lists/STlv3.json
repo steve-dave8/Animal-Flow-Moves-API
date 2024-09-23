@@ -946,7 +946,9 @@
       "into right leg traveling leopard",
       "left leg forward traveling bear",
       "right leg forward traveling bear",
-      "into right leg forward traveling bear"
+      "into right leg forward traveling bear",
+      "into left leg crocodile crawl",
+      "into right leg crocodile crawl"
     ]
   },
   {
@@ -1065,7 +1067,9 @@
       "into left leg traveling leopard",
       "left leg forward traveling bear",
       "into left leg forward traveling bear",
-      "right leg forward traveling bear"
+      "right leg forward traveling bear",
+      "into left leg crocodile crawl",
+      "into right leg crocodile crawl"
     ]
   },
   {
