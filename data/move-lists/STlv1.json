@@ -58,7 +58,10 @@
       "into left leg crocodile crawl",
       "into right leg crocodile crawl",
       "into left side traveling baboon",
-      "into right side traveling baboon"
+      "into right side traveling baboon",
+      "left leg reverse traveling bear",
+      "into left leg reverse traveling bear",
+      "right leg reverse traveling bear"
     ]
   },
   {
@@ -135,7 +138,10 @@
       "into left leg crocodile crawl",
       "into right leg crocodile crawl",
       "into left side traveling baboon",
-      "into right side traveling baboon"
+      "into right side traveling baboon",
+      "left leg reverse traveling bear",
+      "right leg reverse traveling bear",
+      "into right leg reverse traveling bear"
     ]
   },
   {
@@ -637,7 +643,10 @@
       "into left leg crocodile crawl",
       "into right leg crocodile crawl",
       "into left side traveling baboon",
-      "into right side traveling baboon"
+      "into right side traveling baboon",
+      "left leg reverse traveling bear",
+      "into left leg reverse traveling bear",
+      "right leg reverse traveling bear"
     ]
   },
   {
@@ -772,7 +781,10 @@
       "into left leg crocodile crawl",
       "into right leg crocodile crawl",
       "into left side traveling baboon",
-      "into right side traveling baboon"
+      "into right side traveling baboon",
+      "left leg reverse traveling bear",
+      "right leg reverse traveling bear",
+      "into right leg reverse traveling bear"
     ]
   },
   {
@@ -1477,7 +1489,9 @@
       "pop back to right leg forward traveling bear",
       "pop back to left leg crocodile crawl",
       "pop back to right leg crocodile crawl",
-      "pop back to right side traveling baboon"
+      "pop back to right side traveling baboon",
+      "pop back to left leg reverse traveling bear",
+      "pop back to right leg reverse traveling bear"
     ]
   },
   {
@@ -1551,7 +1565,9 @@
       "pop back to right leg forward traveling bear",
       "pop back to left leg crocodile crawl",
       "pop back to right leg crocodile crawl",
-      "pop back to left side traveling baboon"
+      "pop back to left side traveling baboon",
+      "pop back to left leg reverse traveling bear",
+      "pop back to right leg reverse traveling bear"
     ]
   },
   {
@@ -1625,7 +1641,9 @@
       "pop back to right leg forward traveling bear",
       "pop back to left leg crocodile crawl",
       "pop back to right leg crocodile crawl",
-      "pop back to left side traveling baboon"
+      "pop back to left side traveling baboon",
+      "pop back to left leg reverse traveling bear",
+      "pop back to right leg reverse traveling bear"
     ]
   },
   {
@@ -1699,7 +1717,9 @@
       "pop back to right leg forward traveling bear",
       "pop back to left leg crocodile crawl",
       "pop back to right leg crocodile crawl",
-      "pop back to right side traveling baboon"
+      "pop back to right side traveling baboon",
+      "pop back to left leg reverse traveling bear",
+      "pop back to right leg reverse traveling bear"
     ]
   },
   {

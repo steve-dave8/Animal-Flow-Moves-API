@@ -389,5 +389,13 @@ left side traveling baboon
 right side traveling baboon
     into right side traveling baboon
     pop back to right side traveling baboon
+left leg reverse traveling bear (alias: left leg reverse traveling beast)
+    into left leg reverse traveling bear (alias: left leg reverse traveling beast)
+    slide to left leg reverse traveling bear (alias: left leg reverse traveling beast)
+    pop back to left leg reverse traveling bear (alias: left leg reverse traveling beast)
+right leg reverse traveling bear (alias: right leg reverse traveling beast)
+    into right leg reverse traveling bear (alias: right leg reverse traveling beast)
+    slide to right leg reverse traveling bear (alias: right leg reverse traveling beast)
+    pop back to right leg reverse traveling bear (alias: right leg reverse traveling beast)
 
 */ 

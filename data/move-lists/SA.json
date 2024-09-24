@@ -40,7 +40,9 @@
       "left side lateral traveling beast",
       "right side lateral traveling beast",
       "left leg forward traveling bear",
-      "right leg forward traveling bear"
+      "right leg forward traveling bear",
+      "left leg reverse traveling bear",
+      "right leg reverse traveling bear"
     ]
   },
   {
@@ -301,7 +303,9 @@
       "slide to left leg forward traveling bear",
       "slide to right leg forward traveling bear",
       "left leg crocodile crawl",
-      "right leg crocodile crawl"
+      "right leg crocodile crawl",
+      "slide to left leg reverse traveling bear",
+      "slide to right leg reverse traveling bear"
     ]
   },
   {

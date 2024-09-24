@@ -130,7 +130,8 @@
       "into right leg reverse traveling crab",
       "into right leg forward traveling bear",
       "into left side traveling baboon",
-      "into right side traveling baboon"
+      "into right side traveling baboon",
+      "into right leg reverse traveling bear"
     ]
   },
   {
@@ -301,7 +302,8 @@
       "right leg reverse traveling crab",
       "into left leg forward traveling bear",
       "into left side traveling baboon",
-      "into right side traveling baboon"
+      "into right side traveling baboon",
+      "into left leg reverse traveling bear"
     ]
   },
   {
@@ -729,7 +731,8 @@
       "into left leg forward traveling crab",
       "into left leg reverse traveling crab",
       "into left leg forward traveling bear",
-      "into right side traveling baboon"
+      "into right side traveling baboon",
+      "into left leg reverse traveling bear"
     ]
   },
   {
@@ -805,7 +808,8 @@
       "into right leg forward traveling crab",
       "into right leg reverse traveling crab",
       "into right leg forward traveling bear",
-      "into left side traveling baboon"
+      "into left side traveling baboon",
+      "into right leg reverse traveling bear"
     ]
   },
   {
@@ -958,7 +962,10 @@
       "into left leg crocodile crawl",
       "into right leg crocodile crawl",
       "into left side traveling baboon",
-      "into right side traveling baboon"
+      "into right side traveling baboon",
+      "left leg reverse traveling bear",
+      "right leg reverse traveling bear",
+      "into right leg reverse traveling bear"
     ]
   },
   {
@@ -1081,7 +1088,10 @@
       "into left leg crocodile crawl",
       "into right leg crocodile crawl",
       "into left side traveling baboon",
-      "into right side traveling baboon"
+      "into right side traveling baboon",
+      "left leg reverse traveling bear",
+      "into left leg reverse traveling bear",
+      "right leg reverse traveling bear"
     ]
   },
   {
@@ -1964,7 +1974,8 @@
       "right leg forward traveling beast",
       "left leg reverse traveling beast",
       "right side lateral traveling beast",
-      "right leg forward traveling bear"
+      "right leg forward traveling bear",
+      "left leg reverse traveling bear"
     ]
   },
   {
@@ -2017,7 +2028,8 @@
       "left leg forward traveling beast",
       "right leg reverse traveling beast",
       "left side lateral traveling beast",
-      "left leg forward traveling bear"
+      "left leg forward traveling bear",
+      "right leg reverse traveling bear"
     ]
   },
   {
@@ -2069,7 +2081,8 @@
       "left leg forward traveling beast",
       "right leg reverse traveling beast",
       "right side lateral traveling beast",
-      "left leg forward traveling bear"
+      "left leg forward traveling bear",
+      "right leg reverse traveling bear"
     ]
   },
   {
@@ -2121,7 +2134,8 @@
       "right leg forward traveling beast",
       "left leg reverse traveling beast",
       "left side lateral traveling beast",
-      "right leg forward traveling bear"
+      "right leg forward traveling bear",
+      "left leg reverse traveling bear"
     ]
   },
   {

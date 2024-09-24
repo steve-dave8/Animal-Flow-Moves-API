@@ -160,5 +160,125 @@
       "shorthand": "PB - RS TB"
     },
     "nextMoves":[]
+  },
+  {
+    "move":"left leg reverse traveling bear",
+    "alias":"left leg reverse traveling beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg reverse",
+      "command":"traveling bear",
+      "shorthand": "LL RTBear"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into left leg reverse traveling bear",
+    "alias":"left leg reverse traveling beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left leg reverse",
+      "command":"traveling bear",
+      "shorthand": "- LL RTBear"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"slide to left leg reverse traveling bear",
+    "alias":"left leg reverse traveling beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"slide to",
+      "direction":"left leg reverse",
+      "command":"traveling bear",
+      "shorthand": "slide to LL RTBear"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to left leg reverse traveling bear",
+    "alias":"left leg reverse traveling beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"left leg reverse",
+      "command":"traveling bear",
+      "shorthand": "PB - LL RTBear"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"right leg reverse traveling bear",
+    "alias":"right leg reverse traveling beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"right leg reverse",
+      "command":"traveling bear",
+      "shorthand": "RL RTBear"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into right leg reverse traveling bear",
+    "alias":"right leg reverse traveling beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"right leg reverse",
+      "command":"traveling bear",
+      "shorthand": "- RL RTBear"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"slide to right leg reverse traveling bear",
+    "alias":"right leg reverse traveling beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"slide to",
+      "direction":"right leg reverse",
+      "command":"traveling bear",
+      "shorthand": "slide to RL RTBear"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop back to right leg reverse traveling bear",
+    "alias":"right leg reverse traveling beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"pop back to",
+      "direction":"right leg reverse",
+      "command":"traveling bear",
+      "shorthand": "PB - RL RTBear"
+    },
+    "nextMoves":[]
   }
 ]
