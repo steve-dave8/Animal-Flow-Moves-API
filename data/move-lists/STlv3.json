@@ -128,7 +128,9 @@
       "left leg reverse traveling crab",
       "right leg reverse traveling crab",
       "into right leg reverse traveling crab",
-      "into right leg forward traveling bear"
+      "into right leg forward traveling bear",
+      "into left side traveling baboon",
+      "into right side traveling baboon"
     ]
   },
   {
@@ -297,7 +299,9 @@
       "left leg reverse traveling crab",
       "into left leg reverse traveling crab",
       "right leg reverse traveling crab",
-      "into left leg forward traveling bear"
+      "into left leg forward traveling bear",
+      "into left side traveling baboon",
+      "into right side traveling baboon"
     ]
   },
   {
@@ -692,6 +696,7 @@
       "right leg jumping underswitch",
       "left leg jumping underswitch tap",
       "right leg jumping underswitch tap",
+      "to left leg scorpion switch",
       "left leg full scorpion",
       "right leg full scorpion",
       "left leg underswitch to ape",
@@ -723,7 +728,8 @@
       "right leg reverse traveling underswitch precursor static crab",
       "into left leg forward traveling crab",
       "into left leg reverse traveling crab",
-      "into left leg forward traveling bear"
+      "into left leg forward traveling bear",
+      "into right side traveling baboon"
     ]
   },
   {
@@ -766,6 +772,7 @@
       "right leg jumping underswitch",
       "left leg jumping underswitch tap",
       "right leg jumping underswitch tap",
+      "to right leg scorpion switch",
       "left leg full scorpion",
       "right leg full scorpion",
       "left leg underswitch to ape",
@@ -797,7 +804,8 @@
       "right leg reverse traveling underswitch precursor static crab",
       "into right leg forward traveling crab",
       "into right leg reverse traveling crab",
-      "into right leg forward traveling bear"
+      "into right leg forward traveling bear",
+      "into left side traveling baboon"
     ]
   },
   {
@@ -948,7 +956,9 @@
       "right leg forward traveling bear",
       "into right leg forward traveling bear",
       "into left leg crocodile crawl",
-      "into right leg crocodile crawl"
+      "into right leg crocodile crawl",
+      "into left side traveling baboon",
+      "into right side traveling baboon"
     ]
   },
   {
@@ -1069,7 +1079,9 @@
       "into left leg forward traveling bear",
       "right leg forward traveling bear",
       "into left leg crocodile crawl",
-      "into right leg crocodile crawl"
+      "into right leg crocodile crawl",
+      "into left side traveling baboon",
+      "into right side traveling baboon"
     ]
   },
   {
@@ -2710,7 +2722,9 @@
       "left side lateral traveling ape version 2",
       "right side lateral traveling ape version 2",
       "left side lateral traveling ape version 3",
-      "right side lateral traveling ape version 3"
+      "right side lateral traveling ape version 3",
+      "left side traveling baboon",
+      "right side traveling baboon"
     ]
   },
   {
@@ -2788,7 +2802,9 @@
       "left side lateral traveling ape version 2",
       "right side lateral traveling ape version 2",
       "left side lateral traveling ape version 3",
-      "right side lateral traveling ape version 3"
+      "right side lateral traveling ape version 3",
+      "left side traveling baboon",
+      "right side traveling baboon"
     ]
   },
   {

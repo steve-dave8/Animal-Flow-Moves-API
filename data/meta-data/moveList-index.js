@@ -382,4 +382,12 @@ right leg crocodile crawl
     into right leg crocodile crawl
     pop back to right leg crocodile crawl
 
+>>>Level 3<<<
+left side traveling baboon
+    into left side traveling baboon
+    pop back to left side traveling baboon
+right side traveling baboon
+    into right side traveling baboon
+    pop back to right side traveling baboon
+
 */ 
