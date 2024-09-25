@@ -375,6 +375,7 @@ right leg forward traveling bear (alias: right leg forward traveling beast)
     into right leg forward traveling bear (alias: right leg forward traveling beast)
     slide to right leg forward traveling bear (alias: right leg forward traveling beast)
     pop back to right leg forward traveling bear (alias: right leg forward traveling beast)
+to bear (alias: set static beast)
 left leg crocodile crawl
     into left leg crocodile crawl
     pop back to left leg crocodile crawl

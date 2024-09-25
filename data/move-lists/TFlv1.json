@@ -577,7 +577,7 @@
       "keyPhrase":"slide to",
       "direction":"left leg forward",
       "command":"traveling beast",
-      "shorthand": "slide to LL FTB"
+      "shorthand": "Sl - LL FTB"
     },
     "nextMoves":[]
   },
@@ -592,7 +592,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"left leg forward",
       "command":"traveling beast",
-      "shorthand": "HH slide to LL FTB"
+      "shorthand": "HH Sl - LL FTB"
     },
     "nextMoves":[]
   },
@@ -679,7 +679,7 @@
       "keyPhrase":"slide to",
       "direction":"right leg forward",
       "command":"traveling beast",
-      "shorthand": "slide to RL FTB"
+      "shorthand": "Sl - RL FTB"
     },
     "nextMoves":[]
   },
@@ -694,7 +694,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"right leg forward",
       "command":"traveling beast",
-      "shorthand": "HH slide to RL FTB"
+      "shorthand": "HH Sl - RL FTB"
     },
     "nextMoves":[]
   },
@@ -780,7 +780,7 @@
       "keyPhrase":"slide to",
       "direction":"left leg reverse",
       "command":"traveling beast",
-      "shorthand": "slide to LL RTB"
+      "shorthand": "Sl - LL RTB"
     },
     "nextMoves":[]
   },
@@ -795,7 +795,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"left leg reverse",
       "command":"traveling beast",
-      "shorthand": "HH slide to LL RTB"
+      "shorthand": "HH Sl - LL RTB"
     },
     "nextMoves":[]
   },
@@ -881,7 +881,7 @@
       "keyPhrase":"slide to",
       "direction":"right leg reverse",
       "command":"traveling beast",
-      "shorthand": "slide to RL RTB"
+      "shorthand": "Sl - RL RTB"
     },
     "nextMoves":[]
   },
@@ -896,7 +896,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"right leg reverse",
       "command":"traveling beast",
-      "shorthand": "HH slide to RL RTB"
+      "shorthand": "HH Sl - RL RTB"
     },
     "nextMoves":[]
   },
@@ -956,7 +956,7 @@
       "keyPhrase":"slide to",
       "direction":"left side lateral",
       "command":"traveling beast",
-      "shorthand": "slide to LS LTB"
+      "shorthand": "Sl - LS LTB"
     },
     "nextMoves":[]
   },
@@ -971,7 +971,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"left side lateral",
       "command":"traveling beast",
-      "shorthand": "HH slide to LS LTB"
+      "shorthand": "HH Sl - LS LTB"
     },
     "nextMoves":[]
   },
@@ -1031,7 +1031,7 @@
       "keyPhrase":"slide to",
       "direction":"right side lateral",
       "command":"traveling beast",
-      "shorthand": "slide to RS LTB"
+      "shorthand": "Sl - RS LTB"
     },
     "nextMoves":[]
   },
@@ -1046,7 +1046,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"right side lateral",
       "command":"traveling beast",
-      "shorthand": "HH slide to RS LTB"
+      "shorthand": "HH Sl - RS LTB"
     },
     "nextMoves":[]
   },

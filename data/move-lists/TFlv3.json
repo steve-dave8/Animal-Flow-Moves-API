@@ -172,7 +172,7 @@
       "keyPhrase":null,
       "direction":"left leg reverse",
       "command":"traveling bear",
-      "shorthand": "LL RTBear"
+      "shorthand": "LL RTBr"
     },
     "nextMoves":[]
   },
@@ -187,7 +187,7 @@
       "keyPhrase":"into",
       "direction":"left leg reverse",
       "command":"traveling bear",
-      "shorthand": "- LL RTBear"
+      "shorthand": "- LL RTBr"
     },
     "nextMoves":[]
   },
@@ -202,7 +202,7 @@
       "keyPhrase":"slide to",
       "direction":"left leg reverse",
       "command":"traveling bear",
-      "shorthand": "slide to LL RTBear"
+      "shorthand": "Sl - LL RTBr"
     },
     "nextMoves":[]
   },
@@ -217,7 +217,7 @@
       "keyPhrase":"pop back to",
       "direction":"left leg reverse",
       "command":"traveling bear",
-      "shorthand": "PB - LL RTBear"
+      "shorthand": "PB - LL RTBr"
     },
     "nextMoves":[]
   },
@@ -232,7 +232,7 @@
       "keyPhrase":null,
       "direction":"right leg reverse",
       "command":"traveling bear",
-      "shorthand": "RL RTBear"
+      "shorthand": "RL RTBr"
     },
     "nextMoves":[]
   },
@@ -247,7 +247,7 @@
       "keyPhrase":"into",
       "direction":"right leg reverse",
       "command":"traveling bear",
-      "shorthand": "- RL RTBear"
+      "shorthand": "- RL RTBr"
     },
     "nextMoves":[]
   },
@@ -262,7 +262,7 @@
       "keyPhrase":"slide to",
       "direction":"right leg reverse",
       "command":"traveling bear",
-      "shorthand": "slide to RL RTBear"
+      "shorthand": "Sl - RL RTBr"
     },
     "nextMoves":[]
   },
@@ -277,7 +277,7 @@
       "keyPhrase":"pop back to",
       "direction":"right leg reverse",
       "command":"traveling bear",
-      "shorthand": "PB - RL RTBear"
+      "shorthand": "PB - RL RTBr"
     },
     "nextMoves":[]
   }

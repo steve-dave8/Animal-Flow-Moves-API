@@ -395,7 +395,7 @@
       "keyPhrase":"slide to",
       "direction":"left leg",
       "command":"scorpion sweep",
-      "shorthand":"slide to LL SSweep"
+      "shorthand":"Sl - LL SSweep"
     },
     "nextMoves":[]
   },
@@ -410,7 +410,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"left leg",
       "command":"scorpion sweep",
-      "shorthand":"HH slide to LL SSweep"
+      "shorthand":"HH Sl - LL SSweep"
     },
     "nextMoves":[]
   },
@@ -506,7 +506,7 @@
       "keyPhrase":"slide to",
       "direction":"right leg",
       "command":"scorpion sweep",
-      "shorthand":"slide to RL SSweep"
+      "shorthand":"Sl - RL SSweep"
     },
     "nextMoves":[]
   },
@@ -521,7 +521,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"right leg",
       "command":"scorpion sweep",
-      "shorthand":"HH slide to RL SSweep"
+      "shorthand":"HH Sl - RL SSweep"
     },
     "nextMoves":[]
   },
@@ -581,6 +581,7 @@
       "to pop out precursor left side crocodile roll",
       "left side lateral pop out",
       "to lateral pop out precursor left side crocodile roll",
+      "into left leg front sweep",
       "left side double crocodile roll",
       "into left leg forward traveling beast",
       "into left side lateral traveling beast",
@@ -717,6 +718,7 @@
       "to pop out precursor right side crocodile roll",
       "right side lateral pop out",
       "to lateral pop out precursor right side crocodile roll",
+      "into right leg front sweep",
       "right side double crocodile roll",
       "into right leg forward traveling beast",
       "into right side lateral traveling beast",

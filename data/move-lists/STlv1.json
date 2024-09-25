@@ -55,6 +55,7 @@
       "left leg forward traveling bear",
       "into left leg forward traveling bear",
       "right leg forward traveling bear",
+      "to bear",
       "into left leg crocodile crawl",
       "into right leg crocodile crawl",
       "into left side traveling baboon",
@@ -135,6 +136,7 @@
       "left leg forward traveling bear",
       "right leg forward traveling bear",
       "into right leg forward traveling bear",
+      "to bear",
       "into left leg crocodile crawl",
       "into right leg crocodile crawl",
       "into left side traveling baboon",
@@ -233,7 +235,7 @@
       "keyPhrase":"slide to",
       "direction":"left leg",
       "command":"underswitch",
-      "shorthand":"slide to LL US"
+      "shorthand":"Sl - LL US"
     },
     "nextMoves":[]
   },
@@ -248,7 +250,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"left leg",
       "command":"underswitch",
-      "shorthand":"HH slide to LL US"
+      "shorthand":"HH Sl - LL US"
     },
     "nextMoves":[]
   },
@@ -356,7 +358,7 @@
       "keyPhrase":"slide to",
       "direction":"right leg",
       "command":"underswitch",
-      "shorthand":"slide to RL US"
+      "shorthand":"Sl - RL US"
     },
     "nextMoves":[]
   },
@@ -371,7 +373,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"right leg",
       "command":"underswitch",
-      "shorthand":"HH slide to RL US"
+      "shorthand":"HH Sl - RL US"
     },
     "nextMoves":[]
   },
@@ -640,6 +642,7 @@
       "left leg forward traveling bear",
       "into left leg forward traveling bear",
       "right leg forward traveling bear",
+      "to bear",
       "into left leg crocodile crawl",
       "into right leg crocodile crawl",
       "into left side traveling baboon",
@@ -660,7 +663,7 @@
       "keyPhrase":"slide to",
       "direction":"left leg",
       "command":"underswitch tap",
-      "shorthand":"slide to LL USTap"
+      "shorthand":"Sl - LL USTap"
     },
     "nextMoves":[]
   },
@@ -675,7 +678,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"left leg",
       "command":"underswitch tap",
-      "shorthand":"HH slide to LL USTap"
+      "shorthand":"HH Sl - LL USTap"
     },
     "nextMoves":[]
   },
@@ -778,6 +781,7 @@
       "left leg forward traveling bear",
       "right leg forward traveling bear",
       "into right leg forward traveling bear",
+      "to bear",
       "into left leg crocodile crawl",
       "into right leg crocodile crawl",
       "into left side traveling baboon",
@@ -798,7 +802,7 @@
       "keyPhrase":"slide to",
       "direction":"right leg",
       "command":"underswitch tap",
-      "shorthand":"slide to RL USTap"
+      "shorthand":"Sl - RL USTap"
     },
     "nextMoves":[]
   },
@@ -813,7 +817,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"right leg",
       "command":"underswitch tap",
-      "shorthand":"HH slide to RL USTap"
+      "shorthand":"HH Sl - RL USTap"
     },
     "nextMoves":[]
   },
@@ -1158,7 +1162,7 @@
       "keyPhrase":"slide to",
       "direction":"left leg",
       "command":"side kickthrough",
-      "shorthand":"slide to LL SKT"
+      "shorthand":"Sl - LL SKT"
     },
     "nextMoves":[]
   },
@@ -1173,7 +1177,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"left leg",
       "command":"side kickthrough",
-      "shorthand":"HH slide to LL SKT"
+      "shorthand":"HH Sl - LL SKT"
     },
     "nextMoves":[]
   },
@@ -1297,7 +1301,7 @@
       "keyPhrase":"slide to",
       "direction":"right leg",
       "command":"side kickthrough",
-      "shorthand":"slide to RL SKT"
+      "shorthand":"Sl - RL SKT"
     },
     "nextMoves":[]
   },
@@ -1312,7 +1316,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"right leg",
       "command":"side kickthrough",
-      "shorthand":"HH slide to RL SKT"
+      "shorthand":"HH Sl - RL SKT"
     },
     "nextMoves":[]
   },
@@ -1801,7 +1805,7 @@
       "keyPhrase":"slide to",
       "direction":"left leg",
       "command":"scorpion switch",
-      "shorthand":"slide to LL SS"
+      "shorthand":"Sl - LL SS"
     },
     "nextMoves":[]
   },
@@ -1816,7 +1820,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"left leg",
       "command":"scorpion switch",
-      "shorthand":"HH slide to LL SS"
+      "shorthand":"HH Sl - LL SS"
     },
     "nextMoves":[]
   },
@@ -1937,7 +1941,7 @@
       "keyPhrase":"slide to",
       "direction":"right leg",
       "command":"scorpion switch",
-      "shorthand":"slide to RL SS"
+      "shorthand":"Sl - RL SS"
     },
     "nextMoves":[]
   },
@@ -1952,7 +1956,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"right leg",
       "command":"scorpion switch",
-      "shorthand":"HH slide to RL SS"
+      "shorthand":"HH Sl - RL SS"
     },
     "nextMoves":[]
   },

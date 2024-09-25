@@ -959,6 +959,7 @@
       "left leg forward traveling bear",
       "right leg forward traveling bear",
       "into right leg forward traveling bear",
+      "to bear",
       "into left leg crocodile crawl",
       "into right leg crocodile crawl",
       "into left side traveling baboon",
@@ -994,7 +995,7 @@
       "keyPhrase":"slide to",
       "direction":"left leg",
       "command":"spinning underswitch",
-      "shorthand":"slide to LL SUS"
+      "shorthand":"Sl - LL SUS"
     },
     "nextMoves":[]
   },
@@ -1009,7 +1010,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"left leg",
       "command":"spinning underswitch",
-      "shorthand":"HH slide to LL SUS"
+      "shorthand":"HH Sl - LL SUS"
     },
     "nextMoves":[]
   },
@@ -1085,6 +1086,7 @@
       "left leg forward traveling bear",
       "into left leg forward traveling bear",
       "right leg forward traveling bear",
+      "to bear",
       "into left leg crocodile crawl",
       "into right leg crocodile crawl",
       "into left side traveling baboon",
@@ -1120,7 +1122,7 @@
       "keyPhrase":"slide to",
       "direction":"right leg",
       "command":"spinning underswitch",
-      "shorthand":"slide to RL SUS"
+      "shorthand":"Sl - RL SUS"
     },
     "nextMoves":[]
   },
@@ -1135,7 +1137,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"right leg",
       "command":"spinning underswitch",
-      "shorthand":"HH slide to RL SUS"
+      "shorthand":"HH Sl - RL SUS"
     },
     "nextMoves":[]
   },
@@ -1180,7 +1182,7 @@
       "keyPhrase":"slide to",
       "direction":"left leg",
       "command":"spinning underswitch tap",
-      "shorthand":"slide to LL SUSTap"
+      "shorthand":"Sl - LL SUSTap"
     },
     "nextMoves":[]
   },
@@ -1195,7 +1197,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"left leg",
       "command":"spinning underswitch tap",
-      "shorthand":"HH slide to LL SUSTap"
+      "shorthand":"HH Sl - LL SUSTap"
     },
     "nextMoves":[]
   },
@@ -1240,7 +1242,7 @@
       "keyPhrase":"slide to",
       "direction":"right leg",
       "command":"spinning underswitch tap",
-      "shorthand":"slide to RL SUSTap"
+      "shorthand":"Sl - RL SUSTap"
     },
     "nextMoves":[]
   },
@@ -1255,7 +1257,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"right leg",
       "command":"spinning underswitch tap",
-      "shorthand":"HH slide to RL SUSTap"
+      "shorthand":"HH Sl - RL SUSTap"
     },
     "nextMoves":[]
   },
@@ -2231,7 +2233,7 @@
       "keyPhrase":"slide to",
       "direction":"left leg forward",
       "command":"traveling underswitch",
-      "shorthand": "slide to LL FTUS"
+      "shorthand": "Sl - LL FTUS"
     },
     "nextMoves":[]
   },
@@ -2246,7 +2248,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"left leg forward",
       "command":"traveling underswitch",
-      "shorthand": "HH slide to LL FTUS"
+      "shorthand": "HH Sl - LL FTUS"
     },
     "nextMoves":[]
   },
@@ -2343,7 +2345,7 @@
       "keyPhrase":"slide to",
       "direction":"right leg forward",
       "command":"traveling underswitch",
-      "shorthand": "slide to RL FTUS"
+      "shorthand": "Sl - RL FTUS"
     },
     "nextMoves":[]
   },
@@ -2358,7 +2360,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"right leg forward",
       "command":"traveling underswitch",
-      "shorthand": "HH slide to RL FTUS"
+      "shorthand": "HH Sl - RL FTUS"
     },
     "nextMoves":[]
   },
@@ -2455,7 +2457,7 @@
       "keyPhrase":"slide to",
       "direction":"left leg reverse",
       "command":"traveling underswitch",
-      "shorthand": "slide to LL RTUS"
+      "shorthand": "Sl - LL RTUS"
     },
     "nextMoves":[]
   },
@@ -2470,7 +2472,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"left leg reverse",
       "command":"traveling underswitch",
-      "shorthand": "HH slide to LL RTUS"
+      "shorthand": "HH Sl - LL RTUS"
     },
     "nextMoves":[]
   },
@@ -2567,7 +2569,7 @@
       "keyPhrase":"slide to",
       "direction":"right leg reverse",
       "command":"traveling underswitch",
-      "shorthand": "slide to RL RTUS"
+      "shorthand": "Sl - RL RTUS"
     },
     "nextMoves":[]
   },
@@ -2582,7 +2584,7 @@
       "keyPhrase":"high hip slide to",
       "direction":"right leg reverse",
       "command":"traveling underswitch",
-      "shorthand": "HH slide to RL RTUS"
+      "shorthand": "HH Sl - RL RTUS"
     },
     "nextMoves":[]
   },

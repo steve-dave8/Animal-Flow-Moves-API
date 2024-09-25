@@ -166,7 +166,7 @@
       "keyPhrase":null,
       "direction":"left leg forward",
       "command":"traveling bear",
-      "shorthand": "LL FTBear"
+      "shorthand": "LL FTBr"
     },
     "nextMoves":[]
   },
@@ -181,7 +181,7 @@
       "keyPhrase":"into",
       "direction":"left leg forward",
       "command":"traveling bear",
-      "shorthand": "- LL FTBear"
+      "shorthand": "- LL FTBr"
     },
     "nextMoves":[]
   },
@@ -196,7 +196,7 @@
       "keyPhrase":"slide to",
       "direction":"left leg forward",
       "command":"traveling bear",
-      "shorthand": "slide to LL FTBear"
+      "shorthand": "Sl - LL FTBr"
     },
     "nextMoves":[]
   },
@@ -211,7 +211,7 @@
       "keyPhrase":"pop back to",
       "direction":"left leg forward",
       "command":"traveling bear",
-      "shorthand": "PB - LL FTBear"
+      "shorthand": "PB - LL FTBr"
     },
     "nextMoves":[]
   },
@@ -226,7 +226,7 @@
       "keyPhrase":null,
       "direction":"right leg forward",
       "command":"traveling bear",
-      "shorthand": "RL FTBear"
+      "shorthand": "RL FTBr"
     },
     "nextMoves":[]
   },
@@ -241,7 +241,7 @@
       "keyPhrase":"into",
       "direction":"right leg forward",
       "command":"traveling bear",
-      "shorthand": "- RL FTBear"
+      "shorthand": "- RL FTBr"
     },
     "nextMoves":[]
   },
@@ -256,7 +256,7 @@
       "keyPhrase":"slide to",
       "direction":"right leg forward",
       "command":"traveling bear",
-      "shorthand": "slide to RL FTBear"
+      "shorthand": "Sl - RL FTBr"
     },
     "nextMoves":[]
   },
@@ -271,7 +271,22 @@
       "keyPhrase":"pop back to",
       "direction":"right leg forward",
       "command":"traveling bear",
-      "shorthand": "PB - RL FTBear"
+      "shorthand": "PB - RL FTBr"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"to bear",
+    "alias":"set static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"to",
+      "direction":null,
+      "command":"bear",
+      "shorthand": "- Br"
     },
     "nextMoves":[]
   },
