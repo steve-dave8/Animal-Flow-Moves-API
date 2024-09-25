@@ -202,6 +202,7 @@
     },
     "nextMoves":[
       "set static beast",
+      "pop switch precursor left leg scorpion reach",
       "left leg underswitch precursor static beast",
       "left leg underswitch tap precursor static beast",
       "left leg side kickthrough",
@@ -237,6 +238,21 @@
     "nextMoves":[]
   },
   {
+    "move":"pop switch",
+    "alias":"right leg scorpion reach precursor static beast",
+    "precursor":"left leg scorpion reach",
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"form specific stretches",
+    "callout":{
+      "keyPhrase":null,
+      "direction":null,
+      "command":"pop switch",
+      "shorthand":null
+    },
+    "nextMoves":[]
+  },
+  {
     "move":"right leg scorpion reach",
     "alias":null,
     "precursor":"static beast",
@@ -251,6 +267,7 @@
     },
     "nextMoves":[
       "set static beast",
+      "pop switch precursor right leg scorpion reach",
       "right leg underswitch precursor static beast",
       "right leg underswitch tap precursor static beast",
       "right leg side kickthrough",
@@ -286,6 +303,21 @@
     "nextMoves":[]
   },
   {
+    "move":"pop switch",
+    "alias":"left leg scorpion reach precursor static beast",
+    "precursor":"right leg scorpion reach",
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"form specific stretches",
+    "callout":{
+      "keyPhrase":null,
+      "direction":null,
+      "command":"pop switch",
+      "shorthand":null
+    },
+    "nextMoves":[]
+  },
+  {
     "move":"left leg beast reach",
     "alias":null,
     "precursor":null,
@@ -301,6 +333,7 @@
     "nextMoves":[
       "set deep ape",
       "return to loaded beast",
+      "pop switch precursor left leg beast reach",
       "left leg front step",
       "left leg front step through",
       "float to right leg front kickthrough",
@@ -323,6 +356,21 @@
     "nextMoves":[]
   },
   {
+    "move":"pop switch",
+    "alias":"right leg beast reach",
+    "precursor":"left leg beast reach",
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"form specific stretches",
+    "callout":{
+      "keyPhrase":null,
+      "direction":null,
+      "command":"pop switch",
+      "shorthand":null
+    },
+    "nextMoves":[]
+  },
+  {
     "move":"right leg beast reach",
     "alias":null,
     "precursor":null,
@@ -338,6 +386,7 @@
     "nextMoves":[
       "set deep ape",
       "return to loaded beast",
+      "pop switch precursor right leg beast reach",
       "right leg front step",
       "right leg front step through",
       "float to left leg front kickthrough",
@@ -356,6 +405,21 @@
       "direction":"right leg",
       "command":"beast reach",
       "shorthand":"- RL BR"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"pop switch",
+    "alias":"left leg beast reach",
+    "precursor":"right leg beast reach", 
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"form specific stretches",
+    "callout":{
+      "keyPhrase":null,
+      "direction":null,
+      "command":"pop switch",
+      "shorthand":null
     },
     "nextMoves":[]
   },

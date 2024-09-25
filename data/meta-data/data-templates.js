@@ -12,7 +12,7 @@ let moveTemplate =
     "keyPhrase":null,
     "direction":"",
     "command":"",
-    "shorthand": ""
+    "shorthand":""
   },
   "nextMoves":[]
 }
