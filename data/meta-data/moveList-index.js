@@ -100,8 +100,10 @@ right leg front step through
     into right leg front step through
 left leg front kickthrough
     to left leg front kickthrough
+    leap to left leg front kickthrough
 right leg front kickthrough
     to right leg front kickthrough
+    leap to right leg front kickthrough
 left leg scorpion switch
     to left leg scorpion switch
     slide to left leg scorpion switch
