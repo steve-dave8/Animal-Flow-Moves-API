@@ -10,7 +10,7 @@
       "keyPhrase":null,
       "direction":null,
       "command":"traveling frog",
-      "shorthand": "traveling frog"
+      "shorthand":null
     },
     "nextMoves":[
       "set static beast",
@@ -45,6 +45,7 @@
       "left side rotating ape",
       "right side rotating ape",
       "traveling frog",
+      "leap to frog",
       "forward traveling ape",
       "left side lateral traveling ape",
       "right side lateral traveling ape",
@@ -55,6 +56,21 @@
       "left side traveling baboon",
       "right side traveling baboon"
     ]
+  },
+  {
+    "move":"leap to frog",
+    "alias":"traveling frog",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"leap to",
+      "direction":null,
+      "command":"frog",
+      "shorthand": "Lp - frog"
+    },
+    "nextMoves":[]
   },
   {
     "move":"forward traveling ape",
@@ -89,6 +105,7 @@
       "left leg front sweep",
       "right leg front sweep",
       "traveling frog",
+      "leap to frog",
       "forward traveling ape"
     ]
   },
@@ -227,6 +244,7 @@
       "left side rotating ape",
       "right side rotating ape",
       "traveling frog",
+      "leap to frog",
       "forward traveling ape",
       "left side lateral traveling ape",
       "right side lateral traveling ape",
@@ -313,6 +331,7 @@
       "left side rotating ape",
       "right side rotating ape",
       "traveling frog",
+      "leap to frog",
       "forward traveling ape",
       "left side lateral traveling ape",
       "right side lateral traveling ape",
