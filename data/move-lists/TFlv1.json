@@ -47,6 +47,7 @@
       "traveling frog",
       "leap to frog",
       "forward traveling ape",
+      "leap to forward traveling ape",
       "left side lateral traveling ape",
       "right side lateral traveling ape",
       "left side lateral traveling ape version 2",
@@ -106,8 +107,24 @@
       "right leg front sweep",
       "traveling frog",
       "leap to frog",
-      "forward traveling ape"
+      "forward traveling ape",
+      "leap to forward traveling ape"
     ]
+  },
+  {
+    "move":"leap to forward traveling ape",
+    "alias":"forward traveling ape",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"leap to",
+      "direction":"forward",
+      "command":"traveling ape",
+      "shorthand": "Lp - FTA"
+    },
+    "nextMoves":[]
   },
   {
     "move":"left side lateral traveling ape",
@@ -246,6 +263,7 @@
       "traveling frog",
       "leap to frog",
       "forward traveling ape",
+      "leap to forward traveling ape",
       "left side lateral traveling ape",
       "right side lateral traveling ape",
       "left side lateral traveling ape version 2",
@@ -333,6 +351,7 @@
       "traveling frog",
       "leap to frog",
       "forward traveling ape",
+      "leap to forward traveling ape",
       "left side lateral traveling ape",
       "right side lateral traveling ape",
       "left side lateral traveling ape version 2",
