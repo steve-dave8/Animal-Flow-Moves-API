@@ -1698,21 +1698,6 @@
     "nextMoves":[]
   },
   {
-    "move":"leap to left leg front kickthrough",
-    "alias":"left leg front kickthrough",
-    "precursor":null,
-    "imgSrc":"./AF-move-images/placeholder.png",
-    "level":"1",
-    "component":"switches and transitions",
-    "callout":{
-      "keyPhrase":"leap to",
-      "direction":"left leg",
-      "command":"front kickthrough",
-      "shorthand":"Lp - LL FKT"
-    },
-    "nextMoves":[]
-  },
-  {
     "move":"right leg front kickthrough",
     "alias":null,
     "precursor":null,
@@ -1785,21 +1770,6 @@
       "direction":"right leg",
       "command":"front kickthrough",
       "shorthand":"- RL FKT"
-    },
-    "nextMoves":[]
-  },
-  {
-    "move":"leap to right leg front kickthrough",
-    "alias":"right leg front kickthrough",
-    "precursor":null,
-    "imgSrc":"./AF-move-images/placeholder.png",
-    "level":"1",
-    "component":"switches and transitions",
-    "callout":{
-      "keyPhrase":"leap to",
-      "direction":"right leg",
-      "command":"front kickthrough",
-      "shorthand":"Lp - RL FKT"
     },
     "nextMoves":[]
   },

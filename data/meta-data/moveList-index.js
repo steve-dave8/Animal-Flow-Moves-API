@@ -100,10 +100,8 @@ right leg front step through
     into right leg front step through
 left leg front kickthrough
     to left leg front kickthrough
-    leap to left leg front kickthrough
 right leg front kickthrough
     to right leg front kickthrough
-    leap to right leg front kickthrough
 left leg scorpion switch
     to left leg scorpion switch
     slide to left leg scorpion switch
@@ -166,6 +164,8 @@ left side pop out
 right side pop out
     into right side pop out
     to pop out (precursor: right side crocodile roll)
+leap to left leg front kickthrough (alias: left leg front kickthrough)
+leap to right leg front kickthrough (alias: right leg front kickthrough)
 
 >>>LEVEL 3<<<
 left leg jumping underswitch shift (alias: left leg jumping underswitch)
@@ -304,9 +304,7 @@ right side rotating ape
 >>>>>Traveling Forms
 >LEVEL 1<
 traveling frog
-    leap to frog
 forward traveling ape
-    leap to forward traveling ape
 left side lateral traveling ape (alias: set deep ape)
     into left side lateral traveling ape
     pop back to left side lateral traveling ape
@@ -386,6 +384,8 @@ left leg crocodile crawl
 right leg crocodile crawl
     into right leg crocodile crawl
     pop back to right leg crocodile crawl
+leap to frog (alias: traveling frog)
+leap to forward traveling ape (alias: forward traveling ape)
 
 >>>Level 3<<<
 left side traveling baboon

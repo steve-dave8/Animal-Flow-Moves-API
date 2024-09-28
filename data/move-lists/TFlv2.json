@@ -401,5 +401,35 @@
       "shorthand": "PB - RL CC"
     },
     "nextMoves":[]
+  },
+  {
+    "move":"leap to frog",
+    "alias":"traveling frog",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"leap to",
+      "direction":null,
+      "command":"frog",
+      "shorthand": "Lp - frog"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"leap to forward traveling ape",
+    "alias":"forward traveling ape",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"traveling forms",
+    "callout":{
+      "keyPhrase":"leap to",
+      "direction":"forward",
+      "command":"traveling ape",
+      "shorthand": "Lp - FTA"
+    },
+    "nextMoves":[]
   }
 ]
