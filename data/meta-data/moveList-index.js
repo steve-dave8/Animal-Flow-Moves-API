@@ -299,9 +299,11 @@ jump to right leg reverse traveling side kickthrough (alias: right leg side kick
 left side rotating ape
     into left side rotating ape
     pop to left side rotating ape
+    leap to left side rotating ape
 right side rotating ape
     into right side rotating ape
     pop to right side rotating ape
+    leap to right side rotating ape
 
 >>>>>Traveling Forms
 >LEVEL 1<

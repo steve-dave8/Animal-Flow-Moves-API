@@ -2734,7 +2734,9 @@
       "left leg front sweep",
       "right leg front sweep",
       "left side rotating ape",
+      "leap to left side rotating ape",
       "right side rotating ape",
+      "leap to right side rotating ape",
       "traveling frog",
       "forward traveling ape",
       "left side lateral traveling ape",
@@ -2780,6 +2782,21 @@
     "nextMoves":[]
   },
   {
+    "move":"leap to left side rotating ape",
+    "alias":"left side rotating ape",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"leap to",
+      "direction":"left side",
+      "command":"rotating ape",
+      "shorthand": "Lp - LS RA"
+    },
+    "nextMoves":[]
+  },
+  {
     "move":"right side rotating ape",
     "alias":null,
     "precursor":null,
@@ -2820,7 +2837,9 @@
       "left leg front sweep",
       "right leg front sweep",
       "left side rotating ape",
+      "leap to left side rotating ape",
       "right side rotating ape",
+      "leap to right side rotating ape",
       "traveling frog",
       "forward traveling ape",
       "left side lateral traveling ape",
@@ -2862,6 +2881,21 @@
       "direction":"right side",
       "command":"rotating ape",
       "shorthand": "pop to RS RA"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"leap to right side rotating ape",
+    "alias":"right side rotating ape",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"3",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"leap to",
+      "direction":"right side",
+      "command":"rotating ape",
+      "shorthand": "Lp - RS RA"
     },
     "nextMoves":[]
   }
