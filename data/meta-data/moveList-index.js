@@ -137,11 +137,13 @@ left leg scorpion sweep
     high hip slide to left leg scorpion sweep
     into left leg scorpion sweep
     pop back to left leg scorpion sweep
+    leap to left leg scorpion sweep
 right leg scorpion sweep
     slide to right leg scorpion sweep
     high hip slide to right leg scorpion sweep
     into right leg scorpion sweep
     pop back to right leg scorpion sweep
+    leap to right leg scorpion sweep
 left side crocodile roll
     into left side crocodile roll
 pop back to left side crocodile roll

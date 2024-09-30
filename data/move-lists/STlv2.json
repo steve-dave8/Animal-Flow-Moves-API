@@ -21,7 +21,9 @@
       "left leg reaching underswitch tap",
       "right leg reaching underswitch tap",
       "left leg scorpion sweep",
+      "leap to left leg scorpion sweep",
       "right leg scorpion sweep",
+      "leap to right leg scorpion sweep",
       "left leg roll through",
       "right leg roll through",
       "leap to left leg front kickthrough",
@@ -89,7 +91,9 @@
       "left leg reaching underswitch tap",
       "right leg reaching underswitch tap",
       "left leg scorpion sweep",
+      "leap to left leg scorpion sweep",
       "right leg scorpion sweep",
+      "leap to right leg scorpion sweep",
       "left leg roll through",
       "right leg roll through",
       "leap to left leg front kickthrough",
@@ -365,7 +369,9 @@
       "left leg reaching underswitch tap",
       "right leg reaching underswitch tap",
       "left leg scorpion sweep",
+      "leap to left leg scorpion sweep",
       "right leg scorpion sweep",
+      "leap to right leg scorpion sweep",
       "left leg roll through",
       "right leg roll through",
       "leap to left leg front kickthrough",
@@ -457,6 +463,21 @@
     "nextMoves":[]
   },
   {
+    "move":"leap to left leg scorpion sweep",
+    "alias":"left leg scorpion sweep",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"leap to",
+      "direction":"left leg",
+      "command":"scorpion sweep",
+      "shorthand":"Lp - LL SSweep"
+    },
+    "nextMoves":[]
+  },
+  {
     "move":"right leg scorpion sweep",
     "alias":null,
     "precursor":null,
@@ -480,7 +501,9 @@
       "left leg reaching underswitch tap",
       "right leg reaching underswitch tap",
       "left leg scorpion sweep",
+      "leap to left leg scorpion sweep",
       "right leg scorpion sweep",
+      "leap to right leg scorpion sweep",
       "left leg roll through",
       "right leg roll through",
       "leap to left leg front kickthrough",
@@ -568,6 +591,21 @@
       "direction":"right leg",
       "command":"scorpion sweep",
       "shorthand":"PB - RL SSweep"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"leap to right leg scorpion sweep",
+    "alias":"right leg scorpion sweep",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"leap to",
+      "direction":"right leg",
+      "command":"scorpion sweep",
+      "shorthand":"Lp - RL SSweep"
     },
     "nextMoves":[]
   },
@@ -1038,7 +1076,9 @@
       "left leg reaching underswitch tap",
       "right leg reaching underswitch tap",
       "left leg scorpion sweep",
+      "leap to left leg scorpion sweep",
       "right leg scorpion sweep",
+      "leap to right leg scorpion sweep",
       "left leg roll through",
       "right leg roll through",
       "leap to left leg front kickthrough",
@@ -1130,7 +1170,9 @@
       "left leg reaching underswitch tap",
       "right leg reaching underswitch tap",
       "left leg scorpion sweep",
+      "leap to left leg scorpion sweep",
       "right leg scorpion sweep",
+      "leap to right leg scorpion sweep",
       "left leg roll through",
       "right leg roll through",
       "leap to left leg front kickthrough",
