@@ -70,10 +70,10 @@ right leg underswitch tap (precursor: static beast)
     into right leg underswitch tap (precursor: static beast)
 left leg jumping underswitch
     into left leg jumping underswitch
-right leg jumping underswitch
-    into right leg jumping underswitch
 left leg jumping underswitch tap
     into left leg jumping underswitch tap
+right leg jumping underswitch
+    into right leg jumping underswitch
 right leg jumping underswitch tap
     into right leg jumping underswitch tap
 left leg side kickthrough
@@ -126,10 +126,10 @@ right leg underswitch to ape
     into right leg underswitch to ape
 left leg reaching underswitch
     to left leg reaching underswitch
-right leg reaching underswitch
-    to right leg reaching underswitch
 left leg reaching underswitch tap (alias: left leg underswitch tap precursor static beast)
     to left leg reaching underswitch tap (alias: left leg underswitch tap precursor static beast)
+right leg reaching underswitch
+    to right leg reaching underswitch
 right leg reaching underswitch tap (alias: right leg underswitch tap precursor static beast)
     to right leg reaching underswitch tap (alias: right leg underswitch tap precursor static beast)
 left leg scorpion sweep
@@ -202,10 +202,10 @@ right leg reverse reaching underswitch tap (alias: right leg underswitch tap pre
     to right leg reverse reaching underswitch tap (alias: right leg underswitch tap precursor static beast)
 left leg high hip reaching underswitch
     to left leg high hip reaching underswitch
-right leg high hip reaching underswitch 
-    to right leg high hip reaching underswitch
 left leg high hip reaching underswitch tap (alias: left leg underswitch tap precursor static beast)
     to left leg high hip reaching underswitch tap (alias: left leg underswitch tap precursor static beast)
+right leg high hip reaching underswitch 
+    to right leg high hip reaching underswitch
 right leg high hip reaching underswitch tap (alias: right leg underswitch tap precursor static beast)
     to right leg high hip reaching underswitch tap (alias: right leg underswitch tap precursor static beast)
 left leg spinning underswitch

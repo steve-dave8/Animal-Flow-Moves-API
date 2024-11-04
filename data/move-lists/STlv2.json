@@ -217,6 +217,36 @@
     "nextMoves":[]
   },
   {
+    "move":"left leg reaching underswitch tap",
+    "alias":"left leg underswitch tap precursor static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg",
+      "command":"reaching underswitch tap",
+      "shorthand":"LL RUSTap"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"to left leg reaching underswitch tap",
+    "alias":"left leg underswitch tap precursor static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"2",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"to",
+      "direction":"left leg",
+      "command":"reaching underswitch tap",
+      "shorthand":"- LL RUSTap"
+    },
+    "nextMoves":[]
+  },
+  {
     "move":"right leg reaching underswitch",
     "alias":null,
     "precursor":null,
@@ -286,36 +316,6 @@
       "direction":"right leg",
       "command":"reaching underswitch",
       "shorthand":"- RL RUS"
-    },
-    "nextMoves":[]
-  },
-  {
-    "move":"left leg reaching underswitch tap",
-    "alias":"left leg underswitch tap precursor static beast",
-    "precursor":null,
-    "imgSrc":"./AF-move-images/placeholder.png",
-    "level":"2",
-    "component":"switches and transitions",
-    "callout":{
-      "keyPhrase":null,
-      "direction":"left leg",
-      "command":"reaching underswitch tap",
-      "shorthand":"LL RUSTap"
-    },
-    "nextMoves":[]
-  },
-  {
-    "move":"to left leg reaching underswitch tap",
-    "alias":"left leg underswitch tap precursor static beast",
-    "precursor":null,
-    "imgSrc":"./AF-move-images/placeholder.png",
-    "level":"2",
-    "component":"switches and transitions",
-    "callout":{
-      "keyPhrase":"to",
-      "direction":"left leg",
-      "command":"reaching underswitch tap",
-      "shorthand":"- LL RUSTap"
     },
     "nextMoves":[]
   },

@@ -940,6 +940,36 @@
     "nextMoves":[]
   },
   {
+    "move":"left leg jumping underswitch tap",
+    "alias":"right leg underswitch tap precursor static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":null,
+      "direction":"left leg",
+      "command":"jumping underswitch tap",
+      "shorthand":"LL JUSTap"
+    },
+    "nextMoves":[]
+  },
+  {
+    "move":"into left leg jumping underswitch tap",
+    "alias":"right leg underswitch tap precursor static beast",
+    "precursor":null,
+    "imgSrc":"./AF-move-images/placeholder.png",
+    "level":"1",
+    "component":"switches and transitions",
+    "callout":{
+      "keyPhrase":"into",
+      "direction":"left leg",
+      "command":"jumping underswitch tap",
+      "shorthand":"- LL JUSTap"
+    },
+    "nextMoves":[]
+  },
+  {
     "move":"right leg jumping underswitch",
     "alias":null,
     "precursor":null,
@@ -1024,36 +1054,6 @@
       "direction":"right leg",
       "command":"jumping underswitch",
       "shorthand":"- RL JUS"
-    },
-    "nextMoves":[]
-  },
-  {
-    "move":"left leg jumping underswitch tap",
-    "alias":"right leg underswitch tap precursor static beast",
-    "precursor":null,
-    "imgSrc":"./AF-move-images/placeholder.png",
-    "level":"1",
-    "component":"switches and transitions",
-    "callout":{
-      "keyPhrase":null,
-      "direction":"left leg",
-      "command":"jumping underswitch tap",
-      "shorthand":"LL JUSTap"
-    },
-    "nextMoves":[]
-  },
-  {
-    "move":"into left leg jumping underswitch tap",
-    "alias":"right leg underswitch tap precursor static beast",
-    "precursor":null,
-    "imgSrc":"./AF-move-images/placeholder.png",
-    "level":"1",
-    "component":"switches and transitions",
-    "callout":{
-      "keyPhrase":"into",
-      "direction":"left leg",
-      "command":"jumping underswitch tap",
-      "shorthand":"- LL JUSTap"
     },
     "nextMoves":[]
   },
